@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>LibreAccessibility · Workshop A with dark footer</title>
+<title>LibreAccessibility — Open source accessibility, warm community</title>
+<meta name="description" content="We build free software with disabled people and their organisations to make technology work better for everyone.">
+<link rel="canonical" href="https://libreaccessibility.org/">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="css/footer-1c.css">
 <link rel="stylesheet" href="css/mobile-nav.css">
@@ -73,7 +75,7 @@ h1,h2,h3,p,ul,ol{margin:0}
       </div>
       <div style="background:#C9E9BB;padding:2.5rem;display:flex;flex-direction:column;gap:1rem;align-items:flex-start">
         <h2 style="font-size:2rem;line-height:1.1;font-weight:800">I want to help</h2>
-        <p style="max-width:30rem">Help us make software more accessible. We have two volunteer roles open, and you can also <a href="donate.html">donate</a> to support our projects.</p>
+        <p style="max-width:30rem">Help us make software more accessible. We have two volunteer roles open. You can also read about <a href="donate.html">funding the work</a>.</p>
         <a href="jobs.html" style="margin-top:auto;background:#26302A;color:#fff;text-decoration:none;font-weight:700;padding:.875rem 1.5rem;border-radius:999px" style-hover="background:#2C6A33;color:#fff">See volunteer roles</a>
       </div>
     </div>
@@ -87,7 +89,7 @@ h1,h2,h3,p,ul,ol{margin:0}
       <li style="background:#fff;border-radius:1.25rem;padding:2rem;display:flex;flex-wrap:wrap;gap:1.5rem 2.5rem">
         <div style="flex:1 1 24rem">
           <p style="font-weight:700;color:#2C6A33">RoboDK VoiceAccess</p>
-          <h3 style="font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800;margin:.25rem 0 .75rem;text-wrap:balance"><a href="#project" onClick="{{ goProject }}" style="text-decoration-thickness:.06em">Programming a robot shouldn't need a mouse.</a></h3>
+          <h3 style="font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800;margin:.25rem 0 .75rem;text-wrap:balance"><a href="voiceaccess.html" style="text-decoration-thickness:.06em">Programming a robot shouldn't need a mouse.</a></h3>
           <p>Voice control for RoboDK, so you can program a robot without a mouse.</p>
         </div>
         <div class="project-details" style="flex:1 1 16rem">
@@ -123,66 +125,7 @@ h1,h2,h3,p,ul,ol{margin:0}
 </div>
 </sc-if>
 
-<sc-if value="{{ isProject }}" hint-placeholder-val="{{ false }}">
-<div data-screen-label="Project page">
-  <section style="max-width:72rem;margin:0 auto;padding:1rem 1.5rem 0">
-    <div style="background:#C9E9BB;border-radius:1.75rem;padding:clamp(1.5rem,5vw,3.5rem)">
-      <p><a href="projects.html">Projects</a> <span aria-hidden="true">/</span> RoboDK VoiceAccess</p>
-      <h1 style="font-size:clamp(2.25rem,6.5vw,4.5rem);line-height:1.02;font-weight:800;letter-spacing:-.02em;margin:1.5rem 0 1.25rem;max-width:52rem;text-wrap:balance">Programming a robot shouldn't need a mouse.</h1>
-      <p style="font-size:1.375rem;max-width:40rem">RoboDK VoiceAccess is voice control for RoboDK, so you can program a robot without a mouse.</p>
-      <nav aria-label="On this page" style="margin-top:2rem">
-        <ul style="list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:.5rem">
-          <li><a href="#q1" style="display:inline-block;background:#EDF6E8;border-radius:999px;padding:.375rem 1rem;text-decoration:none;font-weight:600">What gets in the way?</a></li>
-          <li><a href="#q2" style="display:inline-block;background:#EDF6E8;border-radius:999px;padding:.375rem 1rem;text-decoration:none;font-weight:600">What are we building?</a></li>
-          <li><a href="#q3" style="display:inline-block;background:#EDF6E8;border-radius:999px;padding:.375rem 1rem;text-decoration:none;font-weight:600">Where does it stand?</a></li>
-          <li><a href="#q4" style="display:inline-block;background:#EDF6E8;border-radius:999px;padding:.375rem 1rem;text-decoration:none;font-weight:600">How can you help?</a></li>
-        </ul>
-      </nav>
-    </div>
-  </section>
 
-  <div style="max-width:72rem;margin:0 auto;padding:1rem 1.5rem 0">
-    <section id="q1" aria-labelledby="q1h" style="display:flex;flex-wrap:wrap;gap:1rem 3rem;padding:3rem 0;border-bottom:2px solid #C9E9BB">
-      <h2 id="q1h" style="flex:1 1 16rem;font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800">What gets in the way?</h2>
-      <div style="flex:2 1 26rem;display:flex;flex-direction:column;gap:1rem;max-width:42rem">
-        <p>RoboDK is software for simulating and programming industrial robots.</p>
-        <p style="border:2px dashed #2C6A33;border-radius:1rem;padding:1rem 1.25rem">To confirm: which tasks in RoboDK require a mouse today, described with the people who meet this barrier.</p>
-      </div>
-    </section>
-    <section id="q2" aria-labelledby="q2h" style="display:flex;flex-wrap:wrap;gap:1rem 3rem;padding:3rem 0;border-bottom:2px solid #C9E9BB">
-      <h2 id="q2h" style="flex:1 1 16rem;font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800">What are we building?</h2>
-      <div style="flex:2 1 26rem;display:flex;flex-direction:column;gap:1rem;max-width:42rem">
-        <p>Voice control for RoboDK, so you can program a robot without a mouse.</p>
-        <p>The code is open source at <a href="https://github.com/accesslibre">github.com/accesslibre</a>. Maintainer: <strong>mugiwarafx</strong>.</p>
-      </div>
-    </section>
-    <section id="q3" aria-labelledby="q3h" style="display:flex;flex-wrap:wrap;gap:1rem 3rem;padding:3rem 0;border-bottom:2px solid #C9E9BB">
-      <h2 id="q3h" style="flex:1 1 16rem;font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800">Where does it stand?</h2>
-      <div style="flex:2 1 26rem;display:flex;flex-direction:column;gap:1rem;max-width:42rem">
-        <p>We use three states: planned, prototype and in development.</p>
-        <p style="border:2px dashed #2C6A33;border-radius:1rem;padding:1rem 1.25rem">To confirm: the current state of this project, what works today and what comes next.</p>
-      </div>
-    </section>
-    <section id="q4" aria-labelledby="q4h" style="display:flex;flex-wrap:wrap;gap:1rem 3rem;padding:3rem 0">
-      <h2 id="q4h" style="flex:1 1 16rem;font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800">How can you help?</h2>
-      <div style="flex:2 1 26rem;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,16rem),1fr));gap:.75rem;max-width:48rem">
-        <div style="background:#fff;border-radius:1.25rem;padding:1.75rem;display:flex;flex-direction:column;gap:.75rem;align-items:flex-start">
-          <p style="font-weight:700;color:#2C6A33">Volunteer · Testing</p>
-          <h3 style="font-size:1.5rem;line-height:1.15;font-weight:800">Screen reader tester</h3>
-          <p>Test new releases with NVDA or JAWS and report what doesn't work.</p>
-          <p>To apply, write to <a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a>.</p>
-        </div>
-        <div style="background:#FFC7D8;border-radius:1.25rem;padding:1.75rem;display:flex;flex-direction:column;gap:.75rem;align-items:flex-start">
-          <p style="font-weight:700">I have a need</p>
-          <h3 style="font-size:1.5rem;line-height:1.15;font-weight:800">Do you meet this barrier yourself?</h3>
-          <p>Tell us what gets in your way. Your message stays private.</p>
-          <a href="request.html" style="margin-top:auto;background:#26302A;color:#fff;text-decoration:none;font-weight:700;padding:.75rem 1.25rem;border-radius:999px" style-hover="background:#2C6A33;color:#fff">Tell us privately</a>
-        </div>
-      </div>
-    </section>
-  </div>
-</div>
-</sc-if>
 </main>
 
 <footer class="site-footer footer-1c" id="footer">
@@ -192,7 +135,7 @@ h1,h2,h3,p,ul,ol{margin:0}
         <span class="flamingo-circle"><img src="assets/flamingo.svg" alt="" width="64" height="64"></span>
         <div>
           <p class="foot-name">libre<strong>accessibility</strong></p>
-          <p>LibreAccessibility is a nonprofit corporation registered in Iowa, USA. It is not yet a 501(c)(3) charity.</p>
+          <p>LibreAccessibility is a nonprofit initiative building free, open-source accessibility software.</p>
         </div>
       </div>
       <nav class="footer-links" aria-label="Footer">
@@ -202,6 +145,7 @@ h1,h2,h3,p,ul,ol{margin:0}
           <li><a href="about.html">About</a></li>
           <li><a href="transparency.html">Transparency</a></li>
           <li><a href="donate.html">Donate</a></li>
+          <li><a href="news.html">News</a></li>
         </ul>
       </nav>
     </div>
@@ -216,7 +160,7 @@ h1,h2,h3,p,ul,ol{margin:0}
     </nav>
       <p class="foot-email foot-email-desktop"><a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a></p>
     </div>
-    <p class="fine">Found a barrier on this site? <a href="mailto:contact@libreaccessibility.org">Tell us</a>. Content under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, code under AGPL-3.0. Flamingo by <a href="https://openmoji.org/">OpenMoji</a>, CC BY-SA 4.0.</p>
+    <p class="fine"><a href="accessibility.html">Accessibility</a> · <a href="sitemap.html">Site map</a>. Found a barrier on this site? <a href="mailto:contact@libreaccessibility.org">Tell us</a>. Content under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, code under AGPL-3.0. Flamingo by <a href="https://openmoji.org/">OpenMoji</a>, CC BY-SA 4.0.</p>
     <p class="foot-email foot-email-mobile"><a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a></p>
   </div>
 </footer>

@@ -4,6 +4,19 @@ import site from '../worker/libreaccessibility.js';
 import legacy from '../worker/legacy-redirect.js';
 import {migrationTarget} from '../shared/migration-routes.js';
 import {PUBLIC_LOCALES,NLLB_LOCALES} from '../shared/migration-locales.js';
+import {readFile} from 'node:fs/promises';
+
+test('built skip links remain on interior pages and nested 404 assets resolve at root',async()=>{
+  for (const page of ['about.html','accessibility.html','404.html']) {
+    const html=await readFile(new URL('../dist-libreaccessibility/'+page,import.meta.url),'utf8');
+    const documentURL='https://libreaccessibility.org/'+(page==='404.html'?'missing/deep/path/':page);
+    const base=html.match(/<base\s+href="([^"]+)"/)?.[1];
+    const skip=html.match(/<a class="skip" href="([^"]+)"/)[1];
+    assert.equal(new URL(skip,base?new URL(base,documentURL):documentURL).href,documentURL+'#main');
+    const style=html.match(/<link rel="stylesheet" href="([^"]*css\/site.css)"/)[1];
+    assert.equal(new URL(style,documentURL).pathname,'/css/site.css');
+  }
+});
 
 test('old routes, localized slugs and project details reach specific destinations',()=>{
   for (const [from,to] of Object.entries({
@@ -37,6 +50,11 @@ test('legacy form endpoints and POSTs do not forward private bodies to another o
   const r=await legacy.fetch(new Request('https://iatf.cc/api/request',{method:'POST',body:'private'}));
   assert.equal(r.status,410);assert.match((await r.json()).error,/has not been sent/);
   assert.equal((await legacy.fetch(new Request('https://iatf.cc/join/',{method:'POST'}))).status,405);
+});
+test('protocol-relative unknown paths cannot redirect to a third-party host',async()=>{
+  const r=await legacy.fetch(new Request('https://iatf.cc//outside.example/path?x=1'));
+  assert.equal(new URL(r.headers.get('location')).origin,'https://libreaccessibility.org');
+  assert.equal(new URL(r.headers.get('location')).pathname,'//outside.example/path');
 });
 test('www and known aliases redirect before any asset or API request',async()=>{
   const env={ASSETS:{fetch(){assert.fail('must redirect');}}};

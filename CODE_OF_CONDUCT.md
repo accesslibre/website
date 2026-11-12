@@ -29,12 +29,13 @@ up to do that work — especially people who rely on assistive technology.
 
 ## Reporting
 
-Reports go to <contact@iatf.cc>. Reports about accessibility barriers on the
-website itself go to <accessibility@iatf.cc>.
+Reports go to <contact@libreaccessibility.org>. Reports about accessibility
+barriers on the website can also be sent there.
 
-The current chair is the public point of contact for IATF and reviews
-reports. See [`/governance/`](https://iatf.cc/governance/) for the chair role
-and election rules.
+mugiwarafx currently coordinates the review of reports while the two
+board seats are open. The
+[project stewardship and transition policy](https://github.com/accesslibre/governance/blob/main/decisions/2026-003-project-stewardship-and-iatf-transition.md)
+records the move from IATF's former community chair model.
 
 ## Scope
 

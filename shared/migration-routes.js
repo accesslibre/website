@@ -48,7 +48,14 @@ export function migrationTarget(pathname) {
 }
 
 export function canonicalRedirect(url, target) {
-  const to = new URL(target || url.pathname, CANONICAL_ORIGIN);
+  const to = new URL(CANONICAL_ORIGIN);
+  if (target) {
+    const mapped = new URL(target,CANONICAL_ORIGIN);
+    to.pathname = mapped.pathname;
+    to.hash = mapped.hash;
+  } else {
+    to.pathname = url.pathname;
+  }
   to.search = url.search;
   return Response.redirect(to.toString(),308);
 }
