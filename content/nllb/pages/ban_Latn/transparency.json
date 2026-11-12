@@ -32,9 +32,9 @@
       "<strong>Kaputusan proyék.</strong> Kaputusan akseptasi, arsip, miwah penugasan malih kacatet pinaka isu utawi rilis ring genah panyimpenan sané relevan, miwah kaselehin ring pendaptaran publik. <a href=\"/projects/\">pendaptaran</a>. Ring Ring",
       "<strong>Nyuwun catetan.</strong> Rekam permintaan publik kasimpen ring organisasi IATF GitHub, ring situs web puniki, utawi makakalih. Rekam prasida nyimpulang, ngédit, utawi ngarestrukturisasi permintaan asli mangda kaperluan aksesibilitas prasida katureksain tanpa ngunggahang informasi pribadi sané nénten perlu. Keputusan sané nénten manut kasimpulang ring rekam publik rikala ipun nglalahin proyék utawi kaputusan tata kelola. Rekaman permintaan nénten kaindeks olih mesin pencari ring genah sané praktis. Cingak rekam: permintaan publikasi kapertama kantun katungkasin.",
       "<strong>Kodé magentos.</strong> Sabilang pauwahan kode marupa public commit ring repositori sané relevan. Cingak IATF <a href=\"{{contact.githubOrgUrl}}\">Organisasi GitHub</a>. Ring Ring",
-      "<strong>Pamargin pamréntahan mauwah.</strong> Pembaruan ring kaca pamréntahan kaloktah pinaka komitmen ring <code>iatf-website</code> Repository. nyingakin <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">ngaryanin riwayat</a> ring GitHub.",
+      "<strong>Pamargin pamréntahan mauwah.</strong> Pembaruan ring kaca pamréntahan kaloktah pinaka komitmen ring <code>website</code> Repository. nyingakin <a href=\"{{contact.githubOrgUrl}}/website/commits\">ngaryanin riwayat</a> ring GitHub.",
       "<strong>Biaya operasi.</strong> IATF nyaga prabéya operasi sané alit miwah nyatet prabea infrastruktur publik sané maulang-ulang.",
-      "<strong>Catetan koordinasi.</strong> Catetan saking tinjauan utawi kaputusan masikian ring GitHub pabligbagan ring genah panyimpenan sané relevan  nyingakin <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Pabligbagan</a> ring <code>iatf-website</code> genah panyimpenan."
+      "<strong>Catetan koordinasi.</strong> Catetan saking tinjauan utawi kaputusan masikian ring GitHub pabligbagan ring genah panyimpenan sané relevan  nyingakin <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Pabligbagan</a> ring <code>website</code> genah panyimpenan."
     ]
   },
   "operatingCosts": {

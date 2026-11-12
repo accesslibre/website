@@ -32,9 +32,9 @@
       "<strong>Kaputusan proyék.</strong> Kaputusan ditampa, arsip, sarta reassignment dirékam salaku isu atawa Kaluaran dina Repository relevan, sarta diringkeskeun dina pendaptaran publik. <a href=\"/projects/\">pendaptaran</a>. tapi",
       "<strong>Nyuhunkeun rékaman.</strong> Catetan pamundut publik disimpen di organisasi IATF GitHub, dina ramatloka ieu, atawa duanana. Catetan bisa nyimpulkeun, ngédit, atawa nyusun ulang pamundutan aslina ku kituna kabutuhan aksés bisa ditinjau tanpa ngungkabkeun inpormasi pribadi nu teu perlu. Kaputusan anu teu satuju diringkeskeun kana catetan publik lamun mangaruhan hiji proyék atawa kaputusan pamaréntahan. Catatan paménta dikaluarkeun tina indéks mesin pencari di mana téhnisna praktis. Témbongkeun catetan: paménta publikasi munggaran pending.",
       "<strong>Parobahan kode.</strong> Unggal parobahan kode mangrupa commit umum dina repository nu sasuai. <a href=\"{{contact.githubOrgUrl}}\">Organisasi GitHub</a>. tapi",
-      "<strong>Parobahan pamaréntahan.</strong> Pembaruan ka kaca governance dilacak salaku commits ka <code>iatf-website</code> Repository. Témbongkeun <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">sajarah commit</a> dina GitHub.",
+      "<strong>Parobahan pamaréntahan.</strong> Pembaruan ka kaca governance dilacak salaku commits ka <code>website</code> Repository. Témbongkeun <a href=\"{{contact.githubOrgUrl}}/website/commits\">sajarah commit</a> dina GitHub.",
       "<strong>Ongkos operasi.</strong> IATF ngajaga biaya operasional anu handap sareng ngarékam biaya infrastruktur umum anu berulang. Ti saprak 2022, biaya utama anu berulang nyaéta nami domain. Hosting parantos nganggo infrastruktur tingkat gratis atanapi biaya murah dimana mungkin. Tingali catetan biaya operasi di handap ieu.",
-      "<strong>Catetan koordinasi.</strong> Catetan tina sagala review koordinasi atawa kaputusan hirup di GitHub Diskusi dina Repository relevan  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusi</a> dina <code>iatf-website</code> gudang."
+      "<strong>Catetan koordinasi.</strong> Catetan tina sagala review koordinasi atawa kaputusan hirup di GitHub Diskusi dina Repository relevan  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusi</a> dina <code>website</code> gudang."
     ]
   },
   "operatingCosts": {

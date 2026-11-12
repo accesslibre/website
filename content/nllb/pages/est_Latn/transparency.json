@@ -32,9 +32,9 @@
       "<strong>Projekti otsused.</strong> Otsused aktsepteerimise, arhiveerimise ja ümberpaigutamise kohta registreeritakse asjaomases andmekogus väljaandmisena või vabastamisena ning need koondatakse avalikus registrisse. <a href=\"/projects/\">registrisse</a>Ma ei tea.",
       "<strong>Taotleme arhive.</strong> Avalike taotluste andmed on salvestatud IATF GitHub'i organisatsioonis, sellel veebilehel või mõlemal. Andmed võivad kokku võtta, redigeerida või ümberstruktureerida algset taotlust, nii et juurdepääsetavuse vajadust saab läbi vaadata ilma tarbetut isiklikku teavet paljastamata. Erimeelsuste otsused on kokku võetud avalikesse andmetesse, kui need mõjutavad projekti või juhtimisotsust. Taotluse andmed on välistatud otsingumootori indekseerimisest, kui see on tehniliselt praktiline. Vaadake andmeid: esimene avaldamise taotlus on ootel.",
       "<strong>Koodid muutuvad.</strong> Iga koodi muutmine on avalik kinnitus vastavas repozitoriumis. <a href=\"{{contact.githubOrgUrl}}\">GitHub organisatsioon</a>Ma ei tea.",
-      "<strong>Juhtimismuudatused.</strong> Juhtimislehekülje uuendusi jälgitakse kui kohustusi <code>IATFi veebileht</code> Vaadake <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Kirjutamise ajalugu</a> GitHubis.",
+      "<strong>Juhtimismuudatused.</strong> Juhtimislehekülje uuendusi jälgitakse kui kohustusi <code>IATFi veebileht</code> Vaadake <a href=\"{{contact.githubOrgUrl}}/website/commits\">Kirjutamise ajalugu</a> GitHubis.",
       "<strong>Tegevuskulud.</strong> IATF hoiab tegevuskulud madalal ja registreerib korduvate avaliku taristu kulud. Alates 2022. aastast on peamised korduvad kulud olnud domeeninimed. Hosting on võimalusel kasutanud tasuta taseme või madala hinnaga taristut.",
-      "<strong>Koordinaatorid.</strong> Iga koordineeritud läbivaatamise või otsuse märkused elavad GitHubis Arutelud vastava repozitoriumi kohta  vaata <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Läbirääkimised</a> Ühelt poolt <code>IATFi veebileht</code> andmebaas."
+      "<strong>Koordinaatorid.</strong> Iga koordineeritud läbivaatamise või otsuse märkused elavad GitHubis Arutelud vastava repozitoriumi kohta  vaata <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Läbirääkimised</a> Ühelt poolt <code>IATFi veebileht</code> andmebaas."
     ]
   },
   "operatingCosts": {

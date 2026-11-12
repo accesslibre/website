@@ -32,9 +32,9 @@
       "<strong>Lɔ̈ɔ̈i ë luɔɔi.</strong> Acceptance, archiving, and reassignment decisions are recorded as issues or releases in the relevant repository, and summarized in the public registry. View the public <a href=\"/projects/\">kɔɔc cë keek gɔ̈ɔ̈r</a>ye ke ?",
       "<strong>Aŋuɛ̈ɛ̈n ba kä cï gɔ̈t wïc.</strong> Public request records are stored in the IATF GitHub organization, on this website, or both. records may summarize, redact, or restructure the original request so the accessibility need can be reviewed without exposing unnecessary personal information. discord decisions are summarized into the public record when they affect a project or governance decision. Request records are excluded from search engine indexing where technically practical. View records: first publication request pending.",
       "<strong>Lööŋ cï kek geer aacï röt waar.</strong> Ajuiɛɛr ebɛ̈në ebën ee raan ëbɛ̈n ye gam në tɛ̈n yenë yen tɔ̈ɔ̈u thïn. <a href=\"{{contact.githubOrgUrl}}\">Akutnhom de GitHub</a>ye ke ?",
-      "<strong>Wɛ̈t de akuma acï rot waar.</strong> Lɔ̈ɔ̈i në wɛ̈t de akuma yic aye kuanycök ke ye kë cï gam tënë akutnhom de awata. <code>iatf-website</code> tɔ̈ɔ̈u. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Kuɔ̈ɔ̈n cï looi</a> në GitHub.",
+      "<strong>Wɛ̈t de akuma acï rot waar.</strong> Lɔ̈ɔ̈i në wɛ̈t de akuma yic aye kuanycök ke ye kë cï gam tënë akutnhom de awata. <code>website</code> tɔ̈ɔ̈u. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Kuɔ̈ɔ̈n cï looi</a> në GitHub.",
       "<strong>Kä ye kek luɔ̈ɔ̈i.</strong> IATF ee wëu tɔ̈ɔ̈u piny ku jɔl ya wëu ye kek bɛ̈n ya tääu në kä ye kek looi në ɣän kɔ̈k yiic.",
-      "<strong>Wël cï kek gɔ̈ɔ̈r.</strong> Kä cï kek gɔ̈ɔ̈r në kä cï kek kuanycök yiic aye tɔ̈ në GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Kä ye lueel</a> on thë <code>iatf-website</code> tɛ̈ɛ̈u."
+      "<strong>Wël cï kek gɔ̈ɔ̈r.</strong> Kä cï kek gɔ̈ɔ̈r në kä cï kek kuanycök yiic aye tɔ̈ në GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Kä ye lueel</a> on thë <code>website</code> tɛ̈ɛ̈u."
     ]
   },
   "operatingCosts": {

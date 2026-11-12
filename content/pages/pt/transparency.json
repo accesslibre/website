@@ -32,9 +32,9 @@
       "<strong>Decisões do projecto.</strong> As decisões de aceitação, arquivo e reatribuição são registadas como questões ou libertações no repositório relevante e resumidas no registo público. <a href=\"/projects/\">registo</a>- Não .",
       "<strong>Solicitar registos.</strong> Registros de solicitação pública são armazenados na organização GitHub da IATF, neste site, ou em ambos. Registos podem resumir, redigir ou reestruturar o pedido original para que a necessidade de acessibilidade possa ser revisada sem expor informações pessoais desnecessárias. As decisões de discórdia são resumidas no registro público quando afetam um projeto ou decisão de governança.",
       "<strong>Mudanças de código.</strong> Cada alteração de código é um compromisso público no repositório relevante. <a href=\"{{contact.githubOrgUrl}}\">Organização GitHub</a>- Não .",
-      "<strong>Mudanças na governação.</strong> As actualizações da página de governação são acompanhadas como compromissos para o <code>Página web do IATF</code> Repositório. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Histórico de Compromissos</a> no GitHub.",
+      "<strong>Mudanças na governação.</strong> As actualizações da página de governação são acompanhadas como compromissos para o <code>Página web do IATF</code> Repositório. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Histórico de Compromissos</a> no GitHub.",
       "<strong>Custos de exploração.</strong> A IATF mantém os custos operacionais baixos e registra as despesas recorrentes de infraestrutura pública.",
-      "<strong>Notas de coordenação.</strong> Notas de qualquer revisão ou decisão coordenada ao vivo no GitHub Discussões sobre o repositório relevante  visualizar <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discussões</a> sobre o <code>Página web do IATF</code> Repositório."
+      "<strong>Notas de coordenação.</strong> Notas de qualquer revisão ou decisão coordenada ao vivo no GitHub Discussões sobre o repositório relevante  visualizar <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discussões</a> sobre o <code>Página web do IATF</code> Repositório."
     ]
   },
   "operatingCosts": {

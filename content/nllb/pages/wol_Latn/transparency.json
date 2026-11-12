@@ -32,9 +32,9 @@
       "<strong>Jëfandikoo ay dogal ci liggéey bi.</strong> Jëf yi ñu nangu, archivage, ak réaffectation yi, ñu ngi leen di bind ni ay mbir yu am solo (issues) walla yu ñu bàyyi (releases) ci dencukaay bi mu jëm, te ñu ngi ko boole ci téereb askan wi (public registry). <a href=\"/projects/\">taxawaay</a>. moom",
       "<strong>Demal laaj ay téere.</strong> Jëfandikoo yu ñu mënul a gis, ñu ngi ko denc ci mbootaayu GitHub bu IATF, ci web bii, walla ci ñoom ñaar yépp. Jëffandikoo yi man nañoo tekki, soppi, walla soppi njàngat bu njëkk bi, ngir mën a seet soxla yi am ci wàllu wàll wi, te bañ a feeñal xibaar yu amul njariñ.",
       "<strong>Jëfandikukat yi soppi nañu.</strong> Bés bu nekk bu ñu soppi mbind mi, dees na ko bind ci dencukaay bi mu jëm. <a href=\"{{contact.githubOrgUrl}}\">Mbootaayu GitHub</a>. moom",
-      "<strong>Soppi nguur gi.</strong> Yëngu-yëngu yi ci xët wi ci nguur gi, dañu koy topp ni ñu koy def ci jëfekaay bi. <code>iatf-website</code> Jëfandikukat yi <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">taariix bu bind</a> ci GitHub.",
+      "<strong>Soppi nguur gi.</strong> Yëngu-yëngu yi ci xët wi ci nguur gi, dañu koy topp ni ñu koy def ci jëfekaay bi. <code>website</code> Jëfandikukat yi <a href=\"{{contact.githubOrgUrl}}/website/commits\">taariix bu bind</a> ci GitHub.",
       "<strong>Jëfekaay yu jëfandikoo.</strong> Jëfandikukat bii di IATF dafay sàmm jëfandikoo yu néew yi ci liggéey bi, te dafay denc li ñuy def ci jumtukaay yu ëpp doole yi.",
-      "<strong>Jëfandikukat yi.</strong> Jëfandikukat yi ci bépp seetlu walla dogal bu ñu jokkoo nekk ci GitHub Waxtaan ci dencukaay bu am solo bi  xool <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Waxtaan yi</a> ci <code>iatf-website</code> dencukaay bi."
+      "<strong>Jëfandikukat yi.</strong> Jëfandikukat yi ci bépp seetlu walla dogal bu ñu jokkoo nekk ci GitHub Waxtaan ci dencukaay bu am solo bi  xool <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Waxtaan yi</a> ci <code>website</code> dencukaay bi."
     ]
   },
   "operatingCosts": {

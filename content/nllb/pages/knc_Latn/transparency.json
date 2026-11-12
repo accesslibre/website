@@ -32,9 +32,9 @@
       "<strong>Shawari cidabe.</strong> Ka'ida'a kasatkata, archive-a, kuru waltə-a gənatə'a sandiya ruwotə kəla lamarra au hawarra'a ro suro naptəram tawatkatabe lan, kuru suro kakkadi cidaye dən fasaltin. <a href=\"/projects/\">daftǝram</a>Kǝndodǝ .",
       "<strong>Firtәwa ro kalakkәna.</strong> Bayanna amsobe rowatadə suro cidaram IATF GitHubben, website adən, au sandi indisoyen kasatkata. Bayanna adə waneye sumoyin, gənatəyin, au waltə bayanna burosalakbedəga waltə fasaltin futu məradətəna kuru bayanna kəlanzabe ngəlaro fəlejin ba ro. Shawari gəratəgəbedə suro bayanna jamabe ro kasatkatə sa sandiye cidaram au shawaria kərmaibe fəlezayinno. Bayannadə search engine indexing lan bowotəyin sa nzundu nzundube faidatəro waljiya. View records: first publication request pending.",
       "<strong>Kaida dә faltәna.</strong> Faltǝdo kaidabe woson baditǝdǝ shima jamaro walzǝnama suro naptǝbe taganasbe ladǝn. <a href=\"{{contact.githubOrgUrl}}\">Kǝndaram GitHubbe</a>Kǝndodǝ .",
-      "<strong>Faltǝ gomnatibedǝ faltin.</strong> Futu hawarra kәla kәrmaibe dәga kәnәngatәgәna dә, futu kәlanzәga sәdәna lan kara. <code>iatf-website</code> Repository dǝ. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">hawar kǝnǝngabe</a> suro GitHub yen.",
+      "<strong>Faltǝ gomnatibedǝ faltin.</strong> Futu hawarra kәla kәrmaibe dәga kәnәngatәgәna dә, futu kәlanzәga sәdәna lan kara. <code>website</code> Repository dǝ. <a href=\"{{contact.githubOrgUrl}}/website/commits\">hawar kǝnǝngabe</a> suro GitHub yen.",
       "<strong>Karewa faidatәbe dә.</strong> IATFye kungəna cidabe-a kungəna cidabedə-a rowotəyin. 2022 lan, kungəna zaumaro faidatainma sandima su domainbewo.",
-      "<strong>Notǝwa kalkalzǝgǝbe.</strong> Notes from any coordinated review or decision live in GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Kәla lamar shimadәyen</a> kǝla <code>iatf-website</code> karewa gәnatәbe."
+      "<strong>Notǝwa kalkalzǝgǝbe.</strong> Notes from any coordinated review or decision live in GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Kәla lamar shimadәyen</a> kǝla <code>website</code> karewa gәnatәbe."
     ]
   },
   "operatingCosts": {

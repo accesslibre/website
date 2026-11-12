@@ -32,9 +32,9 @@
       "<strong>Zvisarudzo zvepurojekiti.</strong> Kugamuchira, kuchengeta, uye kugoverazve zvisarudzo zvinonyorwa semibvunzo kana kusunungurwa munzvimbo yakakodzera yekuchengetera, uye inopfupikiswa mubhuku revanhu. <a href=\"/projects/\">rejista</a>Ndizvozvo .",
       "<strong>Kumbira zvinyorwa.</strong> Public chikumbiro zvinyorwa zvinochengeterwa muna IATF GitHub sangano, website iyi, kana zvose. Records anogona muchidimbu, redact, kana restructure yepakutanga chikumbiro saka accessibility kudiwa inogona kudzokororwa pasina kufumura zvisingakoshi pachedu mashoko. kusanzwisisana zvisarudzo vanopfupikiswa kupinda paruzhinji chinyorwa pavanenge kukanganisa chirongwa kana utongi chisarudzo. Chikumbiro zvinyorwa vari kunze kutsvaka injini indexing apo zvazviri. View zvinyorwa: rokutanga bhuku chikumbiro pending.",
       "<strong>Gwaro rinoshanduka.</strong> Shanduko yega yega yekodhi inogamuchirwa pachena pane inoenderana repository. Wona iyo IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub sangano</a>Ndizvozvo .",
-      "<strong>Kutonga kunochinja.</strong> Kuvandudzwa kwepeji rekutonga kunoongororwa sezvibvumirano ku <code>iatf-webhusaiti</code> Kuona repository. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">bvumidza nhoroondo</a> paGitHub.",
+      "<strong>Kutonga kunochinja.</strong> Kuvandudzwa kwepeji rekutonga kunoongororwa sezvibvumirano ku <code>iatf-webhusaiti</code> Kuona repository. <a href=\"{{contact.githubOrgUrl}}/website/commits\">bvumidza nhoroondo</a> paGitHub.",
       "<strong>Mari yokushandisa.</strong> IATF inochengetedza mari yekushandisa yakaderera uye inorekodha mari inodzokororwa yezvivakwa zveveruzhinji.",
-      "<strong>Zvinyorwa zvokuronga.</strong> Zvinyorwa kubva kune chero kuongororwa kwakarongeka kana sarudzo zvinorarama muGitHub Kukurukurirana pane rakakodzera repository  kuona <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Kurukurirano</a> pamusoro <code>iatf-webhusaiti</code> nzvimbo yokuchengetera zvinhu."
+      "<strong>Zvinyorwa zvokuronga.</strong> Zvinyorwa kubva kune chero kuongororwa kwakarongeka kana sarudzo zvinorarama muGitHub Kukurukurirana pane rakakodzera repository  kuona <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Kurukurirano</a> pamusoro <code>iatf-webhusaiti</code> nzvimbo yokuchengetera zvinhu."
     ]
   },
   "operatingCosts": {

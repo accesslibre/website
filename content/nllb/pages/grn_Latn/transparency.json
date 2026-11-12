@@ -32,9 +32,9 @@
       "<strong>Proyecto rehegua decisión.</strong> Umi decisión de aceptación, archivo ha reasignación ojehai umi mba'e oje'éva térã oñeguenohẽva archivo relevante-pe, ha oñembyaty registro público-pe. <a href=\"/projects/\">kuatiahaipyre</a>¿ Reikuaápa mbaʼépa heʼi?",
       "<strong>Ojerure kuatiakuéra.</strong> Umi mba'e ojejeruréva opavavépe oñeñongatu IATF GitHub ñembyatýpe, ko ñanduti rendápe, térã mokõivépe. Umi jehaipy ikatu ombopapapy, omohenda térã omohendajey pe jejerure ypy ikatu hag̃uáicha oñehesa'ỹijo tekorosãrã oikotevẽva oikuaauka'ỹre marandu ñemigua oikotevẽ'ỹva.",
       "<strong>Código oñemoambue.</strong> Opaite código ñemoambue ha'e peteĩ compromiso público repositorio relevante-pe. Ehecha IATF <a href=\"{{contact.githubOrgUrl}}\">Tetãvore Joapykuéra</a>¿ Reikuaápa mbaʼépa heʼi?",
-      "<strong>Ñemoambue gobernación-pe.</strong> Ñembopyahu página gobernación-pe ojehapykueho omoañetévo <code>IATF-pegua página web</code> Repositorio. Ehecha <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">embohekopyahu tembiasakue</a> GitHub-pe.",
+      "<strong>Ñemoambue gobernación-pe.</strong> Ñembopyahu página gobernación-pe ojehapykueho omoañetévo <code>IATF-pegua página web</code> Repositorio. Ehecha <a href=\"{{contact.githubOrgUrl}}/website/commits\">embohekopyahu tembiasakue</a> GitHub-pe.",
       "<strong>Gastos operativos rehegua.</strong> IATF omboyke umi gasto operativo ha ohai umi gasto infraestructura pública reheguáva. Ary 2022 guive, umi gasto principal ojeheróva ha'e va'ekue umi nombre de dominio. Hosting oipuru infraestructura de nivel libre térã costo sa'ivéva ikatúramo. Ehecha costos operativos registro ko'ápe.",
-      "<strong>Coordinación rehegua nota.</strong> Nota oimeraẽ revisión térã decisión coordinada oikovéva GitHub-pe Discusiones sobre el repositorio relevante  vista <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Ñomongeta</a> rehegua <code>IATF-pegua página web</code> Repositorio-kuéra."
+      "<strong>Coordinación rehegua nota.</strong> Nota oimeraẽ revisión térã decisión coordinada oikovéva GitHub-pe Discusiones sobre el repositorio relevante  vista <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Ñomongeta</a> rehegua <code>IATF-pegua página web</code> Repositorio-kuéra."
     ]
   },
   "operatingCosts": {

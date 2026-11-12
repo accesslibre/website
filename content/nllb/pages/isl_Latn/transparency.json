@@ -32,9 +32,9 @@
       "<strong>Ákvarðanir um verkefni.</strong> Ákvarðanir um samþykki, skjalasöfnun og endurupptöku eru skráðar sem útgáfur eða útgávur í viðeigandi geymslu og samantekt í opinberri skráningu. <a href=\"/projects/\">skráning</a>Ég veit ūađ ekki.",
       "<strong>Óska eftir gögnum.</strong> Opinber fyrirspurn skrár eru geymd í IATF GitHub stofnun, á þessari vefsíðu, eða bæði. Skrár geta samantekt, redact, eða endurskipuleggja upprunalega beiðni þannig að aðgengi þörf er hægt að endurskoða án þess að birta óþarfa persónulegar upplýsingar. Ósamræmi ákvarðanir eru samantekin í opinberum skrá þegar þeir hafa áhrif á verkefni eða stjórnsýslu ákvörðun.",
       "<strong>Lögin breytast.</strong> Hver kóðabreyting er opinbera skuldbinding á viðkomandi geymslu. <a href=\"{{contact.githubOrgUrl}}\">GitHub samtökin</a>Ég veit ūađ ekki.",
-      "<strong>Stjórnunarbreytingar.</strong> Uppfærslur á stjórnsýslu síðu eru rekin eins og skuldbindur til <code>heimasíða IATF</code> Skjalasafn. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">framkvæmdarsögu</a> á GitHub.",
+      "<strong>Stjórnunarbreytingar.</strong> Uppfærslur á stjórnsýslu síðu eru rekin eins og skuldbindur til <code>heimasíða IATF</code> Skjalasafn. <a href=\"{{contact.githubOrgUrl}}/website/commits\">framkvæmdarsögu</a> á GitHub.",
       "<strong>Rekstrarkostnaður.</strong> IATF heldur rekstrarkostnaði lágum og skráir endurtekna kostnað við opinber innviði.",
-      "<strong>Samhæfingar athugasemdir.</strong> Athugasemdir frá samræmdum endurskoðun eða ákvörðun lifa á GitHub Umræður um viðkomandi geymslu  skoðun <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Umræður</a> á <code>heimasíða IATF</code> geymsla."
+      "<strong>Samhæfingar athugasemdir.</strong> Athugasemdir frá samræmdum endurskoðun eða ákvörðun lifa á GitHub Umræður um viðkomandi geymslu  skoðun <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Umræður</a> á <code>heimasíða IATF</code> geymsla."
     ]
   },
   "operatingCosts": {

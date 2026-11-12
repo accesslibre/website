@@ -32,9 +32,9 @@
       "<strong>Hankkeita koskevat päätökset.</strong> Hyväksyntä-, arkistointi- ja uudelleensijoittamispäätökset kirjataan asiaankuuluvassa tallennustilassa julkaisuina ja tiivistetään julkisessa rekisterissä. <a href=\"/projects/\">rekisterinpitäjä</a>- Niinpä .",
       "<strong>Pyydä tietoja.</strong> Julkiset pyyntötiedot tallennetaan IATF GitHub -organisaatiossa, tällä verkkosivustolla tai molemmissa. Tiedot voivat tiivistää, muokata tai rakentaa uudelleen alkuperäisen pyynnön, jotta saavutettavuuden tarvetta voidaan tarkastella paljastamatta tarpeettomia henkilökohtaisia tietoja. Epäselvyyspäätökset tiivistyvät julkisuuteen, kun ne vaikuttavat hankkeeseen tai hallintopäätökseen. Pyyntötietoja ei indeksoida hakukoneissa, jos se on teknisesti käytännöllistä. Näytä tiedot: ensimmäinen julkaisupyyntö on vireillä.",
       "<strong>Koodi muuttuu.</strong> Jokainen koodin muutos on julkinen sitoutuminen asiaankuuluvaan varastoon. Katso IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisaatio</a>- Niinpä .",
-      "<strong>Hallituksen muutokset.</strong> Sääntelysivun päivitykset seurataan <code>IATF:n verkkosivusto</code> Näytä <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Tehtävähistoria</a> GitHubissa.",
+      "<strong>Hallituksen muutokset.</strong> Sääntelysivun päivitykset seurataan <code>IATF:n verkkosivusto</code> Näytä <a href=\"{{contact.githubOrgUrl}}/website/commits\">Tehtävähistoria</a> GitHubissa.",
       "<strong>Toimintakustannukset.</strong> IATF pitää toimintakustannukset alhaisina ja kirjaa toistuvat julkisen infrastruktuurin kulut.",
-      "<strong>Koordinaatiotiedot.</strong> Muistiinpanot koordinoidusta tarkastelusta tai päätöksestä näkyvät GitHubissa Keskustelut asiaankuuluvassa tallennustilassa  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Neuvottelut</a> Euroopan parlamentin ja neuvoston asetus (EY) N:o <code>IATF:n verkkosivusto</code> säilytyspaikka."
+      "<strong>Koordinaatiotiedot.</strong> Muistiinpanot koordinoidusta tarkastelusta tai päätöksestä näkyvät GitHubissa Keskustelut asiaankuuluvassa tallennustilassa  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Neuvottelut</a> Euroopan parlamentin ja neuvoston asetus (EY) N:o <code>IATF:n verkkosivusto</code> säilytyspaikka."
     ]
   },
   "operatingCosts": {

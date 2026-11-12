@@ -32,9 +32,9 @@
       "<strong>Jaɓɓorgo Dabareji.</strong> Jaɓɓolji jaɓɓol, archiving, be jaɓol feere ɗon limta bana kujeji mala bolle ha babalji je ɗon mari hakkiilo, be limta nder jaɓɓorde je ummaatoore. <a href=\"/projects/\">limtol</a>be be be .",
       "<strong>Njaɓu binndi.</strong> Jaɓɓorgo Jaaɓi-jaɓol ummaatoore ɗon taska nder jaɓɓorde IATF GitHub, ha nder ɗerewol ndu'u, malla ɗiɗi fuu. Jaaɓol jaɓol footi hawtina, jaɓɓa, mala waylita jaabawol arandewol ngam jaɓɓugo jaɓɓorgal jaɓɓol ngol bilaa wurtinugo bayaanuuji yimɓe je wala haaje. Jaabawol jaɓaaka ɗon hawtita nder jaabawal ummatoore to ɗi ɗon mari semmbe dow taskaram ko'e malla dabare laamugo. Jaajol jaabawol jaɓɓaaɗe wala nder jaajol injiniya ɗaɓɓitol to ɗum footi.",
       "<strong>Koddi ɗon waylita.</strong> Kala waylugo lawol wonte jaɓol ummatore ha babal jaɓɓorde je ɗon mari haandi. <a href=\"{{contact.githubOrgUrl}}\">Fedde GitHub</a>be be be .",
-      "<strong>Waylitol ngomna.</strong> Lartolji ha haɓɓorde ngomna je ɗon laara bana haɓɓolji be <code>iatf-website</code> Repository. Laarugo <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">jaɓugo taariiha</a> ha GitHub.",
+      "<strong>Waylitol ngomna.</strong> Lartolji ha haɓɓorde ngomna je ɗon laara bana haɓɓolji be <code>website</code> Repository. Laarugo <a href=\"{{contact.githubOrgUrl}}/website/commits\">jaɓugo taariiha</a> ha GitHub.",
       "<strong>Lartol kujeji.</strong> IATF ɗon aynana ceede kuugal be limta ceede babal babal ummaatoore. Diga 2022, ceede je ɗon limta hauti be inndeji babal. Hosting ɗon naftirta babal babal je wala ceede mala je mari ceede ha wakkere je ɗum footi.",
-      "<strong>Wurtinol kujeji.</strong> Matinolji diga limtol ko'e mala matotiral ɗon nder GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Haalaji</a> dow <code>iatf-website</code> repository."
+      "<strong>Wurtinol kujeji.</strong> Matinolji diga limtol ko'e mala matotiral ɗon nder GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Haalaji</a> dow <code>website</code> repository."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>Gurluşyk meýilnamasy kararlary.</strong> Qabul etmek, arhiwlemek, we täzeden bermek kararlary meseleler ýa-da boşadylmalar hökmünde ýerli depoda ýazylýar, we umumy rejestrde jemlenýär. <a href=\"/projects/\">rejestr</a>diýip sorady .",
       "<strong>Maglumatlary soraň.</strong> Açyk soragyň ýazgylary IATF GitHub guramasynda, bu web-saytda ýa-da ikisinde hem saklanýar. Ýazgylar özbaşdak soragy gysgaça beýan edip, redaksiýa edip we täzeden düzedip biler, şonuň üçin gerekmejek şahsy maglumaty açyklamazdan barlamaly.",
       "<strong>Kod üýtgeýär.</strong> Her bir kod üýtgedişi belli bir haltada açyk gaýd edilýär. IATF görkezişi gör <a href=\"{{contact.githubOrgUrl}}\">GitHub guramaçylygy</a>diýip sorady .",
-      "<strong>Hökümdarlyk üýtgeýär.</strong> Ýolbaşçylyk sahypasynyň täzeden bejerkleri <code>Internet sahypasy</code> bulary gör <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">hat ýazmak taryhy</a> GitHub-da bar.",
+      "<strong>Hökümdarlyk üýtgeýär.</strong> Ýolbaşçylyk sahypasynyň täzeden bejerkleri <code>Internet sahypasy</code> bulary gör <a href=\"{{contact.githubOrgUrl}}/website/commits\">hat ýazmak taryhy</a> GitHub-da bar.",
       "<strong>işleýş çykdajylary.</strong> IATF işleýş çykdajysyny az saklaýar we yzygiderli döwlet infrastrukturu çykdajylaryny ýazýar. 2022-nji ýyldan başlap, esasy gaýdalanýan çykdajylar domen atlary boldy.",
-      "<strong>Koordinasiýa hatlary.</strong> Her bir koordinasiýa edilen barlagyň ýa-da kararyň hatlary GitHubda ýaşaýar <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Gürrüňdeşlik</a> şu ýerde <code>Internet sahypasy</code> arhiw."
+      "<strong>Koordinasiýa hatlary.</strong> Her bir koordinasiýa edilen barlagyň ýa-da kararyň hatlary GitHubda ýaşaýar <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Gürrüňdeşlik</a> şu ýerde <code>Internet sahypasy</code> arhiw."
     ]
   },
   "operatingCosts": {

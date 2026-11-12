@@ -32,9 +32,9 @@
       "<strong>Deçixoin de progetto.</strong> E decixoin d'accettaçion, d'archiviaçion e de reassegnaçion en registræ comme emissioin ò rilasci inte l'archivio rilevante, e resumæ into registro pubrico. <a href=\"/projects/\">registraçión</a>- No , no , no .",
       "<strong>Demanda de registraçioin.</strong> E registraçioin de richieste pubbriche son archiviæ inte l'organizzaçion GitHub de l'IATF, inte sto scito web, ò tutti doî.",
       "<strong>Cangiaménti de còdice.</strong> Ogni cangio de còdice o l'é un commit pubrico inte l'archiviaçion pertinente. <a href=\"{{contact.githubOrgUrl}}\">Organizzaçion GitHub</a>- No , no , no .",
-      "<strong>Cangi de govèrno.</strong> E aggiornamenti a-a paggina de governansa son seguæ comme impegni a-o <code>iatf-website</code> O l'é un repositöio. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">comensâ a stöia</a> in sce GitHub.",
+      "<strong>Cangi de govèrno.</strong> E aggiornamenti a-a paggina de governansa son seguæ comme impegni a-o <code>website</code> O l'é un repositöio. <a href=\"{{contact.githubOrgUrl}}/website/commits\">comensâ a stöia</a> in sce GitHub.",
       "<strong>Costi de fonçionamento.</strong> L'IATF o tegne i costi operativi bassi e o registra e spese ricorrente pe-e infrastruttue pubriche.",
-      "<strong>Notæ de coordinamento.</strong> Note da-a revisione coordinâ ò da-e decixoin vive in GitHub Discuscioin in sciô repositöio rilevante  vista <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discuscioin</a> in sciâ <code>iatf-website</code> Repositorio."
+      "<strong>Notæ de coordinamento.</strong> Note da-a revisione coordinâ ò da-e decixoin vive in GitHub Discuscioin in sciô repositöio rilevante  vista <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discuscioin</a> in sciâ <code>website</code> Repositorio."
     ]
   },
   "operatingCosts": {

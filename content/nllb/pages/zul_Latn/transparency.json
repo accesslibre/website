@@ -32,9 +32,9 @@
       "<strong>Izinqumo zephrojekthi.</strong> Izinqumo zokwamukelwa, ukugcinwa kwemibhalo egciniwe, kanye nokushintshwa kwezikhundla zibhalwa njengezindaba noma ukukhishwa endaweni yokugcina efanele, futhi zifingqiwe kwirejista yomphakathi. <a href=\"/projects/\">irekhodi</a>Ngiyaxolisa .",
       "<strong>Cela amarekhodi.</strong> Amarekhodi ezicelo zomphakathi agcinwa enhlanganweni ye-IATF GitHub, kule webhusayithi, noma kokubili. amarekhodi angafingqa, ahlele, noma ahlele kabusha isicelo sokuqala ukuze isidingo sokufinyeleleka singabuyekezwa ngaphandle kokuveza imininingwane yomuntu siqu engadingekile. izinqumo zokungavumelani zifingqiwe kumarekhodi omphakathi lapho zithinta iphrojekthi noma isinqumo sokuphatha.",
       "<strong>Amakhodi ayashintsha.</strong> Lonke ushintsho lwekhodi luyi-commit yomphakathi endaweni yokugcina efanele. Buka i-IATF <a href=\"{{contact.githubOrgUrl}}\">Inhlangano ye-GitHub</a>Ngiyaxolisa .",
-      "<strong>Izinguquko ekubuseni.</strong> Ukuvuselelwa kwekhasi lokubusa kulandelwa njengokuzibophezela <code>iwebhusayithi ye-iatf</code> Ukubuka indawo yokugcina. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">ukubhala umlando</a> ku-GitHub.",
+      "<strong>Izinguquko ekubuseni.</strong> Ukuvuselelwa kwekhasi lokubusa kulandelwa njengokuzibophezela <code>iwebhusayithi ye-iatf</code> Ukubuka indawo yokugcina. <a href=\"{{contact.githubOrgUrl}}/website/commits\">ukubhala umlando</a> ku-GitHub.",
       "<strong>Izindleko zokusebenza.</strong> I-IATF igcina izindleko zokusebenza ziphansi futhi iqopha izindleko eziphindaphindwayo zengqalasizinda yomphakathi.",
-      "<strong>Amanothi okuxhumanisa.</strong> Amanothi kusuka kunoma yikuphi ukubuyekezwa okuhlanganisiwe noma isinqumo bukhoma ku-GitHub Izingxoxo ku-repository efanele  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Izingxoxo</a> esifundeni <code>iwebhusayithi ye-iatf</code> indawo yokugcina."
+      "<strong>Amanothi okuxhumanisa.</strong> Amanothi kusuka kunoma yikuphi ukubuyekezwa okuhlanganisiwe noma isinqumo bukhoma ku-GitHub Izingxoxo ku-repository efanele  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Izingxoxo</a> esifundeni <code>iwebhusayithi ye-iatf</code> indawo yokugcina."
     ]
   },
   "operatingCosts": {

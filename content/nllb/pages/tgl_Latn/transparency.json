@@ -32,9 +32,9 @@
       "<strong>Mga Desisyon sa Proyekto.</strong> Ang mga desisyon sa pagtanggap, pag-archive, at muling pag-aatas ay naitala bilang mga isyu o mga paglabas sa naaangkop na repositoryo, at pinagsama-sama sa pampublikong rehistro. <a href=\"/projects/\">rehistro</a>. sa pamamagitan ng .",
       "<strong>Humiling ng mga talaan.</strong> Ang mga talaan ng pampublikong kahilingan ay nakaimbak sa organisasyon ng IATF GitHub, sa website na ito, o pareho. Maaaring magsumaryo, mag-edit, o mag-restructure ang orihinal na kahilisan upang ang pangangailangan sa kakayahang ma-access ay maaaring suriin nang hindi nakalantad ng hindi kinakailangang personal na impormasyon. Ang mga desisyon ng di-pagkakasundo ay pinagsama-sama sa mga publikong talaan kapag nakakaapekto sila sa isang proyekto o desisyon sa pamamahala.",
       "<strong>Nagbabago ang code.</strong> Ang bawat pagbabago ng code ay isang pampublikong commit sa naaangkop na repositoryo. Tingnan ang IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub na organisasyon</a>. sa pamamagitan ng .",
-      "<strong>Pagbabago sa pamamahala.</strong> Ang mga pag-update sa pahina ng pamamahala ay sinusubaybayan bilang mga pangako sa <code>iatf-website</code> Tingnan ang <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">kasaysayan ng commit</a> sa GitHub.",
+      "<strong>Pagbabago sa pamamahala.</strong> Ang mga pag-update sa pahina ng pamamahala ay sinusubaybayan bilang mga pangako sa <code>website</code> Tingnan ang <a href=\"{{contact.githubOrgUrl}}/website/commits\">kasaysayan ng commit</a> sa GitHub.",
       "<strong>Mga gastos sa pagpapatakbo.</strong> Ang IATF ay nagpapanatili ng mga gastos sa pagpapatakbo na mababa at mga talaan ng paulit-ulit na gastos sa pampublikong imprastraktura.",
-      "<strong>Mga tala ng koordinasyon.</strong> Mga tala mula sa anumang coordinated review o desisyon na nakatira sa GitHub Mga talakayan sa naaangkop na imbakan  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Pag-uusap</a> sa <code>iatf-website</code> repositoryo."
+      "<strong>Mga tala ng koordinasyon.</strong> Mga tala mula sa anumang coordinated review o desisyon na nakatira sa GitHub Mga talakayan sa naaangkop na imbakan  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Pag-uusap</a> sa <code>website</code> repositoryo."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>Vendimet e projektit.</strong> Vendimet e pranimit, arkivimit dhe rivendosjes regjistrohen si çështje ose lëshime në depozitën përkatëse dhe përmblidhen në regjistrin publik. <a href=\"/projects/\">Regjistër</a>Më falni.",
       "<strong>Kërko të dhënat.</strong> Regjistrimet e kërkesave publike ruhen në organizatën GitHub të IATF, në këtë faqe interneti, ose të dyja. Regjistrat mund të përmbledhin, redaktojnë ose ristrukturojnë kërkesën origjinale në mënyrë që nevoja për qasje të mund të rishikohet pa ekspozuar informacionin e panevojshëm personal. Vendimet e mosmarrëveshjes përmblidhen në regjistrin publik kur ato ndikojnë në një projekt ose vendim qeverisjeje. Rekordet e kërkesës përjashtohen nga indeksimi i motorëve të kërkimit kur është teknikisht praktike. Shikoni regjistrimet: Kërkesa e parë e publikimit në pritje.",
       "<strong>Ndryshimet e kodit.</strong> Çdo ndryshim kodi është një angazhim publik në depozitën përkatëse. Shiko IATF <a href=\"{{contact.githubOrgUrl}}\">Organizata GitHub</a>Më falni.",
-      "<strong>Ndryshimet në qeverisje.</strong> Përditësimet në faqen e qeverisjes gjurmohen si angazhime për <code>Faqja e internetit e IATF-it</code> Repozitori. Shikoni <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Komentimi i historisë</a> në GitHub.",
+      "<strong>Ndryshimet në qeverisje.</strong> Përditësimet në faqen e qeverisjes gjurmohen si angazhime për <code>Faqja e internetit e IATF-it</code> Repozitori. Shikoni <a href=\"{{contact.githubOrgUrl}}/website/commits\">Komentimi i historisë</a> në GitHub.",
       "<strong>Shpenzimet operative.</strong> IATF mban kostot operative të ulëta dhe regjistron shpenzimet e përsëritura të infrastrukturës publike.",
-      "<strong>Shënimet e koordinimit.</strong> Shënimet nga çdo rishikim ose vendim i koordinuar jetojnë në GitHub Diskutime në repozitorin përkatës  shikoni <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskutime</a> në <code>Faqja e internetit e IATF-it</code> Repozitori."
+      "<strong>Shënimet e koordinimit.</strong> Shënimet nga çdo rishikim ose vendim i koordinuar jetojnë në GitHub Diskutime në repozitorin përkatës  shikoni <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskutime</a> në <code>Faqja e internetit e IATF-it</code> Repozitori."
     ]
   },
   "operatingCosts": {

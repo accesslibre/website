@@ -32,9 +32,9 @@
       "<strong>Projektbeslutninger.</strong> Afgørelser om godkendelse, arkivering og omfordeling registreres som udstedelser eller frigivelser i det relevante register og opsummeres i det offentlige register. <a href=\"/projects/\">register</a>- Ja, det gør jeg.",
       "<strong>Anmod om optegnelser.</strong> Offentlige anmodningsoptegnelser gemmes i IATF GitHub-organisationen, på denne hjemmeside eller begge dele. Optegnelser kan opsummere, redigere eller omstrukturere den oprindelige anmodning, så tilgængelighedsbehovet kan gennemgås uden at udsætte unødvendige personlige oplysninger. Uoverensstemmelsesbeslutninger opsummeres i det offentlige register, når de påvirker et projekt eller en styringsbeslutning.",
       "<strong>Koden ændrer sig.</strong> Hver kodeændring er et offentligt commit på det relevante repository. Se IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisation</a>- Ja, det gør jeg.",
-      "<strong>Styrelsesmæssige ændringer.</strong> Opdateringer til governance-siden registreres som commits til <code>IATF-hjemmeside</code> Databasen indeholder følgende oplysninger: <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">indlæse historie</a> på GitHub.",
+      "<strong>Styrelsesmæssige ændringer.</strong> Opdateringer til governance-siden registreres som commits til <code>IATF-hjemmeside</code> Databasen indeholder følgende oplysninger: <a href=\"{{contact.githubOrgUrl}}/website/commits\">indlæse historie</a> på GitHub.",
       "<strong>Driftsomkostninger.</strong> IATF holder driftsomkostningerne lave og registrerer tilbagevendende offentlige infrastrukturudgifter.",
-      "<strong>Samordningsnotater.</strong> Bemærkninger fra enhver koordineret gennemgang eller beslutning lever på GitHub Diskussioner om det relevante repository  visning <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Udtalelse fra Det Økonomiske og Sociale Udvalg</a> på den <code>IATF-hjemmeside</code> opbevaringsplads."
+      "<strong>Samordningsnotater.</strong> Bemærkninger fra enhver koordineret gennemgang eller beslutning lever på GitHub Diskussioner om det relevante repository  visning <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Udtalelse fra Det Økonomiske og Sociale Udvalg</a> på den <code>IATF-hjemmeside</code> opbevaringsplads."
     ]
   },
   "operatingCosts": {

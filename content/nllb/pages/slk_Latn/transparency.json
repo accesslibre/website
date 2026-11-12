@@ -32,9 +32,9 @@
       "<strong>Rozhodnutia o projekte.</strong> Rozhodnutia o prijatí, archivovaní a prerozdelení sa zaznamenávajú ako vydania alebo uvoľnenia v príslušnom úložisku a sú zhrnuté vo verejnom registri. <a href=\"/projects/\">registrácia</a>- Áno .",
       "<strong>Žiadať záznamy.</strong> Verejné záznamy o žiadostiach sa ukladajú v organizácii IATF GitHub, na tejto webovej stránke alebo na oboch. Záznamy môžu zhrnúť, upraviť alebo reštrukturalizovať pôvodnú žiadosť, aby sa mohla preskúmať potreba prístupnosti bez odhalenia zbytočných osobných informácií. Rozhodnutia o nesúhlasu sa zhrnú do verejných záznamov, keď ovplyvňujú rozhodnutie o projekte alebo riadení. Zápisy o požiadavkách sú vylúčené z indexovania vyhľadávačov, ak je to technicky možné. Zobraziť záznamy: čakajúca prvá žiadosť o zverejnenie.",
       "<strong>Zmeny kódu.</strong> Každá zmena kódu je verejným záväzkom v príslušnom repozitóriu. <a href=\"{{contact.githubOrgUrl}}\">Organizácia GitHub</a>- Áno .",
-      "<strong>Zmeny v riadení.</strong> Aktualizácie na stránke správy a riadenia sa sledujú ako <code>internetová stránka IATF</code> Zobraziť repozitórium. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">História spáchania</a> na GitHub.",
+      "<strong>Zmeny v riadení.</strong> Aktualizácie na stránke správy a riadenia sa sledujú ako <code>internetová stránka IATF</code> Zobraziť repozitórium. <a href=\"{{contact.githubOrgUrl}}/website/commits\">História spáchania</a> na GitHub.",
       "<strong>Prevádzkové náklady.</strong> IATF udržiava nízke prevádzkové náklady a zaznamenáva opakujúce sa výdavky na verejnú infraštruktúru.",
-      "<strong>Poznámky o koordinácii.</strong> Poznámky z akéhokoľvek koordinovaného preskúmania alebo rozhodnutia žijú na GitHub Diskusia o príslušnom repozitóriu  Zobraziť <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusia</a> na <code>internetová stránka IATF</code> úložisko."
+      "<strong>Poznámky o koordinácii.</strong> Poznámky z akéhokoľvek koordinovaného preskúmania alebo rozhodnutia žijú na GitHub Diskusia o príslušnom repozitóriu  Zobraziť <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusia</a> na <code>internetová stránka IATF</code> úložisko."
     ]
   },
   "operatingCosts": {

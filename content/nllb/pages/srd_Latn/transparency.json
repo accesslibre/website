@@ -32,9 +32,9 @@
       "<strong>Detzisiones de su progetu.</strong> Sas detzisiones de atzetatzione, archìviu e mudada de atzione sunt registradas comente emissiones o comunicados in su repositoriu pertinente, e resumidos in su registru pùblicu. <a href=\"/projects/\">registratzione</a>su chi est sutzessu .",
       "<strong>Demanda de is registros.</strong> Sos registros pùblicos de rechestas sunt archivados in s'organizatzione GitHub de s'IATF, in custu situ web, o in ambos duos. Is registros podent riassùmere, redatare o ristruturare sa rechesta originale in manera chi sa netzessidade de atzessibilidade potzat èssere revìtida sena espònnere informatziones personales non netzessàrias. Sas detzisiones de cuntrastu sunt riassuntas in su registru pùblicu cando influentzant unu progetu o una detzisione de guvernatzione.",
       "<strong>Cambios de còdighe.</strong> Ogni càmbiu de còdighe est un'acumprimentu pùblicu in su repositoriu pertinente. <a href=\"{{contact.githubOrgUrl}}\">Organizatzione GitHub</a>su chi est sutzessu .",
-      "<strong>Cambios in su guvernu.</strong> Sos agiornamentos a sa pàgina de guvernatzione sunt sighidos comente cummitimentos a su <code>su situ web de s'IATF</code> Bisitare su repositoriu. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">istòria de su cumitadu</a> in su GitHub.",
+      "<strong>Cambios in su guvernu.</strong> Sos agiornamentos a sa pàgina de guvernatzione sunt sighidos comente cummitimentos a su <code>su situ web de s'IATF</code> Bisitare su repositoriu. <a href=\"{{contact.githubOrgUrl}}/website/commits\">istòria de su cumitadu</a> in su GitHub.",
       "<strong>Custos de funtzionamentu.</strong> S'IATF mantenet sos costos operativos bassos e registrat sas ispesas ricorrentes pro sas infrastruturas pùblicas.",
-      "<strong>Notas de coordinamentu.</strong> Notas de cale si siat revisione o detzisione coordinada in direta in GitHub <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discussiones</a> in su <code>su situ web de s'IATF</code> repositoriu."
+      "<strong>Notas de coordinamentu.</strong> Notas de cale si siat revisione o detzisione coordinada in direta in GitHub <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discussiones</a> in su <code>su situ web de s'IATF</code> repositoriu."
     ]
   },
   "operatingCosts": {

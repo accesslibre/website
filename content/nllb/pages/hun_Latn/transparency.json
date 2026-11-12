@@ -32,9 +32,9 @@
       "<strong>Projekthatározatok.</strong> Az elfogadási, archiválási és átruházási határozatokat kibocsátásként vagy kiadásképpen rögzítik a vonatkozó adattárban, és összefoglalják a nyilvános nyilvántartásban. <a href=\"/projects/\">nyilvántartás</a>- Igen.",
       "<strong>Kérem a felvételeket.</strong> A nyilvános kérelmek nyilvántartásait az IATF GitHub szervezetében, ezen a honlapon vagy mindkettőben tárolják. A nyilvántartások összefoglalhatják, szerkeszthetik vagy szerkezetátalakíthatják az eredeti kérelmet, hogy a hozzáférési igényeket felülvizsgálhassák anélkül, hogy felesleges személyes információkat tárolnának. A nézeteltérésekre vonatkozó döntések a nyilvános nyilvántartásba kerülnek, amikor hatással vannak a projektre vagy a kormányzati döntésre. A kérelmezési nyilvántartásokat kizárják a keresőmotor indexálásától, ahol technikailag gyakorlatilag lehetséges. A feljegyzések megtekintése: az első közzétételi kérelem függőben van.",
       "<strong>A kód változik.</strong> Minden kódváltoztatás nyilvános elkötelezettséget jelent az adott repozitóriumban. Lásd az IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub szervezet</a>- Igen.",
-      "<strong>Kormányzási változások.</strong> A kormányzási oldal frissítéseit a <code>az IATF honlapja</code> Megtekinteni a <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">elkövetés története</a> a GitHub-on.",
+      "<strong>Kormányzási változások.</strong> A kormányzási oldal frissítéseit a <code>az IATF honlapja</code> Megtekinteni a <a href=\"{{contact.githubOrgUrl}}/website/commits\">elkövetés története</a> a GitHub-on.",
       "<strong>Működési költségek.</strong> Az IATF alacsonyan tartja a működési költségeket és rögzíti az ismétlődő közinfrastruktúra-kiadásokat.",
-      "<strong>Koordinációs jegyzetek.</strong> A koordinált felülvizsgálat vagy döntés megjegyzései élőben a GitHub-on Az érintett repozitóriumról szóló viták  nézet <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Beszélgetések</a> a <code>az IATF honlapja</code> tároló."
+      "<strong>Koordinációs jegyzetek.</strong> A koordinált felülvizsgálat vagy döntés megjegyzései élőben a GitHub-on Az érintett repozitóriumról szóló viták  nézet <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Beszélgetések</a> a <code>az IATF honlapja</code> tároló."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>Rozhodnutí o projektu.</strong> Rozhodnutí o přijetí, archivaci a přemístění jsou zaznamenávána jako vydání nebo uvolnění v příslušném úložišti a shrnuta ve veřejném rejstříku. <a href=\"/projects/\">evidenční rejstřík</a>- Cože ?",
       "<strong>Požádejte o záznamy.</strong> Veřejné záznamy o žádostech jsou uloženy v organizaci IATF GitHub, na této webové stránce nebo na obou. Záznamy mohou shrnout, upravit nebo restrukturalizovat původní žádost tak, aby bylo možné přezkoumat potřebu přístupnosti bez odhalení zbytečných osobních informací. Rozhodnutí o neshodách jsou shrnuty do veřejných záznamů, pokud ovlivňují rozhodnutí o projektu nebo řízení.",
       "<strong>Změna kódu.</strong> Každá změna kódu je veřejným závazkem v příslušném úložišti. <a href=\"{{contact.githubOrgUrl}}\">Organizace GitHub</a>- Cože ?",
-      "<strong>Změny ve vládě.</strong> Aktualizace na stránce správy jsou sledovány jako závazky vůči <code>internetová stránka IATF</code> Zobrazit databázi. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Historie odeslání</a> na GitHub.",
+      "<strong>Změny ve vládě.</strong> Aktualizace na stránce správy jsou sledovány jako závazky vůči <code>internetová stránka IATF</code> Zobrazit databázi. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Historie odeslání</a> na GitHub.",
       "<strong>Provozní náklady.</strong> IATF udržuje provozní náklady na nízké úrovni a zaznamenává opakující se výdaje na veřejnou infrastrukturu.",
-      "<strong>Koordinační poznámky.</strong> Poznámky z jakéhokoli koordinovaného přezkumu nebo rozhodnutí žijí na GitHub Diskuse o příslušném úložišti  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskuse</a> na <code>internetová stránka IATF</code> úložiště."
+      "<strong>Koordinační poznámky.</strong> Poznámky z jakéhokoli koordinovaného přezkumu nebo rozhodnutí žijí na GitHub Diskuse o příslušném úložišti  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskuse</a> na <code>internetová stránka IATF</code> úložiště."
     ]
   },
   "operatingCosts": {
