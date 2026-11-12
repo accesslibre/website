@@ -1,46 +1,15 @@
 # Security policy
 
-This repository powers the public site at `iatf.cc`. Most issues here are
-about copy, accessibility, or build output — not classic application security
-findings. That said, we still want to know if something is wrong.
+This repository contains the LibreAccessibility website, private-intake service code and migration redirects from the earlier IATF website.
 
-## Reporting a vulnerability
+## Report privately
 
-Please **do not** open a public GitHub issue for security reports.
+Email <contact@libreaccessibility.org>. Do not publish exploit details or personal data in an issue. Include the affected address or endpoint, impact and enough steps to reproduce safely. Do not access other people's data to demonstrate a finding.
 
-Email <contact@iatf.cc> with:
-
-- A short description of the issue.
-- The page, route, or endpoint where you saw it.
-- Steps to reproduce, if possible.
-- Whether the issue exposes user data or only affects the deployment.
-
-We aim to acknowledge reports within a few days. If you do not get a reply,
-ping again on Discord at <https://iatf.cc/discord>.
+The current proposal coordinator, mugiwarafx, coordinates review. We will discuss any disclosure with the reporter before publishing details, and ask before publishing identifying credit. No fixed response or resolution time is promised.
 
 ## Scope
 
-In scope:
+The website at <https://libreaccessibility.org>, its proposal endpoint and the organisation's intake Worker are in scope, as are the IATF migration redirects maintained here. For vulnerabilities in other projects, use that project's security policy. Third-party service infrastructure is controlled by the relevant provider.
 
-- The deployed site at `https://iatf.cc` and any of its language subpaths.
-- The Cloudflare Worker at `/api/*`, including the request intake endpoint.
-- The static build output produced by this repository.
-
-Out of scope:
-
-- Findings that depend on a victim configuring their own deployment in an
-  insecure way (e.g. leaking their own `GITHUB_TOKEN`).
-- Volumetric attacks against Cloudflare itself.
-- Reports from automated scanners with no demonstrated impact.
-
-## Coordinated disclosure
-
-If a fix is non-trivial, we will coordinate a disclosure window with you
-before publishing details. We prefer to credit reporters publicly unless you
-ask us not to.
-
-## Accessibility issues
-
-Accessibility barriers on the site are tracked in public — those go to
-<accessibility@iatf.cc> or the
-[`/accessibility/`](https://iatf.cc/accessibility/) page, not here.
+For website accessibility barriers, the same private contact is available. See [Accessibility](https://libreaccessibility.org/accessibility.html). Original reports remain private; public summaries require permission for the exact text under [policy 006](https://github.com/accesslibre/governance/blob/main/decisions/2026-006-proposal-privacy-and-retention.md).

@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "libreaccessibility-intake",
+  "account_id": "32e5ce409bf8494ab7e611df6adaeaca",
+  "main": "./worker/intake.js",
+  "compatibility_date": "2026-11-10",
+  "workers_dev": true,
+  "preview_urls": false,
+  "vars": {
+    "TURNSTILE_SITE_KEY": "0x4AAAAAAF9jKNORfPT74N72",
+    "PROPOSAL_ORIGINS": "https://libreaccessibility.org,http://127.0.0.1:4185,http://localhost:4185",
+    "PROPOSAL_HOSTNAMES": "libreaccessibility.org,127.0.0.1,localhost"
+  },
+  "ratelimits": [{"name": "PROPOSAL_LIMITER", "namespace_id": "118511", "simple": {"limit": 50, "period": 60}}],
+  "durable_objects": {"bindings": [{"name": "PROPOSAL_RECEIPTS", "class_name": "ProposalReceipt"}]},
+  "migrations": [{"tag": "proposal-receipts-v1", "new_sqlite_classes": ["ProposalReceipt"]}]
+}

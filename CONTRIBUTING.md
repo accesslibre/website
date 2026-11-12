@@ -1,98 +1,34 @@
-# Contributing to iatf-website
+# Contributing to the LibreAccessibility website
 
-This is the public source of `iatf.cc`. The site is intentionally small,
-static, and easy to read so that anyone can fix copy, improve accessibility,
-or add a translation without a heavy toolchain.
+The current public site is <https://libreaccessibility.org>. Its maintained pages and assets are in `preview/next/`. The older IATF content and translations remain historical sources.
 
-## Quick start
+## Local development
 
-```bash
-npm install
-npm run build      # one-shot build into dist/
-npm run dev        # rebuild on file changes
+Use Node 22.12 or newer:
+
+```sh
+npm ci
+npm run build
+npm run dev
+npm run check
 ```
 
-Most contributions only need that. You can edit:
+Edit HTML in `preview/next/`, CSS in `preview/next/css/`, and browser scripts in `preview/next/js/`. The public build goes to `dist-libreaccessibility/`; do not edit generated files. `shared/migration-routes.js` and the website Workers handle compatibility routes and 404 responses. Historical multilingual builds use `npm run build:legacy` and are not the current deployment.
 
-- Page content under `content/pages/<lang>/`
-- UI strings under `content/strings/<lang>.json`
-- Project registry under `data/projects.json`
-- Styles under `client/css/`
-- Build output (rendering, layout, sitemap) under `build/build.mjs`
-- Browser logic under `client/app.js`
+## Proposal form
 
-After your change, run `npm run build` and open `dist/index.html` (or the
-relevant page) in a browser to confirm the result.
+The direct form uses Cloudflare Turnstile and a separate private intake Worker. Credentials stay server-side. Browser tests simulate the services; never submit somebody else's personal data as a test. See [intake documentation](docs/proposal-intake.md) for setup and manual verification.
 
-## Working on the request form
+## Language and accessibility
 
-The intake form has two paths: a live API submission backed by Cloudflare
-Turnstile and GitHub Issues, and a `mailto:` fallback. The fallback path is
-what runs locally by default — no environment setup required.
+English is the editorial source. Everyone may use the language they are most comfortable with in questions and contributions. Current translations are on hold; see [the language policy](docs/language-policy.md).
 
-To exercise the live path end-to-end you need:
+Keep meaningful headings, keyboard access, visible focus and accessible names. Check changed pages at narrow and wide viewports. Report website barriers privately to <contact@libreaccessibility.org>; the [accessibility page](https://libreaccessibility.org/accessibility.html) explains useful details to include and how reports are handled.
 
-1. A free Cloudflare account with a Turnstile site/secret pair.
-2. A free GitHub account with a personal access token that can open issues
-   on the intake repository (`accesslibre/intake`
-   in production, or any repo you control for testing).
+## Pull requests and contact
 
-Copy `.env.example` to `.env`, fill in the values you need, then run:
+Keep changes focused and run `npm run check`. For UI changes, also review the page in a browser and check keyboard navigation. Do not include private proposals or publication approvals in public commits. Deployment follows [the migration guide](docs/site-migration.md).
 
-```bash
-npm run dev:worker  # runs the Worker locally against dist/
-```
+Questions: <contact@libreaccessibility.org> or <https://discord.gg/7DzHgJHbGx>. Follow the [Code of Conduct](CODE_OF_CONDUCT.md). For vulnerabilities, use the private channel in [SECURITY.md](SECURITY.md).
 
-See the env var table in [README.md](./README.md) for which variables are
-build-time, runtime, public, or secret.
-
-## Languages and translations
-
-English is the editorial source. Other languages live in parallel under
-`content/pages/<lang>/` and `content/strings/<lang>.json`. Missing keys fall
-back to English at build time, so partial translations are fine — but please
-do not leave dead keys behind when a page or UI element is removed.
-
-To enable a new language, set its entry to `"enabled": true` in
-`content/languages.json`. The build only emits routes for enabled languages.
-
-The repo also ships translated READMEs (`README.<lang>.md`). English is the
-canonical version. If you change `README.md` substantively, please update
-the translated copies you can read, or note in your PR that they are stale.
-
-## Accessibility
-
-Accessibility is the point of this project. If you change the rendered
-markup, please make sure that:
-
-- Headings stay in order and describe their section.
-- Interactive elements have accessible names and are reachable by keyboard.
-- Color, contrast, and focus state changes do not regress against
-  [W3C WAI](https://www.w3.org/WAI/) baseline guidance.
-
-Reports about accessibility barriers on `iatf.cc` go to
-<accessibility@iatf.cc> or the
-[`/accessibility/`](https://iatf.cc/accessibility/) page.
-
-## Pull requests
-
-- Keep changes focused. One concern per PR makes review easier.
-- Run `npm run build` before opening the PR. The build is the only check.
-- Reference the related issue or request when relevant.
-- Update `data/projects.json` if your change adds or retires a public project.
-
-## Asking for help
-
-If you are not sure where to start, or you would rather discuss a change
-before opening a PR:
-
-- Email: <contact@iatf.cc>
-- Discord: <https://iatf.cc/discord>
-
-## License
-
-By contributing, you agree that:
-
-- Code contributions are licensed under [AGPL-3.0](./LICENSE).
-- Content and documentation contributions are licensed under
-  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Code contributions follow [AGPL-3.0](LICENSE); content and documentation follow [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

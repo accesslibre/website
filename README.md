@@ -1,85 +1,42 @@
-<div align="center">
+# LibreAccessibility website
 
-<img src="./assets/iatf-people.svg" alt="International Accessibility Task Force" width="220" />
+Source for <https://libreaccessibility.org>, continuing the earlier International Accessibility Task Force (IATF) website.
 
-International Accessibility Task Force
-[iatf.cc](https://iatf.cc)
+## Current site
 
-[![discord](https://img.shields.io/discord/1014599739230130267?label=discord&logo=discord&logoColor=white&color=5865F2)](https://iatf.cc/discord) [![license](https://img.shields.io/badge/license-AGPL--3.0%20%26%20CC%20BY--SA%204.0-blue)](./LICENSE)
+Editorial content is in English for now. People may participate in whichever language they are comfortable using; translations are on hold. See [the language policy](docs/language-policy.md).
 
-[English](./README.md) | [Català](./README.ca.md)
+The current pages and assets are in `preview/next/`. Despite the folder name, these are the maintained source for the public site. The public build copies only site assets to `dist-libreaccessibility/`; local servers, review reports and README files are excluded.
 
-</div>
-
-Static multi-page site for `iatf.cc`, generated from JSON content and deployed
-with Cloudflare Workers Static Assets plus a small Worker for request intake
-and canonical-domain redirects.
-
-> [!NOTE]
-> Most contributions only need `npm install && npm run build`. No Cloudflare
-> account, no env vars. Edit JSON, rebuild, open `dist/index.html`.
-
-## Layout
-
-- `build/build.mjs`: builds the site into `dist/`
-- `content/site.json`, `content/languages.json`: site config and language metadata
-- `content/pages/<lang>/`: per-language page content
-- `content/strings/<lang>.json`: per-language UI strings
-- `data/projects.json`: public project registry
-- `client/app.js`, `client/css/`: browser JS and CSS source
-- `assets/icons/`, `assets/site.webmanifest`: favicons, icons, web manifest
-- `worker/index.js`: request intake API and canonical-host redirect
-- `wrangler.jsonc`: Cloudflare Worker + static assets configuration
-
-## Commands
-
-```bash
-npm install
-npm run build       # regenerate dist/
-npm run dev         # rebuild on file changes
-npm run dev:worker  # run the Worker locally against dist/
-npm run deploy      # deploy Worker + static assets via Wrangler
+```sh
+npm ci
+npm run build
+npm run dev
+npm run test:site
 ```
 
-Set `NOINDEX=1` when building a non-production environment to emit a
-disallow-all `robots.txt` and `noindex` meta tags, and to skip `sitemap.xml`.
+Wrangler's local development server exercises routing and branded 404s. The existing `python3 preview/next/serve.py` loopback preview is also available at port 4185; its proposal form uses the live private intake service. Do not submit real personal information during tests.
 
-## Request Intake Configuration
+## Deployment
 
-> [!TIP]
-> Skip this section unless you are debugging the live form path end-to-end.
-> Without these vars, the form falls back to a `mailto:` draft and everything
-> still works locally.
+```sh
+npm run deploy:site
+```
 
-The public request form posts to `POST /api/request` when the Worker is
-configured. The Worker also redirects `www.iatf.cc` and the legacy
-`internationalaccessibilitytaskforce.com` hosts to `iatf.cc`.
+This publishes `libreaccessibility-website` in the LibreAccessibility Cloudflare account, with a service binding to the separately deployed private intake Worker. Credentials stay in Cloudflare secrets. See [intake setup](docs/proposal-intake.md) and [migration and rollback](docs/site-migration.md).
 
-A free Cloudflare account (for Turnstile keys and Worker hosting) and a free
-GitHub account (for the intake repository) are enough.
+The old IATF domains are served by a separate redirect Worker in the earlier account. Deploy that only after the new site is live and verified:
 
-| Variable                        | Where it runs     | Sensitivity | Purpose                                           |
-| ------------------------------- | ----------------- | ----------- | ------------------------------------------------- |
-| `TURNSTILE_SITE_KEY`            | Worker (public)   | Public      | Turnstile site key, returned to the client.       |
-| `TURNSTILE_SECRET_KEY`          | Worker            | **Secret**  | Verifies Turnstile tokens server-side.            |
-| `GITHUB_TOKEN`                  | Worker            | **Secret**  | Creates the intake issue.                         |
-| `GITHUB_INTAKE_REPO`            | Worker            | Public      | `owner/name` of the intake repository.            |
-| `GITHUB_INTAKE_LABELS`          | Worker (optional) | Public      | Defaults to `request,status: received`.           |
-| `GITHUB_INTAKE_SHOW_ISSUE_LINK` | Worker (optional) | Public      | Set to `1` to surface the issue URL on success.   |
-| `DISCORD_WEBHOOK_URL`           | Worker (optional) | **Secret**  | Posts a notification when an issue is created.    |
-| `TURNSTILE_EXPECTED_HOSTNAME`   | Worker (optional) | Public      | Pins Turnstile validation to a specific hostname. |
-| `NOINDEX`                       | Build (optional)  | Public      | When `1`, the build emits a noindex site.         |
+```sh
+npx wrangler deploy --config wrangler.legacy-redirect.jsonc
+```
 
-> [!WARNING]
-> Only `TURNSTILE_SECRET_KEY`, `GITHUB_TOKEN`, and `DISCORD_WEBHOOK_URL` are
-> secrets. Store them with `wrangler secret put`. Never put them in
-> `wrangler.jsonc` or in committed `.env` files.
+## Historical material
 
-Non-secret Worker vars can live in `wrangler.jsonc` under `vars` or in `.env`
-locally. For local development, copy `.env.example` to `.env` and fill in the
-values you need.
+Earlier content, language manifests, translated sources and the old generator remain in this repository. They are retained history, not currently published translations. `npm run build:legacy` rebuilds the former site in `dist/`; it is not the production deployment command. See [historical documentation](docs/legacy-iatf-website.md).
 
-## Licensing
+## Content and contact
 
-- Code: `AGPL-3.0`
-- Content and documentation: `CC BY-SA 4.0`
+Proposals are private. Public summaries require the requester's permission for the exact text; [privacy and retention policy](https://github.com/accesslibre/governance/blob/main/decisions/2026-006-proposal-privacy-and-retention.md).
+
+Contact <contact@libreaccessibility.org>. Code follows the repository license; content is CC BY-SA 4.0. OpenMoji artwork and bundled font notices are included with the site assets.

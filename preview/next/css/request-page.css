@@ -1,0 +1,75 @@
+/* A single reading column, with the form as the main task. */
+.request-page .content { gap: 24px; }
+.request-page .request-intro { display: grid; gap: 12px; }
+.request-page .request-receipt { display: grid; gap: 24px; max-width: 38rem; }
+.request-page .request-receipt[hidden],
+.request-page .request-intro[hidden],
+.request-page .proposal-review[hidden],
+.request-page #request-availability[hidden] { display: none; }
+.request-page .request-another { min-height: 48px; padding: 12px 24px; border-radius: 999px; font-size: 1rem; line-height: 1.5; }
+.request-page p { text-wrap: pretty; }
+.request-page .hint { font-size: 1rem; line-height: 1.5; }
+
+.request-page .proposal-review { width: 100%; max-width: 38rem; }
+.request-page .proposal-review summary {
+  width: fit-content;
+  max-width: 100%;
+  min-height: 48px;
+  padding: 12px 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: .18em;
+  cursor: pointer;
+}
+.request-page .proposal-review summary:hover { color: var(--green-deep); }
+.request-page .proposal-review-copy { display: grid; gap: 16px; padding-top: 8px; }
+
+.request-page .request-form {
+  width: 100%;
+  max-width: 38rem;
+  gap: 24px;
+  padding: 24px;
+  background: var(--white);
+  border: var(--box);
+  border-radius: 12px;
+}
+.request-page .field { gap: 8px; }
+.request-page .request-form[hidden] { display: none; }
+.request-page .field label { font-size: 1.125rem; line-height: 1.5; }
+.request-page .field input { min-height: 48px; }
+.request-page .field textarea { resize: vertical; min-height: 8rem; }
+.request-page .request-actions { display: grid; justify-items: start; gap: 16px; }
+.request-page .request-submit {
+  min-height: 48px;
+  padding: 12px 24px;
+  background: var(--ink);
+  border-color: var(--ink);
+  border-radius: 999px;
+  color: var(--white);
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+.request-page .request-submit:hover,
+.request-page .request-submit:active {
+  background: var(--green-deep);
+  border-color: var(--green-deep);
+  color: var(--white);
+  text-decoration: none;
+}
+.request-page .request-form .form-status {
+  justify-self: stretch;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.request-page .request-submit:disabled { cursor: default; }
+.request-page .request-submit:disabled:hover { background: var(--ink); border-color: var(--ink); }
+.request-page #proposal-spam-check { width: 100%; justify-self: stretch; }
+.request-page .field [aria-invalid="true"] { border-width: 3px; }
+.request-page #request-availability { font-size: 1rem; overflow-wrap: anywhere; }
+
+@media (max-width: 40rem) {
+  .request-page .request-form { padding: 16px; }
+}

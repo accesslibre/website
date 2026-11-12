@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LibreAccessibility — Open source accessibility, warm community</title>
+<meta name="description" content="We build free software with disabled people and their organisations to make technology work better for everyone.">
+<link rel="canonical" href="https://libreaccessibility.org/">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/footer-1c.css">
+<link rel="stylesheet" href="css/mobile-nav.css">
+<script src="js/mobile-nav.js" defer></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="./support.js"></script>
+</head>
+<body class="workshop-a">
+<x-dc>
+<helmet>
+<link href="./vendor/fonts.css" rel="stylesheet">
+<style>
+body{margin:0;background:#EDF6E8;color:#26302A;font-family:'Atkinson Hyperlegible Next','Atkinson Hyperlegible',system-ui,sans-serif;font-size:1.125rem;line-height:1.55}
+a{color:#26302A;text-underline-offset:.2em;text-decoration-thickness:.08em}
+a:hover{color:#2C6A33;text-decoration-thickness:.16em}
+:focus-visible{outline:3px solid #26302A;outline-offset:3px;border-radius:4px}
+h1,h2,h3,p,ul,ol{margin:0}
+.home-skip{position:absolute;left:1rem;top:-6rem;z-index:20;background:#fff;padding:.5rem 1rem}
+.home-skip:focus{top:1rem;outline:3px solid #26302A;outline-offset:3px}
+.projects-source{text-align:right}
+.project-links{margin:.25rem 0 0;font-size:1.125rem;line-height:1.55}
+.project-links [aria-disabled="true"]{color:#526055;text-decoration:underline;text-underline-offset:.2em;cursor:default}
+.project-status{display:inline-block;font-size:1rem;font-weight:600;line-height:1.4;color:#26302A;background:#C9E9BB;padding:2px 8px;border-radius:2px}
+.project-status[data-state="planned"]{background:#FFC7D8}
+.hero-layout{gap:1rem 2rem}
+.hero-copy{padding-bottom:2.5rem}
+@media(max-width:48rem){.hero-layout{row-gap:.5rem}.hero-copy{padding-bottom:0}.hero-flamingo{width:7rem}}
+@media(max-width:40rem){.projects-source{text-align:left}}
+</style>
+</helmet>
+<a class="home-skip" href="#main">Skip to content</a>
+<header class="nav-header" style="max-width:72rem;margin:0 auto;padding:1.5rem;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between">
+  <a href="index.html" onClick="{{ goHome }}" style="display:flex;align-items:center;gap:.75rem;text-decoration:none;line-height:1.05">
+    <img src="./assets/flamingo.svg" alt="" width="48" height="48">
+    <span style="display:flex;flex-direction:column"><span>libre</span><span style="font-weight:700">accessibility</span></span>
+  </a>
+  <button class="nav-toggle" data-nav-toggle type="button" aria-expanded="false" aria-controls="main-navigation" hidden>
+      <svg class="nav-menu-icon" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+      <svg class="nav-close-icon" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="m6 6 12 12M6 18 18 6"></path></svg>
+      <span data-nav-label>Menu</span>
+    </button>
+    <nav class="responsive-nav" id="main-navigation" aria-label="Main">
+    <ul>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="jobs.html">Volunteer</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="transparency.html">Transparency</a></li>
+      <li><a class="nav-donate" href="donate.html" style-hover="background:#FFA7C0;color:#26302A">Donate</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main" tabindex="-1">
+<sc-if value="{{ isHome }}" hint-placeholder-val="{{ true }}">
+<div data-screen-label="Home">
+  <sc-if value="{{ isA }}" hint-placeholder-val="{{ true }}">
+  <section style="max-width:72rem;margin:0 auto;padding:2rem 1.5rem 0">
+    <div class="hero-layout" style="display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between">
+      <div class="hero-copy" style="flex:1 1 28rem">
+        <h1 style="font-size:clamp(2.75rem,8vw,5rem);line-height:1;font-weight:800;letter-spacing:-.02em;text-wrap:balance">Open source accessibility, warm community</h1>
+        <p style="font-size:1.375rem;max-width:36rem;margin-top:1.5rem;text-wrap:pretty">We build free software with disabled people and their organisations to make technology work better for everyone.</p>
+      </div>
+      <img class="hero-flamingo" src="./assets/flamingo.svg" alt="" width="220" height="220" style="margin-left:auto;margin-bottom:-.75rem;position:relative;z-index:1;max-width:40vw;height:auto">
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,20rem),1fr));border-radius:1.75rem;overflow:hidden">
+      <div style="background:#FFC7D8;padding:2.5rem;display:flex;flex-direction:column;gap:1rem;align-items:flex-start">
+        <h2 style="font-size:2rem;line-height:1.1;font-weight:800">I have a need</h2>
+        <p style="max-width:30rem">Tell us about a barrier you keep running into, even if you don't know how it could be fixed. Your message stays private.</p>
+        <a href="request.html" style="margin-top:auto;background:#26302A;color:#fff;text-decoration:none;font-weight:700;padding:.875rem 1.5rem;border-radius:999px" style-hover="background:#2C6A33;color:#fff">Tell us privately</a>
+      </div>
+      <div style="background:#C9E9BB;padding:2.5rem;display:flex;flex-direction:column;gap:1rem;align-items:flex-start">
+        <h2 style="font-size:2rem;line-height:1.1;font-weight:800">I want to help</h2>
+        <p style="max-width:30rem">Help us make software more accessible. We have two volunteer roles open. You can also read about <a href="donate.html">funding the work</a>.</p>
+        <a href="jobs.html" style="margin-top:auto;background:#26302A;color:#fff;text-decoration:none;font-weight:700;padding:.875rem 1.5rem;border-radius:999px" style-hover="background:#2C6A33;color:#fff">See volunteer roles</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" aria-labelledby="bench-h" style="max-width:72rem;margin:0 auto;padding:5rem 1.5rem 0">
+    <div style="display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 2rem;margin-bottom:1.5rem">
+      <h2 id="bench-h" style="font-size:clamp(1.75rem,4vw,2.5rem);line-height:1.1;font-weight:800">Current projects</h2>
+    </div>
+    <ol style="list-style:none;padding:0;display:flex;flex-direction:column;gap:.75rem">
+      <li style="background:#fff;border-radius:1.25rem;padding:2rem;display:flex;flex-wrap:wrap;gap:1.5rem 2.5rem">
+        <div style="flex:1 1 24rem">
+          <p style="font-weight:700;color:#2C6A33">RoboDK VoiceAccess</p>
+          <h3 style="font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800;margin:.25rem 0 .75rem;text-wrap:balance"><a href="voiceaccess.html" style="text-decoration-thickness:.06em">Programming a robot shouldn't need a mouse.</a></h3>
+          <p>Voice control for RoboDK, so you can program a robot without a mouse.</p>
+        </div>
+        <div class="project-details" style="flex:1 1 16rem">
+          <dl style="margin:0;display:grid;gap:1.25rem"><div><dt style="font-size:.9375rem;font-weight:700">Project status</dt><dd style="margin:.25rem 0 0"><span class="project-status" data-state="active">Active</span></dd></div><div><dt style="font-size:.9375rem;font-weight:700">Get involved</dt><dd class="project-links">Contribute on <a href="https://github.com/accesslibre/robodk-voiceaccess" aria-label="GitHub repository: VoiceAccess">GitHub</a> or help shape VoiceAccess through discussions on <a href="https://discord.gg/7DzHgJHbGx" aria-label="LibreAccessibility on Discord">Discord</a>.</dd></div></dl>
+        </div>
+      </li>
+      <li style="background:#fff;border-radius:1.25rem;padding:2rem;display:flex;flex-wrap:wrap;gap:1.5rem 2.5rem">
+        <div style="flex:1 1 24rem">
+          <p style="font-weight:700;color:#2C6A33">Tranandorra website</p>
+          <h3 style="font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800;margin:.25rem 0 .75rem;text-wrap:balance"><a href="projects.html#tranandorra-web" style="text-decoration-thickness:.06em">An association's website that all its members can use.</a></h3>
+          <p>An accessible website for TRANA EM, Andorra's multiple sclerosis association.</p>
+        </div>
+        <div class="project-details" style="flex:1 1 16rem">
+          <dl style="margin:0;display:grid;gap:1.25rem"><div><dt style="font-size:.9375rem;font-weight:700">Project status</dt><dd style="margin:.25rem 0 0"><span class="project-status" data-state="planned">Planned</span></dd></div><div><dt style="font-size:.9375rem;font-weight:700">Get involved</dt><dd class="project-links">Help shape the new TRANA EM website. Join the conversation on <a href="https://discord.gg/7DzHgJHbGx" aria-label="LibreAccessibility on Discord">Discord</a>.</dd></div></dl>
+        </div>
+      </li>
+      <li style="background:#fff;border-radius:1.25rem;padding:2rem;display:flex;flex-wrap:wrap;gap:1.5rem 2.5rem">
+        <div style="flex:1 1 24rem">
+          <p style="font-weight:700;color:#2C6A33">Tranandorra videos</p>
+          <h3 style="font-size:clamp(1.5rem,3.2vw,2.125rem);line-height:1.15;font-weight:800;margin:.25rem 0 .75rem;text-wrap:balance"><a href="projects.html#tranandorra-video" style="text-decoration-thickness:.06em">Exercise videos for people with multiple sclerosis.</a></h3>
+          <p>Exercise videos for people with multiple sclerosis, made with TRANA EM. We plan to generate them with AI.</p>
+        </div>
+        <div class="project-details" style="flex:1 1 16rem">
+          <dl style="margin:0;display:grid;gap:1.25rem"><div><dt style="font-size:.9375rem;font-weight:700">Project status</dt><dd style="margin:.25rem 0 0"><span class="project-status" data-state="planned">Planned</span></dd></div><div><dt style="font-size:.9375rem;font-weight:700">Get involved</dt><dd class="project-links">Help shape the exercise videos. Share ideas for topics and accessible formats on <a href="https://discord.gg/7DzHgJHbGx" aria-label="LibreAccessibility on Discord">Discord</a>.</dd></div></dl>
+        </div>
+      </li>
+    </ol>
+    <p class="projects-source" style="margin-top:1.25rem">All our projects are open source. The code is at <a href="https://github.com/accesslibre">github.com/accesslibre</a>.</p>
+  </section>
+
+  </sc-if>
+
+</div>
+</sc-if>
+
+
+</main>
+
+<footer class="site-footer footer-1c" id="footer">
+  <div class="wrap">
+    <div class="footer-top">
+      <div class="foot-brand">
+        <span class="flamingo-circle"><img src="assets/flamingo.svg" alt="" width="64" height="64"></span>
+        <div>
+          <p class="foot-name">libre<strong>accessibility</strong></p>
+          <p>LibreAccessibility is a nonprofit initiative building free, open-source accessibility software.</p>
+        </div>
+      </div>
+      <nav class="footer-links" aria-label="Footer">
+        <ul>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="jobs.html">Volunteer</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="transparency.html">Transparency</a></li>
+          <li><a href="donate.html">Donate</a></li>
+          <li><a href="news.html">News</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer-lower">
+<nav class="footer-community" aria-label="Support and community">
+      <ul>
+        <li><a class="community-pill" href="https://github.com/accesslibre">GitHub</a></li>
+        <li><a class="community-pill" href="https://discord.gg/7DzHgJHbGx">Discord</a></li>
+        <li><a class="community-pill" href="https://groups.google.com/g/libreaccessibility">Google Groups</a></li>
+        <li><a class="community-pill" href="https://www.linkedin.com/company/libreaccessibility/">LinkedIn</a></li>
+      </ul>
+    </nav>
+      <p class="foot-email foot-email-desktop"><a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a></p>
+    </div>
+    <p class="fine"><a href="accessibility.html">Accessibility</a> · <a href="sitemap.html">Site map</a>. Found a barrier on this site? <a href="mailto:contact@libreaccessibility.org">Tell us</a>. Content under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, code under AGPL-3.0. Flamingo by <a href="https://openmoji.org/">OpenMoji</a>, CC BY-SA 4.0.</p>
+    <p class="foot-email foot-email-mobile"><a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a></p>
+  </div>
+</footer>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;startScreen&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Home&quot;,&quot;Project page&quot;],&quot;default&quot;:&quot;Home&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;showNotebook&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;}}">
+class Component extends DCLogic {
+  state = { screen: null };
+  go(screen, e) {
+    const samePage = screen === this.current();
+    this.setState({ screen });
+    if (!samePage) { e.preventDefault(); window.scrollTo(0, 0); }
+  }
+  current() { return this.state.screen ?? (this.props.startScreen === 'Project page' ? 'project' : 'home'); }
+  renderVals() {
+    const s = this.current();
+    const v = 'a';
+    const pick = (k) => () => { this.setState({ variant: k, screen: 'home' }); };
+    const bg = (k) => v === k ? '#FFC7D8' : 'transparent';
+    const fg = (k) => v === k ? '#26302A' : '#fff';
+    return {
+      isA: v === 'a', isB: v === 'b', isC: v === 'c',
+      aOn: v === 'a', bOn: v === 'b', cOn: v === 'c',
+      setA: pick('a'), setB: pick('b'), setC: pick('c'),
+      aBg: bg('a'), bBg: bg('b'), cBg: bg('c'),
+      aFg: fg('a'), bFg: fg('b'), cFg: fg('c'),
+      isHome: s === 'home',
+      isProject: s === 'project',
+      showNotebook: this.props.showNotebook ?? true,
+      goHome: (e) => this.go('home', e),
+      goProject: (e) => this.go('project', e),
+    };
+  }
+}
+</script>
+</body>
+</html>

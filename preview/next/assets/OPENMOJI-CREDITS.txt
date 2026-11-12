@@ -1,0 +1,4 @@
+GitHub E045 and Discord E061: OpenMoji, CC BY-SA 4.0. Unmodified SVGs.
+https://github.com/hfg-gmuend/openmoji/tree/master/color/svg
+https://creativecommons.org/licenses/by-sa/4.0/
+Discord channels are disabled local preview placeholders; no channel URLs have been supplied.

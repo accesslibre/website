@@ -4,17 +4,23 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.12.0"
   },
   "scripts": {
-    "build": "node build/build.mjs",
-    "check": "npm run build",
-    "dev": "node --watch-path=build --watch-path=content --watch-path=data --watch-path=client --watch-path=assets build/build.mjs --dev-fast",
+    "build": "node scripts/build-public-site.mjs",
+    "check": "npm run test:site",
+    "dev": "wrangler dev --config wrangler.libreaccessibility.jsonc",
     "dev:full": "node --watch-path=build --watch-path=content --watch-path=data --watch-path=client --watch-path=assets build/build.mjs",
     "dev:worker": "wrangler dev",
-    "deploy": "wrangler deploy"
+    "deploy": "npm run deploy:site",
+    "build:site": "node scripts/build-public-site.mjs",
+    "dev:site": "wrangler dev --config wrangler.libreaccessibility.jsonc",
+    "test:site": "npm run build:site && node --test tests/site-migration.test.mjs tests/proposal-intake.test.mjs",
+    "deploy:site": "npm run build:site && wrangler deploy --config wrangler.libreaccessibility.jsonc",
+    "build:legacy": "node build/build.mjs",
+    "dev:legacy": "node --watch-path=build --watch-path=content --watch-path=data --watch-path=client --watch-path=assets build/build.mjs --dev-fast"
   },
   "devDependencies": {
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.160.1"
   }
 }
