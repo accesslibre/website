@@ -23,6 +23,9 @@
 .projects-page .projects-table .credits { margin-top: 1rem; }
 .projects-page .projects-table .credits div { align-items: baseline; }
 .projects-page .projects-table .credits dt { font-weight: 400; }
+.projects-page .project-context { display: grid; gap: .75rem; margin: 1rem 0; }
+.projects-page .project-context dt { font-weight: 600; }
+.projects-page .project-context dd { margin: 0; }
 .projects-page .project-mobile-label { display: none; }
 .projects-page .project-phase { border: 0; border-radius: 2px; padding: 2px 8px; background: var(--green); color: var(--ink); font-size: 1rem; font-weight: 600; line-height: 1.4; }
 .projects-page .project-phase--planned { background: var(--pink); }
