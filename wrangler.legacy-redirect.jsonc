@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "iatf-website",
+  "account_id": "1d8f443917d5d2287541e0e85a414a26",
+  "main": "./worker/legacy-redirect.js",
+  "compatibility_date": "2026-11-10",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    {"pattern": "iatf.cc", "custom_domain": true},
+    {"pattern": "www.iatf.cc", "custom_domain": true},
+    {"pattern": "internationalaccessibilitytaskforce.com", "custom_domain": true},
+    {"pattern": "www.internationalaccessibilitytaskforce.com", "custom_domain": true},
+    {"pattern": "withaccessibility.com", "custom_domain": true}
+  ]
+}

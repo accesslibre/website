@@ -1,0 +1,21 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "libreaccessibility-website",
+  "account_id": "32e5ce409bf8494ab7e611df6adaeaca",
+  "main": "./worker/libreaccessibility.js",
+  "compatibility_date": "2026-11-10",
+  "workers_dev": false,
+  "preview_urls": false,
+  "services": [{"binding": "PROPOSAL_API", "service": "libreaccessibility-intake"}],
+  "routes": [
+    {"pattern": "libreaccessibility.org", "custom_domain": true},
+    {"pattern": "www.libreaccessibility.org", "custom_domain": true}
+  ],
+  "assets": {
+    "directory": "./dist-libreaccessibility",
+    "binding": "ASSETS",
+    "run_worker_first": true,
+    "html_handling": "none",
+    "not_found_handling": "none"
+  }
+}
