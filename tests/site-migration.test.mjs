@@ -26,7 +26,7 @@ test('old routes, localized slugs and project details reach specific destination
     '/nllb/ace-arab/projects/archived-iatf-bot/':'/projects.html#archived-iatf-bot',
     '/fr/participer/':'/jobs.html','/zh/项目/':'/projects.html',
     '/ca/about.html':'/about.html','/index.html':'/','/press/':'/news.html',
-    '/blog/':'/news.html','/sitemap/':'/sitemap.html','/languages/':'/about.html#language'
+    '/blog/':'/news.html','/blog/new-website-launch/':'/news.html#iatf-new-website-launch','/blog/new-tool-ittai':'/news.html#iatf-new-tool-ittai','/sitemap/':'/sitemap.html','/languages/':'/about.html#language'
   })) assert.equal(migrationTarget(from),to,from);
 });
 test('every historical locale home and default page retains an English destination',()=>{

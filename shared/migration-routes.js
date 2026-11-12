@@ -39,6 +39,11 @@ export function migrationTarget(pathname) {
   const segment = parts[0].replace(/\.html$/, '');
   const key = slugs.get(segment);
   if (!key) return null;
+  if (parts.length === 2 && ['blog','news'].includes(key)) {
+    const archive = {'new-website-launch':'iatf-new-website-launch','new-tool-ittai':'iatf-new-tool-ittai'};
+    const anchor = archive[parts[1].replace(/\.html$/,'')];
+    if (anchor) return '/news.html#' + anchor;
+  }
   if (parts.length === 2 && key === 'projects' && projects[parts[1]]) {
     return projects[parts[1]] === 'voiceaccess' ? '/voiceaccess.html' : '/projects.html#' + projects[parts[1]];
   }
