@@ -84,6 +84,27 @@ clears the fields, starts a new submission ID and focuses the barrier
 field. No proposal text is saved in browser storage. Without JavaScript,
 the form is hidden and email remains available.
 
+## Privacy and retention
+
+The [adopted policy](https://github.com/accesslibre/governance/blob/main/decisions/2026-006-proposal-privacy-and-retention.md)
+requires affirmative permission for the exact proposed public summary.
+Originals stay private; proposals are not used for marketing. The form
+shows a short promise and a native privacy disclosure covering GitHub,
+Cloudflare, review periods and the contact for rights requests.
+
+The coordinator reviews active records annually and checks the private
+`intake/retention-reviews.md` register monthly. Closed proposals receive a
+review 12 calendar months after closure. Remove or genuinely anonymize
+personal data no longer needed, sooner where appropriate. Any extension
+needs a documented purpose, minimum necessary records, restricted access
+and another review date. Legal obligations and relevant claims follow
+their applicable periods, not a blanket indefinite exception.
+
+This is a manual review/removal process. No automatic deletion of GitHub
+proposals is enabled. Closing an issue does not delete it; removal includes
+checking edit history, attachments and controlled copies. The receipt
+metadata expiry above remains separate from proposal retention.
+
 ## Validation
 
 ```sh

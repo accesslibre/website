@@ -66,7 +66,7 @@
       <form class="form request-form" id="request-form" method="post" action="/api/request" aria-describedby="request-privacy" novalidate hidden>
         <div class="field">
           <label for="req-barrier">What is the barrier?</label>
-          <p class="hint" id="req-barrier-hint">What were you trying to do, and what stopped you?</p>
+          <p class="hint" id="req-barrier-hint">What were you trying to do, and what stopped you? Please leave out diagnoses or other medical details we don't need to understand the barrier.</p>
           <textarea id="req-barrier" name="barrier" rows="5" maxlength="10000" required aria-describedby="req-barrier-hint"></textarea>
         </div>
         <div class="field">
@@ -82,7 +82,16 @@
           <input id="req-name" name="name" type="text" maxlength="200" autocomplete="name">
         </div>
         <div class="request-actions">
-          <p class="hint" id="request-privacy">We won't publish what you send without asking you first.</p>
+          <p class="hint" id="request-privacy">Your original proposal stays private. We'll show you any proposed public summary and ask for permission first.</p>
+          <details class="proposal-review" id="proposal-privacy">
+            <summary>Privacy and retention</summary>
+            <div class="proposal-review-copy">
+              <p>LibreAccessibility uses your proposal and email to review the barrier and reply. Authorized reviewers can access the original in our private GitHub intake. We don't use proposals for marketing.</p>
+              <p>We review active records annually. When a proposal closes, we schedule a review 12 months later and remove or anonymize personal data we no longer need. We may remove it sooner. Relevant records may be kept longer for a justified ongoing need, legal obligations or legal claims.</p>
+              <p>Cloudflare handles delivery and spam checks. To ask for access, correction or deletion, email <a href="mailto:contact@libreaccessibility.org">contact@libreaccessibility.org</a>.</p>
+              <p><a href="https://github.com/accesslibre/governance/blob/main/decisions/2026-006-proposal-privacy-and-retention.md">Read the full privacy and retention policy</a>.</p>
+            </div>
+          </details>
           <div id="proposal-spam-check"></div>
           <button class="btn request-submit" type="submit" disabled>Send proposal</button>
           <p class="form-status" id="request-status" role="status" tabindex="-1"></p>

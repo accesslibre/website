@@ -99,14 +99,15 @@
       "title": "Public request records"
     },
     "paragraphs": [
-      "IATF works in public by default. Requests that enter IATF through the website, email, Discord, GitHub, or other IATF channels may become public request records.",
-      "A public request record is not necessarily the original message. IATF may summarize, redact, or restructure a request before publication so the accessibility need can be reviewed without exposing unnecessary personal information.",
-      "Public request records may be stored in the IATF GitHub organization, on this website, or both.",
-      "Before publication, IATF removes unnecessary personal contact details, private addresses, and identifying details about individual users of assistive technologies unless publication is clearly intended and appropriate.",
-      "Discord is used for informal coordination. IATF does not separately archive Discord conversations by default, and message retention is controlled by Discord. Decisions made in Discord should be summarized into the public record on GitHub or on the relevant project page.",
-      "Request records are excluded from search engine indexing where technically practical. Public means reviewable and accountable. It does not mean optimized for discovery through name searches.",
-      "IATF can update or remove records from IATF-controlled public surfaces, but cannot guarantee removal from third-party caches, notifications, forks, screenshots, search engines, Discord, or other external systems.",
-      "If a message needs to remain private, do not send it through IATF public channels."
+      "LibreAccessibility keeps original proposals private in accesslibre/intake. Authorized reviewers use them to review accessibility barriers, reply and coordinate agreed work, not for marketing.",
+      "A public request record is a rewritten summary of the barrier, outcome and reasons, never a transcript. Remove unnecessary contact details, medical information and identifying context; removing names alone does not guarantee anonymity.",
+      "Before publishing a proposal summary, show the requester the exact text and obtain affirmative permission. Keep approval privately. Silence is not permission, and refusing publication does not affect review.",
+      "Record relevant Discord decisions without copying conversations or private proposal details. A public message is not permission to republish a proposal summary. Use private channels for private information.",
+      "Review active records at least annually. On closure, schedule a review 12 calendar months later and remove or genuinely anonymize personal data no longer needed, sooner where appropriate. Accepted projects do not automatically require keeping the full original form.",
+      "Relevant records may be kept longer for a documented ongoing need, legal obligation or legal claim, with restricted access and another review date. The applicable legal period must be justified; the lifetime of the organization is not a general retention period.",
+      "The proposal coordinator checks the private review register monthly. Reviews and removal are manual. The delivery service separately removes receipt metadata after 30 days; this does not remove proposal text from GitHub.",
+      "Request search-index exclusion where technically available, but do not treat it as access control or promise it on GitHub. LibreAccessibility can amend or remove records it controls, but cannot guarantee removal from third-party caches, forks, screenshots or notifications.",
+      "For access, correction, deletion or withdrawal of publication permission, email contact@libreaccessibility.org. The current policy is https://github.com/accesslibre/governance/blob/main/decisions/2026-006-proposal-privacy-and-retention.md and supersedes earlier IATF publication and indefinite-retention wording."
     ]
   },
   "chair": {
