@@ -320,3 +320,12 @@ tfoot th, tfoot td { border-bottom: 0; font-weight: 700; background: var(--green
 .archived-projects summary::marker { color: var(--green-deep); }
 .archived-projects[open] > summary { margin-bottom: 1rem; }
 .archived-projects > p { margin-bottom: 1.25rem; }
+
+
+/* News: origin panel with the two historical IATF announcements, and a one-line press contact. */
+.news-origin { margin-top: 1.5rem; }
+.news-origin h2 { font-size: 1.25rem; }
+.content .news-origin ul { list-style: none; padding: 0; flex-direction: row; flex-wrap: wrap; gap: 0.35rem 1.5rem; }
+.news-origin li { max-width: none; }
+.news-press { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 1rem; margin-top: 0.5rem; }
+.news-press h2, .news-press p { font-size: 1rem; line-height: 1.5rem; }
