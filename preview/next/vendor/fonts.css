@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./atkinson-0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./atkinson-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./atkinson-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible Next';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./atkinson-3.ttf) format('truetype');
+}
