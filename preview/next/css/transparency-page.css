@@ -1,0 +1,5 @@
+/* Keep the historical domain names readable within the page on mobile. */
+.iatf-history-table { min-width: 0; table-layout: fixed; }
+.iatf-history-table .history-year { width: 4rem; }
+.iatf-history-table .history-cost { width: 5rem; }
+.iatf-history-table code { font: inherit; overflow-wrap: anywhere; }

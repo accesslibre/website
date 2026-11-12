@@ -1,0 +1,51 @@
+/* Projects only: preserve the shared header, footer and navigation. */
+.projects-page { --projects-peach: #ffe2c6; }
+.projects-page .projects-content { display: flex; flex-direction: column; gap: 2rem; min-width: 0; max-width: 50rem; }
+.projects-page .lede { max-width: 48rem; }
+.projects-page .projects-table {
+  width: 100%; min-width: 0; table-layout: fixed; border-collapse: collapse;
+  background: var(--white); color: var(--ink); border: var(--box);
+  font-family: var(--font); font-variant-numeric: normal;
+}
+.projects-page .projects-table caption { text-align: left; font-size: 1.4rem; padding-bottom: 1rem; }
+.projects-page .projects-table th, .projects-page .projects-table td {
+  padding: 1.25rem; text-align: left; vertical-align: top;
+  border-bottom: 1px solid var(--ink); white-space: normal; overflow-wrap: anywhere;
+}
+.projects-page .projects-table thead { background: var(--projects-peach); }
+.projects-page .projects-table thead th:first-child { width: 53%; }
+.projects-page .projects-table thead th:nth-child(2) { width: 16%; }
+.projects-page .projects-table thead th:last-child { width: 31%; }
+.projects-page .projects-table tbody th { font-weight: 400; }
+.projects-page .projects-table tbody tr:last-child > * { border-bottom: 0; }
+.projects-page .projects-table h2 { font-size: 1.25rem; margin-bottom: .75rem; }
+.projects-page .projects-table p + p { margin-top: .75rem; }
+.projects-page .projects-table .credits { margin-top: 1rem; }
+.projects-page .projects-table .credits div { align-items: baseline; }
+.projects-page .projects-table .credits dt { font-weight: 400; }
+.projects-page .project-mobile-label { display: none; }
+.projects-page .project-phase { border: 0; border-radius: 2px; padding: 2px 8px; background: var(--green); color: var(--ink); font-size: 1rem; font-weight: 600; line-height: 1.4; }
+.projects-page .project-phase--planned { background: var(--pink); }
+.projects-page .projects-propose { background: var(--projects-peach); border: var(--box); border-radius: var(--radius); padding: 2rem; display: flex; flex-direction: column; gap: 1rem; }
+.projects-page .projects-propose > p { max-width: 44rem; }
+.projects-page .projects-propose h3 { margin-top: .5rem; }
+.projects-page .projects-cta { min-height: 44px; padding: .5rem 1rem; background: var(--white); }
+.projects-page .projects-work { display: flex; flex-direction: column; gap: 1rem; max-width: 44rem; }
+.projects-page .archived-projects { margin-top: 0; }
+.projects-page .archived-projects .entries { gap: 1.5rem; }
+.projects-page :is(a, summary):focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+.projects-page [id] { scroll-margin-top: 6rem; }
+@media (max-width: 50rem) {
+  .projects-page .projects-table, .projects-page .projects-table tbody { display: block; }
+  .projects-page .projects-table caption { display: block; padding: 1rem; background: var(--projects-peach); }
+  .projects-page .projects-table thead {
+    position: absolute; width: 1px; height: 1px; overflow: hidden;
+    clip-path: inset(50%); white-space: nowrap;
+  }
+  .projects-page .projects-table tbody tr { display: grid; grid-template-columns: minmax(0, 1fr); border-bottom: 1px solid var(--ink); }
+  .projects-page .projects-table tbody tr:last-child { border-bottom: 0; }
+  .projects-page .projects-table tbody :is(th, td) { display: block; width: auto; min-width: 0; border: 0; padding: 1rem; }
+  .projects-page .projects-table tbody td { padding-top: 0; }
+  .projects-page .project-mobile-label { display: block; font-weight: 600; margin-bottom: .5rem; }
+  .projects-page .projects-propose { padding: 1.25rem; }
+}
