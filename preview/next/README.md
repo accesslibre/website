@@ -1,9 +1,9 @@
-# LibreAccessibility website preview
+# LibreAccessibility website source
 
-The seven-page redesign is a local preview; it has not replaced the public website.
+These 13 English pages are the maintained source for the public website. The historical folder name is retained to keep existing workspaces usable. See [repository setup](../../README.md) and [deployment/migration](../../docs/site-migration.md).
 
-Run `python3 preview/next/serve.py` from the repository root and open <http://127.0.0.1:4185/>. Stop another server on that port before starting this one.
+For a static loopback review, run `python3 preview/next/serve.py` from the repository root and visit <http://127.0.0.1:4185/>. Use only one server on that port. For the production routing and branded 404 behavior, run `npm run build` and `npm run dev` instead.
 
-The proposal form connects to the deployed Cloudflare intake service and writes to the real private intake repository. Use clearly marked synthetic data for tests. Server secrets are never included in these files.
+The proposal form connects to the deployed Cloudflare intake service and writes to the real private intake repository. Use clearly marked synthetic data for tests; never include somebody else's personal information. Server secrets are not included in these files.
 
-See [direct intake setup and validation](../../docs/proposal-intake.md). Code follows the repository license; content is CC BY-SA 4.0. Flamingo artwork is by OpenMoji, CC BY-SA 4.0.
+See [direct intake setup and validation](../../docs/proposal-intake.md). Code follows the repository license; content is CC BY-SA 4.0. Flamingo artwork is by OpenMoji; bundled font notices are included.

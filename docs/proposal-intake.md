@@ -16,10 +16,9 @@ The current design workspace also keeps the same preview in
 `local-redesigns/workshop-a-footer-1c/` in the parent workspace. Use one
 preview server at a time: both deliberately bind the same loopback port.
 
-For production integration, forward `/api/` requests from the website
-Worker through a `PROPOSAL_API` service binding to `libreaccessibility-intake`.
-The redesign and that website integration are separate from deploying the
-intake backend; the public website has not been replaced by this work.
+The production website Worker forwards `/api/` requests through its
+`PROPOSAL_API` service binding to `libreaccessibility-intake`. The website
+and intake are deployed separately; see [the release and migration guide](site-migration.md).
 
 ## Setup and deployment
 

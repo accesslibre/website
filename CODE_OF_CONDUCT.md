@@ -1,6 +1,6 @@
 # Code of Conduct
 
-IATF works in public to make accessibility easier to start, easier to publish,
+LibreAccessibility works in public to make accessibility easier to start, easier to publish,
 and easier to keep open. This community should be safe for everyone who shows
 up to do that work — especially people who rely on assistive technology.
 
@@ -20,7 +20,7 @@ up to do that work — especially people who rely on assistive technology.
 
 ## Unacceptable
 
-- Harassment, intimidation, or sustained disruption in any IATF channel.
+- Harassment, intimidation, or sustained disruption in any LibreAccessibility channel.
 - Discriminatory comments based on disability, race, gender, sexual
   orientation, religion, age, or any other personal characteristic.
 - Doxing, sharing private messages publicly, or pressuring contributors to
@@ -39,11 +39,11 @@ records the move from IATF's former community chair model.
 
 ## Scope
 
-This Code of Conduct applies to all IATF channels and repositories: GitHub,
-Discord, the website, email, and any IATF-affiliated event or call.
+This Code of Conduct applies to all LibreAccessibility channels and repositories: GitHub,
+Discord, the website, email, and any LibreAccessibility event or call.
 
 ## Acknowledgement
 
 This document is inspired by the [Contributor Covenant](https://www.contributor-covenant.org/)
-and adapted to IATF's accessibility-first focus. It is licensed under
+and adapted to LibreAccessibility's accessibility-first focus. It is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
