@@ -32,9 +32,9 @@
       "<strong>Odluke o projektu.</strong> Odluke o prihvaćanju, arhiviranju i preraspodjeli bilježe se kao izdanja ili objavljivanja u odgovarajućem repozitoriju i sumiraju se u javnom registru. <a href=\"/projects/\">registar</a>- Ne znam.",
       "<strong>Zahtjevati zapise.</strong> Javni zapisi zahtjeva pohranjeni su u IATF GitHub organizaciji, na ovoj internetskoj stranici, ili oboje. Zapisi mogu sažeti, urediti ili restrukturirati izvorni zahtjev tako da se potreba za pristupačnošću može pregledati bez izlaganja nepotrebnih osobnih podataka. Odluke o neslaganju su sažetke u javnom zapisu kada utječu na projekt ili odluku o upravljanju. Zapise zahtjeva isključeni su iz indeksiranja pretraživača gdje je tehnički praktično. Pogledajte zapise: zahtjev za prvim objavljivanjem u tijeku.",
       "<strong>Kod se mijenja.</strong> Svaka promjena koda je javna obveza na odgovarajućem repozitoriju. <a href=\"{{contact.githubOrgUrl}}\">GitHub organizacija</a>- Ne znam.",
-      "<strong>Promjene u upravljanju.</strong> Ažuriranja na stranici upravljanja prate se kao obaveze na <code>iatf-web stranica</code> Pogledajte repozitorij. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Istorija počinjenja</a> na GitHub-u.",
+      "<strong>Promjene u upravljanju.</strong> Ažuriranja na stranici upravljanja prate se kao obaveze na <code>iatf-web stranica</code> Pogledajte repozitorij. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Istorija počinjenja</a> na GitHub-u.",
       "<strong>Operativni troškovi.</strong> IATF održava niske operativne troškove i bilježi ponavljajuće troškove javne infrastrukture.",
-      "<strong>Koordinacijske bilješke.</strong> Napomene iz bilo kojeg koordiniranog pregleda ili odluke žive u GitHub rasprave o relevantnom repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Razgovori</a> na <code>iatf-web stranica</code> Repozitorij."
+      "<strong>Koordinacijske bilješke.</strong> Napomene iz bilo kojeg koordiniranog pregleda ili odluke žive u GitHub rasprave o relevantnom repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Razgovori</a> na <code>iatf-web stranica</code> Repozitorij."
     ]
   },
   "operatingCosts": {

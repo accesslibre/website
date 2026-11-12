@@ -32,9 +32,9 @@
       "<strong>Kukwata yiyulo ya mulimo.</strong> Jishimbi jakutambula mikanda, ni jishimbi jakusoneka mikanda, jize jizeji kusoloka mu mikanda, nawa jize jinashimutwila mu mikanda ya usongwelo. <a href=\"/projects/\">chijimbikilo</a>... hanji hanji .",
       "<strong>Yipula mikanda.</strong> Sango ja akwa-kufupila jili mu IATF GitHub, ha site yino, hanji ha mashimbu eswe aali. Sango jili ha kufupila, kunyonga, hanji kuhehwojola sango ja uputukilo, hanga atu ahase kulilongesa chakuhona kusolola sango ja mutu.",
       "<strong>Maliji kakwalumuka.</strong> Sango lieswe jize akwalumuna kakupwa sango lia mbunga ya usongwelo. Tala mukanda wa IATF <a href=\"{{contact.githubOrgUrl}}\">Chizavu cha GitHub</a>... hanji hanji .",
-      "<strong>Kuhinduka mu usongwelo.</strong> Kuzangamisa ha mutamba wa chiyulo chakusongwela kakulondezewa ngwe kupanjika ku chiwanyino cha usongwelo. <code>site ya IATF</code> Usongwelo wa maliji. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Kulinga chijimbikilo</a> ha GitHub.",
+      "<strong>Kuhinduka mu usongwelo.</strong> Kuzangamisa ha mutamba wa chiyulo chakusongwela kakulondezewa ngwe kupanjika ku chiwanyino cha usongwelo. <code>site ya IATF</code> Usongwelo wa maliji. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Kulinga chijimbikilo</a> ha GitHub.",
       "<strong>Ndando ja kukalakala.</strong> IATF kakutwama ni mbongo jinji jize anafwisa, nawa kakusonekena nawa ndando ja mashimbu eswe jize akufwisa.",
-      "<strong>Yisoneko ya usongwelo.</strong> Kuhehwojola ha kuhengwola chipwe kukwata chiyulo chili ha GitHub Kuhanjika ha chijimbikilo chilemu  tala <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Kuhanjika</a> Ku chihanda cha <code>site ya IATF</code> Sango lia maliji."
+      "<strong>Yisoneko ya usongwelo.</strong> Kuhehwojola ha kuhengwola chipwe kukwata chiyulo chili ha GitHub Kuhanjika ha chijimbikilo chilemu  tala <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Kuhanjika</a> Ku chihanda cha <code>site ya IATF</code> Sango lia maliji."
     ]
   },
   "operatingCosts": {

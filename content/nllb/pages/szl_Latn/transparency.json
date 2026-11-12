@@ -32,9 +32,9 @@
       "<strong>Decyzje projektōw.</strong> Decyzje ô akceptacyji, archiwizowaniu i przekształcaniu sōm rejestrowane za wydania abo wydania w ôdpednim repozytorium i podsumowane w publicznym rejestrze. <a href=\"/projects/\">rejestr</a>- Ja , jo tyż .",
       "<strong>Wymŏgać ôbskarżyniŏ.</strong> Publiczne zapisy prośb sōm przechowywane we ôrganizacyji IATF GitHub, na tyj strōnie internetowyj, abo we ôbōch. Zapisy mogōm podsumować, redagować abo restrukturyrować ôryginalne prośby tak, coby potrzeba dostympności mogła być przeglōndano bez ujawnianio niypotrzebnych danych ôsobistych. Decyzyje ô niyporozumiyniu sōm podsumowane w publicznym zapisie, kej wpływajōm na projekt abo decyzyjo ô zarzōndzaniu.",
       "<strong>Kod sie zmiynio.</strong> Kożdo zmiana kodowanio je publicznym kōmitym w ôdpednim repozytorium. <a href=\"{{contact.githubOrgUrl}}\">Ôrganizacyjo GitHub</a>- Ja , jo tyż .",
-      "<strong>Zmiany w zarzōndzaniu.</strong> Aktualizacyje na strōnie zarzōndzanio sōm śledziōne za <code>Strōna internetowo IATF</code> Ôbejzdrzij repozytōr. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">historyjŏ kōmitowaniŏ</a> na GitHub.",
+      "<strong>Zmiany w zarzōndzaniu.</strong> Aktualizacyje na strōnie zarzōndzanio sōm śledziōne za <code>Strōna internetowo IATF</code> Ôbejzdrzij repozytōr. <a href=\"{{contact.githubOrgUrl}}/website/commits\">historyjŏ kōmitowaniŏ</a> na GitHub.",
       "<strong>Koszty ôperacyjne.</strong> IATF utrzimo koszty ôperacyjne na niskim poziōmie i rejestruje powtorzajōnce sie wydatki na infrastruktura publiczno.",
-      "<strong>Noty koordynacyje.</strong> Noty z kożdego skoordynowanygo przeglōndu abo decyzyje żywe na GitHubie Dyskusyje na ôdpednim repozytorium  View <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Dyskusyje</a> ô <code>Strōna internetowo IATF</code> repozytōr."
+      "<strong>Noty koordynacyje.</strong> Noty z kożdego skoordynowanygo przeglōndu abo decyzyje żywe na GitHubie Dyskusyje na ôdpednim repozytorium  View <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Dyskusyje</a> ô <code>Strōna internetowo IATF</code> repozytōr."
     ]
   },
   "operatingCosts": {

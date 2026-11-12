@@ -32,9 +32,9 @@
       "<strong>As decisións do proxecto.</strong> As decisións de aceptación, arquivo e reasignación rexístranse como emisións ou liberacións no repositorio relevante e resúmanse no rexistro público. <a href=\"/projects/\">rexistro</a>- Por que non ?",
       "<strong>Solicitar rexistros.</strong> Os rexistros públicos de solicitudes almacénanse na organización IATF GitHub, neste sitio web, ou en ambos. Os registros poden resumir, editar ou reestruturar a solicitude orixinal para que se poida revisar a necesidade de accesibilidade sen expoñer información persoal innecesaria. As decisións de discordia resúmanse no rexistro público cando afectan a un proxecto ou decisión de gobernanza. Os rexistos de solicitude están excluídos da indexación do motor de busca cando sexa técnicamente práctico. Ver rexistras: primeira solicitude de publicación pendente.",
       "<strong>Cambios de código.</strong> Cada cambio de código é un compromiso público no repositorio relevante. <a href=\"{{contact.githubOrgUrl}}\">Organización GitHub</a>- Por que non ?",
-      "<strong>Cambios na gobernanza.</strong> As actualizacións da páxina de gobernanza son rastrexadas como compromisos coa <code>IATF-sitio web</code> Repositorio. Ver o <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">cometer historial</a> en GitHub.",
+      "<strong>Cambios na gobernanza.</strong> As actualizacións da páxina de gobernanza son rastrexadas como compromisos coa <code>IATF-sitio web</code> Repositorio. Ver o <a href=\"{{contact.githubOrgUrl}}/website/commits\">cometer historial</a> en GitHub.",
       "<strong>Custos de explotación.</strong> A IATF mantén baixos os custos operativos e rexistra os gastos recorrentes de infraestrutura pública.",
-      "<strong>Notas de coordinación.</strong> Notas de calquera revisión ou decisión coordinada en directo en GitHub Discusións sobre o repositorio relevante  vista <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discusións</a> sobre o <code>IATF-sitio web</code> Repositorio."
+      "<strong>Notas de coordinación.</strong> Notas de calquera revisión ou decisión coordinada en directo en GitHub Discusións sobre o repositorio relevante  vista <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discusións</a> sobre o <code>IATF-sitio web</code> Repositorio."
     ]
   },
   "operatingCosts": {

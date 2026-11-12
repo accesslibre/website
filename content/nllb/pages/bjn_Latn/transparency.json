@@ -32,9 +32,9 @@
       "<strong>Keputusan proyek.</strong> Kaputusan panarimaan, panyimpanan, jo panugasan baru tacatat sabagai isu atau rilis di repositori sasuai, jo disimpulkan di pendaptaran publik. <a href=\"/projects/\">pendaptaran</a>tuh kan ...",
       "<strong>Minta catatan-catatan.</strong> Catatan parmintaan publik disimpan di organisasi IATF GitHub, di situs wéb ini, atawa kaduanya. Catatan kawa manyimpulakan, manyunting, atawa manyusun ulang parmintaan asli sahingga kaparluan aksesibilitas kawa diitihi tanpa mangungkapakan inpurmasi pribadi nang kada parlu. Kaputusan parsaingan disimpulakan ka dalam catatan publik pas buhannya mampangaruhi sabuah proyek atawa kaputusan pamarintahan.",
       "<strong>Kodenya diubah.</strong> Satiok parubahan kode marupoan pangakuan umum pado repositori nan relevan. <a href=\"{{contact.githubOrgUrl}}\">Organisasi GitHub</a>tuh kan ...",
-      "<strong>Parubahan pamarintahan.</strong> Parubahan-parubahan ka halaman pamarintahan dilacak sabagai pangakuan ka <code>Laman web IATF</code> Melihat repositori. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">manulis sajarah</a> di GitHub.",
+      "<strong>Parubahan pamarintahan.</strong> Parubahan-parubahan ka halaman pamarintahan dilacak sabagai pangakuan ka <code>Laman web IATF</code> Melihat repositori. <a href=\"{{contact.githubOrgUrl}}/website/commits\">manulis sajarah</a> di GitHub.",
       "<strong>Biaya operasi.</strong> IATF mampartahanakan biaya operasi nang randah wan mancatat biaya infrastruktur publik taulang. Sajak 2022, biaya taulang utama adalah ngaran domain.",
-      "<strong>Catatan koordinasi.</strong> Catatan matan sabuting tinjauan atawa kaputusan nang dikoordinasikan hidup di GitHub Pembahasan pada repositori nang relevan  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Pembahasan-pembahasan</a> nang <code>Laman web IATF</code> repositori."
+      "<strong>Catatan koordinasi.</strong> Catatan matan sabuting tinjauan atawa kaputusan nang dikoordinasikan hidup di GitHub Pembahasan pada repositori nang relevan  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Pembahasan-pembahasan</a> nang <code>Laman web IATF</code> repositori."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>Projectbesluite.</strong> De beslissinge euver aanvaarding, archivering en hertoewijzing weure geregistreerd es issues of releases in 't relevante register en samengevat in de publieke register. <a href=\"/projects/\">register</a>Waat is ' t ?",
       "<strong>Verzoek registers.</strong> Publieke verzeukrecords weure opgeslage in de IATF GitHub organisatie, op deze website, of allebei. Records kinne de oersprunkeleke aanvraog samevatte, redigeere of herstructurere, zodat de toegankelijkheidsbehoefte kan weure beoordeild zoonder onnodige persoonsgegevens bloot te lieke. Discordbesluite weure samengevat in 't publieke register es ze 'n projek of bestuursbeslissing beïnvloede. Verzeukregister weure oetgesjlote oet de indexeering vaan zoeker, boe 't technisch praktisch is. Bekiekrecords: ierste publicatieverzeuk hangend.",
       "<strong>Code verandert.</strong> Iedere codeverandering is 'n publieke commit op de relevante repository. <a href=\"{{contact.githubOrgUrl}}\">GitHub organisatie</a>Waat is ' t ?",
-      "<strong>Verangeringe in 't bestuur.</strong> Updates to the governance page are tracked as commits to the <code>iatf-website</code> Bekijk de repository. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit gesjiedenis</a> op GitHub.",
+      "<strong>Verangeringe in 't bestuur.</strong> Updates to the governance page are tracked as commits to the <code>website</code> Bekijk de repository. <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit gesjiedenis</a> op GitHub.",
       "<strong>Operatiekosten.</strong> IATF houwt bedriuwskosten laag en registreert herhaolege koste veur publieke infrastructuur.",
-      "<strong>Coördinatienota's.</strong> Notities oet 'n gecoördineerde review of beslissing live in GitHub Discussies over de relevante repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Besprekinge</a> op de <code>iatf-website</code> opslagplaats."
+      "<strong>Coördinatienota's.</strong> Notities oet 'n gecoördineerde review of beslissing live in GitHub Discussies over de relevante repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Besprekinge</a> op de <code>website</code> opslagplaats."
     ]
   },
   "operatingCosts": {

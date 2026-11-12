@@ -32,9 +32,9 @@
       "<strong>Desizyon pwojè.</strong> Akseptasyon, achiv, ak desizyon reassignment yo anrejistre kòm pwoblèm oswa degaje nan depo ki enpòtan an, ak rezime nan rejis piblik la. <a href=\"/projects/\">rejis</a>Li te fè sa.",
       "<strong>Mande dosye.</strong> Dosye demann piblik yo estoke nan òganizasyon IATF GitHub, sou sit entènèt sa a, oswa tou de. Dosye yo ka rezime, modifye, oswa restriktire demann orijinal la pou bezwen aksè a ka revize san yo pa ekspoze enfòmasyon pèsonèl ki pa nesesè. Desizyon diskonteste yo rezime nan dosye piblik la lè yo afekte yon pwojè oswa desizyon gouvènans. Yo eskli dosye demann nan endèks motè rechèch kote teknikman pratik. Gade dosye: demann premye piblikasyon pandye.",
       "<strong>Kòd chanje.</strong> Chak chanjman kòd se yon angajman piblik sou depo ki enpòtan an. Wè IATF la <a href=\"{{contact.githubOrgUrl}}\">Òganizasyon GitHub</a>Li te fè sa.",
-      "<strong>Chanjman nan gouvènans.</strong> Mizajou nan paj gouvènans yo swiv kòm komèt nan <code>sit entènèt IATF</code> Repozitwa a. Wè <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">komèt istwa</a> sou GitHub.",
+      "<strong>Chanjman nan gouvènans.</strong> Mizajou nan paj gouvènans yo swiv kòm komèt nan <code>sit entènèt IATF</code> Repozitwa a. Wè <a href=\"{{contact.githubOrgUrl}}/website/commits\">komèt istwa</a> sou GitHub.",
       "<strong>Depans fonksyònman.</strong> IATF kenbe depans fonksyònman ba ak dosye depans enfrastrikti piblik renouvlab.",
-      "<strong>Nòt kowòdinasyon.</strong> Nòt ki soti nan nenpòt revizyon kowòdone oswa desizyon ap viv nan GitHub Diskisyon sou depo a ki enpòtan  View <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskisyon</a> sou <code>sit entènèt IATF</code> depo."
+      "<strong>Nòt kowòdinasyon.</strong> Nòt ki soti nan nenpòt revizyon kowòdone oswa desizyon ap viv nan GitHub Diskisyon sou depo a ki enpòtan  View <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskisyon</a> sou <code>sit entènèt IATF</code> depo."
     ]
   },
   "operatingCosts": {

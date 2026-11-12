@@ -32,9 +32,9 @@
       "<strong>Projekbesluite.</strong> Aanvaarding, argief, en hertoewysing besluite word aangeteken as kwessies of vrystellings in die betrokke bewaarplek, en saamgevat in die openbare register. <a href=\"/projects/\">registrasie</a>Ek weet .",
       "<strong>Versoek rekords.</strong> Openbare versoekrekords word gestoor in die IATF GitHub-organisasie, op hierdie webwerf, of albei. Rekords kan die oorspronklike versoek opsom, redigeer of herstruktureer sodat die toeganklikheidsbehoefte hersien kan word sonder om onnodige persoonlike inligting bloot te stel. Besluite van onenigheid word in die openbare rekord opgesom wanneer dit 'n projek- of bestuursbesluit beïnvloed. Versoekrekords is uitgesluit van die indeksering van soekenjins waar dit tegnies prakties is. Sien rekords: eerste publikasieversoek hangende.",
       "<strong>Kode verander.</strong> Elke kode verandering is 'n openbare verbinding op die betrokke bewaarplek. Sien die IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisasie</a>Ek weet .",
-      "<strong>Veranderinge in bestuur.</strong> Opdaterings aan die bestuur bladsy word opgespoor as verbind tot die <code>IATF-webwerf</code> Sien die <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">skryf geskiedenis</a> op GitHub.",
+      "<strong>Veranderinge in bestuur.</strong> Opdaterings aan die bestuur bladsy word opgespoor as verbind tot die <code>IATF-webwerf</code> Sien die <a href=\"{{contact.githubOrgUrl}}/website/commits\">skryf geskiedenis</a> op GitHub.",
       "<strong>Bedryfskoste.</strong> IATF hou bedryfskoste laag en rekords herhalende openbare infrastruktuur uitgawes.",
-      "<strong>Koördinasie notas.</strong> Notas van enige gekoördineerde hersiening of besluit leef in GitHub Besprekings oor die betrokke bewaarplek  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Besprekings</a> op die <code>IATF-webwerf</code> bewaarplek."
+      "<strong>Koördinasie notas.</strong> Notas van enige gekoördineerde hersiening of besluit leef in GitHub Besprekings oor die betrokke bewaarplek  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Besprekings</a> op die <code>IATF-webwerf</code> bewaarplek."
     ]
   },
   "operatingCosts": {

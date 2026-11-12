@@ -32,9 +32,9 @@
       "<strong>Avgjerd om prosjekt.</strong> Avgjerd om godkjenning, arkivering og omsetjing blir registrert som utgjevingar i det relevante arkivet, og oppsummert i det offentlege registeret. <a href=\"/projects/\">registeret</a>Eg veit ikkje.",
       "<strong>Ber om attrapportering.</strong> Public request records er lagra i IATF GitHub-organisasjonen, på denne nettsida, eller begge. Records kan oppsumera, redigera, eller omstrukturera den opphavlege forespørselen slik at tilgjengeskravet kan gjennomgåast utan å avsløre unødvendig personlig informasjon. Discord-beslutningar blir oppsummert i den offentlege rekorden når dei påverkar eit prosjekt eller styringsbeslutning. Request records er utelukka frå søkjemotorindeksering der det er teknisk mogleg. View records: first publication request pending.",
       "<strong>Kode endrar seg.</strong> Kvar kodebreyting er ein offentleg forplikting på det gjeldende repositoriet. Sjå IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisasjonar</a>Eg veit ikkje.",
-      "<strong>Styresett endrar seg.</strong> Oppdateringar på styringssida blir sporne som forpliktingar til <code>IATF-nettstad</code> Ta ein titt på databasen vår. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit-historikk</a> på GitHub.",
+      "<strong>Styresett endrar seg.</strong> Oppdateringar på styringssida blir sporne som forpliktingar til <code>IATF-nettstad</code> Ta ein titt på databasen vår. <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit-historikk</a> på GitHub.",
       "<strong>Operasjonskostnader.</strong> IATF held driftskostnadane låge og registrerer tilbakevendande utgifter til offentleg infrastruktur.",
-      "<strong>Koordinerte notater.</strong> Notater frå ein samordna gjennomgang eller vedtak ligg på GitHub Diskusjonar på det relevante repositoriet  Vis <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusjonar</a> på <code>IATF-nettstad</code> ein oppbevaringsstasjon."
+      "<strong>Koordinerte notater.</strong> Notater frå ein samordna gjennomgang eller vedtak ligg på GitHub Diskusjonar på det relevante repositoriet  Vis <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusjonar</a> på <code>IATF-nettstad</code> ein oppbevaringsstasjon."
     ]
   },
   "operatingCosts": {

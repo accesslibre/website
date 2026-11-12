@@ -32,9 +32,9 @@
       "<strong>Keuputosan proyek.</strong> keputusan penerimaan, arsip, dan penugasan ulang direkodkan sebage isu atau rilis di repositori relevan, dan diringkaskan di registry publik. <a href=\"/projects/\">registry (peuteugeot)</a>. nyan",
       "<strong>Permintaan rekaman.</strong> Catatan permintaan publik disimpan di organisasi IATF GitHub, di situs web nyoe, atau keduanya. Catatan jeut meringkas, menyunting, atau merestrukturisasi permintaan asli sehingga kebutuhan aksesibilitas dapat ditinjau tanpa mengekspos informasi pribadi yang tidak perlu. Keputusan perselisihan diringkaskan ke dalam catatan publik ketika mereka mempengaruhi proyek atau keputusan tata kelola. Catetan permintaan dikecualikan dari pengindeksan mesin pencari jika praktis secara teknis. Lihat catatan: permintaan publikasi pertama tertunda.",
       "<strong>Kode meuubah.</strong> tiep-tiep perubahan kode adalah saboh komitmen publik bak repositori nyang relevan. <a href=\"{{contact.githubOrgUrl}}\">Organisasi GitHub</a>. nyan",
-      "<strong>Perubahan peumeurintahan.</strong> Pembaruan bak halaman peumeurintahan ji lacak seubagai komitmen keu <code>iatf-website</code> repository. View the <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">seuneulheuëh jeuët</a> bak GitHub.",
+      "<strong>Perubahan peumeurintahan.</strong> Pembaruan bak halaman peumeurintahan ji lacak seubagai komitmen keu <code>website</code> repository. View the <a href=\"{{contact.githubOrgUrl}}/website/commits\">seuneulheuëh jeuët</a> bak GitHub.",
       "<strong>biaya operasi.</strong> IATF geujaga biaya operasi nyang rendah dan geu catat biaya infrastruktur publik nyang meuulang-ulang.",
-      "<strong>Catatan koordinasi.</strong> Catatan dari mandum tinjauan atawa keuputusan nyang terkoordinasi udep di GitHub Diskusi bak repositori nyang bersangkutan  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Pembahasan</a> bak <code>iatf-website</code> Repository nyan."
+      "<strong>Catatan koordinasi.</strong> Catatan dari mandum tinjauan atawa keuputusan nyang terkoordinasi udep di GitHub Diskusi bak repositori nyang bersangkutan  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Pembahasan</a> bak <code>website</code> Repository nyan."
     ]
   },
   "operatingCosts": {

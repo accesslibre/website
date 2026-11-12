@@ -32,9 +32,9 @@
       "<strong>Projekta lēmumi.</strong> Pieņemšanas, arhivēšanas un pārdalīšanas lēmumus reģistrē kā izdevumus vai izdojumus attiecīgajā datubāzē un apkopoj publiskajā reģistrā. <a href=\"/projects/\">reģistrs</a>Tas ir ...",
       "<strong>Lūgums par ierakstiem.</strong> Publiski pieprasījumu ieraksti tiek glabāti IATF GitHub organizācijā, šajā tīmekļa vietnē vai abiem. Ieraksti var apkopot, redaktēt vai pārstrukturēt sākotnējo pieprasījumu, lai varētu pārskatīt pieejamības nepieciešamību, neatklājot nevajadzīgu personisko informāciju. Nesaskaņas lēmumi tiek apkopoti publiskajā ierakstā, kad tie ietekmē projektu vai pārvaldības lēmumu.",
       "<strong>Kods mainās.</strong> Katra kodu maiņa ir publiska saistība attiecīgajā repozitorijā. <a href=\"{{contact.githubOrgUrl}}\">GitHub organizācija</a>Tas ir ...",
-      "<strong>Valdības pārmaiņas.</strong> Valdības lapas atjauninājumi tiek izsekoti, <code>IATF tīmekļa vietne</code> Repozitorijs. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">ierakstīšanas vēsture</a> GitHub.",
+      "<strong>Valdības pārmaiņas.</strong> Valdības lapas atjauninājumi tiek izsekoti, <code>IATF tīmekļa vietne</code> Repozitorijs. <a href=\"{{contact.githubOrgUrl}}/website/commits\">ierakstīšanas vēsture</a> GitHub.",
       "<strong>Darbības izmaksas.</strong> IATF uztur darbības izmaksas zemas un reģistrē atkārtojamos sabiedrisko infrastruktūru izdevumus.",
-      "<strong>Koordinācijas piezīmes.</strong> Piezīmes par jebkuru saskaņotu pārskatīšanu vai lēmumu, kas atrodas GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusijas</a> par <code>IATF tīmekļa vietne</code> Repozitorijs."
+      "<strong>Koordinācijas piezīmes.</strong> Piezīmes par jebkuru saskaņotu pārskatīšanu vai lēmumu, kas atrodas GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusijas</a> par <code>IATF tīmekļa vietne</code> Repozitorijs."
     ]
   },
   "operatingCosts": {

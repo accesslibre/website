@@ -32,9 +32,9 @@
       "<strong>Yiero mag timo tij gedo.</strong> Yiero mag rwako, kano, kod loko, ikwano kaka weche michiwo e kar kano weche madwarore, kendo iketo e ripode mag sirkal. <a href=\"/projects/\">kar kwan-gi</a>Mano ok nyal timore.",
       "<strong>Kwa mondo oornegi barupe.</strong> Rekod mag kwayo mag ji duto okan e riwruok mar IATF GitHub, e websaitni, kata giduto. Rekodgo nyalo choko, rieyo, kata loso kendo kwayo ma ne okwong go mondo oyud thuolo mar nonogi ma ok oketo weche ma ok ochuno e pach ng'ato. Yiero mag ywaruok itero e rekod mar ji duto sama gichiwo paro e wi chenro moro kata e wi kaka itiyo gi sirkal. Rekodi mag kwayo ok yudre e nonro mar masinde mag manyo weche ka mano nyalore. Nen rekod: kwayo mar gocho mokwongo pod ni nyime.",
       "<strong>Kode olokore.</strong> Lokruok moro amora mar kod oket e lela e kar kano weche madwarore. Ne IATF <a href=\"{{contact.githubOrgUrl}}\">Riwruok mar GitHub</a>Mano ok nyal timore.",
-      "<strong>Lokruok kuom kaka itiyo gi sirkal.</strong> Updates to the governance page are tracked as commits to the <code>websait mar IATF</code> Ng'i kar kano weche. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">kwano weche machon</a> e GitHub.",
+      "<strong>Lokruok kuom kaka itiyo gi sirkal.</strong> Updates to the governance page are tracked as commits to the <code>websait mar IATF</code> Ng'i kar kano weche. <a href=\"{{contact.githubOrgUrl}}/website/commits\">kwano weche machon</a> e GitHub.",
       "<strong>Pesa ma itiyogo e timo ohala.</strong> IATF oketo nengo mar tich piny kendo ondiko pesa ma itiyo godo e weche mag gedo. Chakre higa mar 2022, nengo maduong' ma itiyogo en nying' mar domain.",
-      "<strong>Ndiko mag ikruok.</strong> Weche mowach kuom nono kata ng'ado paro moro amora mochanore odak e GitHub Wuoyo e wi kar kano weche mowinjore  neno <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Mbaka</a> kuom <code>websait mar IATF</code> kar kano weche."
+      "<strong>Ndiko mag ikruok.</strong> Weche mowach kuom nono kata ng'ado paro moro amora mochanore odak e GitHub Wuoyo e wi kar kano weche mowinjore  neno <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Mbaka</a> kuom <code>websait mar IATF</code> kar kano weche."
     ]
   },
   "operatingCosts": {

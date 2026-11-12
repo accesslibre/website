@@ -32,9 +32,9 @@
       "<strong>Penderfyniadau prosiect.</strong> Caiff penderfyniadau derbyn, archifio a ail-asesiad eu cofnodi fel materion neu ryddhau yn y cronfa berthnasol, a'u crynhoi yn y gofrestr gyhoeddus. <a href=\"/projects/\">cofrestr</a>. yn ddelfrydol .",
       "<strong>Gofynnwch am gofnodion.</strong> Mae cofnodion ceisiadau cyhoeddus yn cael eu storio yn y sefydliad GitHub IATF, ar y wefan hon, neu'r ddau. Gall cofnod crynhoi, olygu, neu ailstrwythuro'r cais gwreiddiol fel y gellir adolygu'r angen hygyrchedd heb ddatgelu gwybodaeth bersonol diangen. Mae penderfyniadau anghytuno'n cael eu crynhau i'r cofnod cyhoeddus pan fyddant yn effeithio ar benderfyniad prosiect neu lywodraethu.",
       "<strong>Mae'r cod yn newid.</strong> Mae pob newid cod yn ymrwymiad cyhoeddus ar y cronfa berthnasol. <a href=\"{{contact.githubOrgUrl}}\">Sefydliad GitHub</a>. yn ddelfrydol .",
-      "<strong>Newidiadau mewn llywodraethu.</strong> Mae diweddariadau i'r dudalen llywodraethu yn cael eu tracio wrth ymrwymo i <code>gwefan iatf</code> Adolygu'r <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">ymrwymo hanes</a> ar GitHub.",
+      "<strong>Newidiadau mewn llywodraethu.</strong> Mae diweddariadau i'r dudalen llywodraethu yn cael eu tracio wrth ymrwymo i <code>gwefan iatf</code> Adolygu'r <a href=\"{{contact.githubOrgUrl}}/website/commits\">ymrwymo hanes</a> ar GitHub.",
       "<strong>Costiau gweithredu.</strong> Mae IATF yn cadw costau gweithredu'n isel ac yn cofnodi costau seilwaith cyhoeddus achlysurol.",
-      "<strong>Nodynnau cydlynu.</strong> Nodynnau o unrhyw adolygiad neu benderfyniad wedi'i gydlynu yn fyw yn GitHub <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Trafodaethau</a> ar y <code>gwefan iatf</code> cofrestrfa."
+      "<strong>Nodynnau cydlynu.</strong> Nodynnau o unrhyw adolygiad neu benderfyniad wedi'i gydlynu yn fyw yn GitHub <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Trafodaethau</a> ar y <code>gwefan iatf</code> cofrestrfa."
     ]
   },
   "operatingCosts": {

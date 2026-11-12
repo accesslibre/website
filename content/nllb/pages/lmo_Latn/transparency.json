@@ -32,9 +32,9 @@
       "<strong>Decisiù del progett.</strong> L'accettazion, l'archiviazion, e le decizion de reassegnazion vegnen registrade cumè emissiun o liberazion in del repository pertinent, e riassuntade in del register publich. <a href=\"/projects/\">registry</a>Oh , oh , oh .",
       "<strong>Chiedi i registri.</strong> I record de domanda publega i è conservaa in de l'organizzazion GitHub de la IATF, in de sto sit web, o in tutt e duu. I record i pœden riassumer, rediger o ristruturà la domanda originaria inscì che la necessità de accessibilità la pòda vèss riveduda senza mostrà infurmazion personal innecessaria.",
       "<strong>Cambiamènt de còdegh.</strong> Ogni cambiament de codif a l'è un commit pùblich in del repository pertinent. <a href=\"{{contact.githubOrgUrl}}\">Organizzazion de GitHub</a>Oh , oh , oh .",
-      "<strong>Cambiament de governanza.</strong> L'aggiornament de la pagina de governanza a l'è registrad cumè impegn a la <code>iatf-website</code> repository. View the <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit history[Modifega _ mudìfica 'l sorgènt]</a> su GitHub.",
+      "<strong>Cambiament de governanza.</strong> L'aggiornament de la pagina de governanza a l'è registrad cumè impegn a la <code>website</code> repository. View the <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit history[Modifega _ mudìfica 'l sorgènt]</a> su GitHub.",
       "<strong>Costi operativi.</strong> L'IATF el tegna i cost operativ bas e el registra i cost recurrent de l'infrastruttura publica.",
-      "<strong>Notes de coordinazion.</strong> Notes from any coordinated review or decision live in GitHub Discussions on the relevant repository  see <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discussioni</a> de la <code>iatf-website</code> repository."
+      "<strong>Notes de coordinazion.</strong> Notes from any coordinated review or decision live in GitHub Discussions on the relevant repository  see <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discussioni</a> de la <code>website</code> repository."
     ]
   },
   "operatingCosts": {

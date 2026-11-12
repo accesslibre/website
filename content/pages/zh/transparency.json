@@ -32,9 +32,9 @@
       "<strong>项目决策.</strong> 接受,存档和重新分配的决定被记录在相关存储库中的发行或发布,并在公共注册表中总结. 查看公众 <a href=\"/projects/\">登记处</a>这是什么?",
       "<strong>要求提供记录.</strong> 公共请求记录存储在IATF GitHub组织,本网站或两者之间.记录可能总结,编辑或重组原始请求,以便在不暴露不必要的个人信息的情况下审查可访问性需求.当它们影响项目或治理决定时,分歧的决定被总结到公共记录中.在技术上实际的情况下,请求记录被排除在搜索引擎索引之外.查看记录:第一个发布请求正在等待.",
       "<strong>代码发生了变化.</strong> 每个代码更改都是在相关存储库上公开提交. 查看IATF <a href=\"{{contact.githubOrgUrl}}\"> GitHub 组织</a>这是什么?",
-      "<strong>治理方式发生了变化.</strong> 监管页面的更新被追踪为对该网站的承诺. <code>国际货币基金组织网站</code> 查看我们的数据库. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">提交历史记录</a> 在GitHub上.",
+      "<strong>治理方式发生了变化.</strong> 监管页面的更新被追踪为对该网站的承诺. <code>国际货币基金组织网站</code> 查看我们的数据库. <a href=\"{{contact.githubOrgUrl}}/website/commits\">提交历史记录</a> 在GitHub上.",
       "<strong>运营成本</strong> IATF保持低运营成本,并记录经常性公共基础设施支出. 自2022年以来,主要的经常性成本是域名. 托管在可能的情况下使用免费层或低成本基础设施. 查看下面的操作成本记录.",
-      "<strong>协调的注意事项.</strong> 来自任何协调审查或决定的笔记在GitHub中 相关存储库的讨论 查看 <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">讨论</a> 在 <code>国际货币基金组织网站</code> 这是一个存储库."
+      "<strong>协调的注意事项.</strong> 来自任何协调审查或决定的笔记在GitHub中 相关存储库的讨论 查看 <a href=\"{{contact.githubOrgUrl}}/website/discussions\">讨论</a> 在 <code>国际货币基金组织网站</code> 这是一个存储库."
     ]
   },
   "operatingCosts": {

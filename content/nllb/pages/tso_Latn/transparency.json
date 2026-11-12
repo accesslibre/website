@@ -32,9 +32,9 @@
       "<strong>Swiboho swa ntirho.</strong> Swiboho swa ku amukeriwa, ku hlayisiwa ni ku tlhela ku averiwa swin'wana swi tsariwa tanihi timhaka leti humesiwaka kumbe ku humesiwa evuhlayiselweni lebyi faneleke, kutani swi katsakanyiwa eka rejistara ya mani na mani. <a href=\"/projects/\">rhekhodo</a>Xana . . .",
       "<strong>Kombela tirhekhodo.</strong> Tirhekhodo ta swikombelo swa mani na mani ti hlayisiwa eka nhlangano wa IATF GitHub, eka website leyi, kumbe eka haswimbirhi. Tirekhodo ti nga katsakanya, ku lulamisa, kumbe ku pfuxeta xikombelo xo sungula leswaku xilaveko xa ku fikeleleka xi ta kambisisiwa handle ko paluxa vuxokoxoko bya munhu hi yexe. Swiboho swa ku nga twanani swi katsakanyiwa eka rhekhodo ya le rivaleni loko swi khumba phurojeke kumbe xiboho xa mafumelo.",
       "<strong>Ku cinciwa tikhodi.</strong> Ku cinca kwihi na kwihi ka khodi i ku tiboha ka mani na mani eka vuhlayiselo lebyi faneleke. <a href=\"{{contact.githubOrgUrl}}\">Nhlangano wa GitHub</a>Xana . . .",
-      "<strong>Ku cinca ka vulawuri.</strong> Ku pfuxetiwa ka tluka ra vulawuri ku landzeleriwa tanihi ku tiboha eka <code>IATF-Website</code> Vona vuhlayiselo. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">rhekhodo ya ku tiboha</a> eka GitHub.",
+      "<strong>Ku cinca ka vulawuri.</strong> Ku pfuxetiwa ka tluka ra vulawuri ku landzeleriwa tanihi ku tiboha eka <code>IATF-Website</code> Vona vuhlayiselo. <a href=\"{{contact.githubOrgUrl}}/website/commits\">rhekhodo ya ku tiboha</a> eka GitHub.",
       "<strong>Timali leti tirhisiwaka.</strong> IATF yi hlayisa tihakelo ta matirhelo ti ri ehansi naswona yi rhekhoda mali leyi tirhisiwaka eka switirhisiwa swa mfumo.",
-      "<strong>Tinotsi ta ntirhisano.</strong> Tinotsi leti humaka eka nhlahluvo kumbe xiboho lexi hlanganisiweke ti tshama eka GitHub Mbulavurisano eka vuhlayiselo lebyi faneleke  langutisa <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Mbulavurisano</a> hi ku ya hi <code>IATF-Website</code> vuhlayiselo."
+      "<strong>Tinotsi ta ntirhisano.</strong> Tinotsi leti humaka eka nhlahluvo kumbe xiboho lexi hlanganisiweke ti tshama eka GitHub Mbulavurisano eka vuhlayiselo lebyi faneleke  langutisa <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Mbulavurisano</a> hi ku ya hi <code>IATF-Website</code> vuhlayiselo."
     ]
   },
   "operatingCosts": {

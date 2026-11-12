@@ -32,9 +32,9 @@
       "<strong>Decisiones del proyectu.</strong> Les decisiones d'aceptación, archivamientu y reasignación rexístrense como emisiones o publicaciones nel repositoriu correspondiente y resúmense nel rexistru públicu. <a href=\"/projects/\">Registru</a>- Sí , claro .",
       "<strong>Solicitar rexistros.</strong> Los rexistros de solicitúes públiques almacenaos na organización IATF GitHub, nesta páxina web, o en dambos.",
       "<strong>Cambios de códigu.</strong> Cada cambéu de códigu ye un compromisu públicu nel repositoriu correspondiente. <a href=\"{{contact.githubOrgUrl}}\">La organización GitHub</a>- Sí , claro .",
-      "<strong>Cambios de gobernación.</strong> Les actualizaciones de la páxina de gobernación son rastrexaes como compromisos cola entidá. <code>El sitiu web del IATF</code> Wikimedia Commons acueye conteníu multimedia sobre Actores y actrices de cine d'Estaos Xuníos . <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Históricu de comisiones</a> Wikimedia Commons acueye conteníu multimedia sobre Actores y actrices .",
+      "<strong>Cambios de gobernación.</strong> Les actualizaciones de la páxina de gobernación son rastrexaes como compromisos cola entidá. <code>El sitiu web del IATF</code> Wikimedia Commons acueye conteníu multimedia sobre Actores y actrices de cine d'Estaos Xuníos . <a href=\"{{contact.githubOrgUrl}}/website/commits\">Históricu de comisiones</a> Wikimedia Commons acueye conteníu multimedia sobre Actores y actrices .",
       "<strong>Los gastos de funcionamientu.</strong> La IATF tien costos operativos baxos y rexistra gastos recurrentes d'infraestructura pública.",
-      "<strong>Noticies de coordinación.</strong> Les notes de cualesquier revisión o decisión coordinada viven en GitHub Discusiones sobre'l repositoriu correspondiente  vista <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Los debates</a> Nel añu <code>El sitiu web del IATF</code> Repositoriu."
+      "<strong>Noticies de coordinación.</strong> Les notes de cualesquier revisión o decisión coordinada viven en GitHub Discusiones sobre'l repositoriu correspondiente  vista <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Los debates</a> Nel añu <code>El sitiu web del IATF</code> Repositoriu."
     ]
   },
   "operatingCosts": {

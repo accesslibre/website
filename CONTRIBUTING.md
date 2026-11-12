@@ -34,7 +34,7 @@ To exercise the live path end-to-end you need:
 
 1. A free Cloudflare account with a Turnstile site/secret pair.
 2. A free GitHub account with a personal access token that can open issues
-   on the intake repository (`international-accessibility-task-force/iatf-intake`
+   on the intake repository (`accesslibre/intake`
    in production, or any repo you control for testing).
 
 Copy `.env.example` to `.env`, fill in the values you need, then run:

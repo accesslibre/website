@@ -32,9 +32,9 @@
       "<strong>Projekta lāmumi.</strong> Pījimšonys, arhiveišonys i puorsavieršonys lāmumi teik īroksti kai izdavumi voi publiciejumi attīceigajā datubāzē i apkūpuoti publiskajā registrā. <a href=\"/projects/\">registriešona</a>Kaids tys beja?",
       "<strong>Pīpraseju īrokstus.</strong> Publiski pīprasejumu īroksti ir uzglobuoti IATF GitHub organizacejā, itamā vītnē voi obejūs. Īroksti var apkūpuot, redigēt voi restrukturēt suokūtnejuo pīprastejuma vajadzeibu, kab varātu puorbaudeit bez napīcīšamu personeigu informaceju. Napīteikumu lāmumi ir apkūpieti publiskajā īrokstā, kod tī ītekmej projektu voi puorvaļdeibys lāmumu.",
       "<strong>Kods mainuos.</strong> Kotrys koda izmainis ir publisks pīsacejums atbylstūšajā datubāzē. <a href=\"{{contact.githubOrgUrl}}\">GitHub organizaceja</a>Kaids tys beja?",
-      "<strong>Vaļsteibys puormejis.</strong> Apstyprynuojumi puorvaļdeibys puslopā teik nūvāruoti kai pīsacejumi <code>iatf interneta vītne</code> Repozitorijs. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">pīraksteit viesturi</a> GitHub tīšsaistis vītnē.",
+      "<strong>Vaļsteibys puormejis.</strong> Apstyprynuojumi puorvaļdeibys puslopā teik nūvāruoti kai pīsacejumi <code>iatf interneta vītne</code> Repozitorijs. <a href=\"{{contact.githubOrgUrl}}/website/commits\">pīraksteit viesturi</a> GitHub tīšsaistis vītnē.",
       "<strong>Darbnīceibys izmoksys.</strong> Nu 2022. goda golvonuos atkuortuojušuos izmoksys ir domenu nūsaukumi.",
-      "<strong>Koordinacejis īroksti.</strong> Sevkura saskaņuotuo puorskateišonys voi lāmumu īvāruojumi dzeivoj GitHub diskusejuos par attīceiguos atsarasšonys vītu  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusejis</a> par tū, ka <code>iatf interneta vītne</code> uzglabātuojs."
+      "<strong>Koordinacejis īroksti.</strong> Sevkura saskaņuotuo puorskateišonys voi lāmumu īvāruojumi dzeivoj GitHub diskusejuos par attīceiguos atsarasšonys vītu  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusejis</a> par tū, ka <code>iatf interneta vītne</code> uzglabātuojs."
     ]
   },
   "operatingCosts": {
