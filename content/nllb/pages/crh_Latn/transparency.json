@@ -32,9 +32,9 @@
       "<strong>Leyha qararları.</strong> Qabul etüv, arhivlenüv ve yañıdan tayin etüv qararları mütenasip anbarda meseleler ya da çıqaruvlar olaraq qayd etile ve açıq cedvelde qısqartıla. <a href=\"/projects/\">cedvelge aluv</a>. dep yazğan edi .",
       "<strong>Vesiqalarnı iste.</strong> Açıq muracaat qaydları IATF GitHub teşkilâtında, bu saytta ya da ekisinde de saqlanıla. qaydlar, kerekli şahsiy malümatnı bermeyip, irişilebilirlik ihtiyacını ğayrıdan baqıp çıqmaq içün asıl muracaatni qısqartmaq, redaktsiya etmek ya da ğayrıdan qurmaq mümkün. qarışıqlıq qararları, leyha ya da idare etüv qararına tesir etkende, açıq qaydlarğa qısqartalar. muracaatlar qaydları, tehnikiy ceetten mümkün olğan yerde, qıdıruv motorlarınıñ indekslenmesinden çıqarılalar. qaydlarnı baqmaq: ilk yayınlav muracaatı beklenile.",
       "<strong>Kod deñişe.</strong> Er bir kod deñiştirmesi, mütenasip esasında açıq bir tesbit ola. IATF-ni baqıñız <a href=\"{{contact.githubOrgUrl}}\">GitHub teşkilâtı</a>. dep yazğan edi .",
-      "<strong>İdareniñ deñişmeleri.</strong> İdare saifesindeki yañartmalar, <code>IATF-nıñ saytı</code> Mağazanı baqıñız. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">yañartma tarihı</a> GitHub saifesinde.",
+      "<strong>İdareniñ deñişmeleri.</strong> İdare saifesindeki yañartmalar, <code>IATF-nıñ saytı</code> Mağazanı baqıñız. <a href=\"{{contact.githubOrgUrl}}/website/commits\">yañartma tarihı</a> GitHub saifesinde.",
       "<strong>İşlev masrafları.</strong> IATF işletüv masraflarını alçaq tuta ve tekrarlanğan ictimaiy infrastruktura masraflarnı qayd ete. 2022 senesinden başlap esas tekrarlanğan masraflar domen adları oldı.",
-      "<strong>Koordinatsion qaydlar.</strong> Er bir koordinatsion teftiş ya da qarardan alınğan qaydlar GitHub'ta canlı olaraq bulunalar Mütenasip malümat deposınıñ muzakereleri  baqmaq <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Muzakereler</a> Şimdiki vaqıtta <code>IATF-nıñ saytı</code> Repozitoriya."
+      "<strong>Koordinatsion qaydlar.</strong> Er bir koordinatsion teftiş ya da qarardan alınğan qaydlar GitHub'ta canlı olaraq bulunalar Mütenasip malümat deposınıñ muzakereleri  baqmaq <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Muzakereler</a> Şimdiki vaqıtta <code>IATF-nıñ saytı</code> Repozitoriya."
     ]
   },
   "operatingCosts": {

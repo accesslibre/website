@@ -32,9 +32,9 @@
       "<strong>Odluke o projektu.</strong> Odluke o prihvatanju, arhiviranju i preraspodjeli bilježe se kao izdanja ili objavljivanja u odgovarajućem repozitoriju i sumiraju se u javnom registru. <a href=\"/projects/\">registar</a>- Šta?",
       "<strong>Zahtijevaju evidenciju.</strong> Javni zapisi zahtjeva se čuvaju u IATF GitHub organizaciji, na ovoj web stranici ili na oba. Zapisi mogu sažeti, urediti ili restrukturirati izvorni zahtjev tako da se potreba za pristupačnošću može pregledati bez izlaganja nepotrebnih ličnih podataka. Odluke o neslaganju su sažete u javni zapis kada utiču na projekt ili odluku o upravljanju.",
       "<strong>Kod se menja.</strong> Svaka promena koda je javna obaveza na odgovarajućem repozitoriju. <a href=\"{{contact.githubOrgUrl}}\">GitHub organizacija</a>- Šta?",
-      "<strong>Promene u upravljanju.</strong> Ažuriranja na stranici upravljanja se prate kao obaveze na <code>Stranica IATF-a</code> Pogledajte repozitorij. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Istorija prijave</a> na GitHub-u.",
+      "<strong>Promene u upravljanju.</strong> Ažuriranja na stranici upravljanja se prate kao obaveze na <code>Stranica IATF-a</code> Pogledajte repozitorij. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Istorija prijave</a> na GitHub-u.",
       "<strong>Operativni troškovi.</strong> IATF održava niske operativne troškove i bilježi ponavljajuće troškove javne infrastrukture.",
-      "<strong>Koordinacijske bilješke.</strong> Napomene iz bilo kog koordiniranog pregleda ili odluke žive u GitHub raspravama o relevantnom repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Rasprave</a> na <code>Stranica IATF-a</code> Repozitorij."
+      "<strong>Koordinacijske bilješke.</strong> Napomene iz bilo kog koordiniranog pregleda ili odluke žive u GitHub raspravama o relevantnom repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Rasprave</a> na <code>Stranica IATF-a</code> Repozitorij."
     ]
   },
   "operatingCosts": {

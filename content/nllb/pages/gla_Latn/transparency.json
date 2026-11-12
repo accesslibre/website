@@ -32,9 +32,9 @@
       "<strong>Co-dhùnaidhean pròiseict.</strong> Tha co-dhùnaidhean gabhail, clàraidh, agus ath-roinneadh air an clàradh mar chùisean no sgaoilidhean anns an tasglann iomchaidh, agus air an geàrr-chunntas ann an clàr poblach. <a href=\"/projects/\">clàr</a>Tha mi a ' smaoineachadh .",
       "<strong>Iarr clàran.</strong> Tha clàran iarrtasan poblach air an stòradh ann an buidheann GitHub IATF, air an làrach-lìn seo, no an dà chuid.",
       "<strong>Atharrachaidhean còd.</strong> Tha gach atharrachadh còd na dhleastanas poblach air an tasglann iomchaidh. Faic an IATF <a href=\"{{contact.githubOrgUrl}}\">Buidheann GitHub</a>Tha mi a ' smaoineachadh .",
-      "<strong>Atharrachaidhean riaghlaidh.</strong> Tha ùrachaidhean air an duilleag riaghlaidh air an lorg mar gheall air an <code>làraich-lìn iatf</code> Seall an clàr-tasgaidh. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">eachdraidh a dhèanamh</a> air GitHub.",
+      "<strong>Atharrachaidhean riaghlaidh.</strong> Tha ùrachaidhean air an duilleag riaghlaidh air an lorg mar gheall air an <code>làraich-lìn iatf</code> Seall an clàr-tasgaidh. <a href=\"{{contact.githubOrgUrl}}/website/commits\">eachdraidh a dhèanamh</a> air GitHub.",
       "<strong>Cosgaisean obrachaidh.</strong> Tha IATF a 'cumail cosgaisean obrachaidh ìosal agus a' clàradh chosgaisean bun-structair poblach ath-aithris.",
-      "<strong>Notaichean co-òrdanachaidh.</strong> Notaichean bho aon ath-sgrùdadh co-òrdanaichte no co-dhùnadh beò ann an GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Còmhraidhean</a> air an <code>làraich-lìn iatf</code> tasglann."
+      "<strong>Notaichean co-òrdanachaidh.</strong> Notaichean bho aon ath-sgrùdadh co-òrdanaichte no co-dhùnadh beò ann an GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Còmhraidhean</a> air an <code>làraich-lìn iatf</code> tasglann."
     ]
   },
   "operatingCosts": {

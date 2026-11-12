@@ -32,9 +32,9 @@
       "<strong>Disizon di prujétu.</strong> Disizon di aseitason, arkivason, y reasignason ta rejistadu komu izenson o libertason na repositóriu pertinenti, y resumidu na rejistu públiku. <a href=\"/projects/\">rejistu</a>N ta gostaba di sabe.",
       "<strong>Pidi artigus.</strong> Registras di pedidu públiku é guardadu na organizason di IATF GitHub, na es site, ô tudu dôs. Registros pode resumi, edita, ô restrutura pedidu orijinal di manera ki nesesidadi di aksesibilidadi pode ser revistadu sen mostra informason pesoal ki ka é nesesáriu. Disizon di diskórdia é resumidu na registu públiku óki es ta afeta un projetu ô disizon di guvernason.",
       "<strong>Kódigu ta muda.</strong> Kada mudansa di kódigu é un konpromisu públiku na rezidénsia relevante. Odja IATF <a href=\"{{contact.githubOrgUrl}}\">Organizason di GitHub</a>N ta gostaba di sabe.",
-      "<strong>Mudansa na manera di governa.</strong> Atualizasons na pájina di guvernason ta ser rastreadu komu konpromisu pa <code>pájina di internet di IATF</code> Repozitóriu. Odja <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">komete stória</a> na GitHub.",
+      "<strong>Mudansa na manera di governa.</strong> Atualizasons na pájina di guvernason ta ser rastreadu komu konpromisu pa <code>pájina di internet di IATF</code> Repozitóriu. Odja <a href=\"{{contact.githubOrgUrl}}/website/commits\">komete stória</a> na GitHub.",
       "<strong>Kustu di funsionamentu.</strong> IATF ta manti kustu operativu baxu y ta regista gastus rekorrenti di infraestrutura públiku.",
-      "<strong>Notas di koordenason.</strong> Notas di kualker revizon o disizon koordinadu ta fika na GitHub Diskuson sobri repositóriu relevante  vizualizason <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskuson</a> na kel <code>pájina di internet di IATF</code> Repozitóriu di informasons."
+      "<strong>Notas di koordenason.</strong> Notas di kualker revizon o disizon koordinadu ta fika na GitHub Diskuson sobri repositóriu relevante  vizualizason <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskuson</a> na kel <code>pájina di internet di IATF</code> Repozitóriu di informasons."
     ]
   },
   "operatingCosts": {

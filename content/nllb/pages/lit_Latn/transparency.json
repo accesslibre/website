@@ -32,9 +32,9 @@
       "<strong>Projekto sprendimai.</strong> Priėmimo, archyvavimo ir perskirstymo sprendimai registruojami atitinkamoje saugykloje kaip išdavimai arba išleidimai ir apibendrinami viešajame registre. <a href=\"/projects/\">registras</a>- Taip.",
       "<strong>Prašome įrašų.</strong> Viešųjų prašymų įrašai yra saugomi IATF GitHub organizacijoje, šioje svetainėje arba abiejuose. Įrašai gali apibendrinti, redaguoti ar restruktūrizuoti pradinį prašymą, kad prieinamumo poreikis galėtų būti peržiūrėtas neatskleidžiant nereikalingos asmeninės informacijos. Nesutarimų sprendimai apibendrinami į viešąjį įrašą, kai jie turi įtakos projekto ar valdymo sprendimui. Prašymo įrašai neįtraukiami į paieškos sistemos indeksavimą, kai tai techniškai įmanoma. Peržiūrėti įrašus: laukia pirmojo publikavimo prašymas.",
       "<strong>Kodas keičiasi.</strong> Kiekvienas kodo pakeitimas yra viešas patvirtinimas atitinkamoje saugykloje. <a href=\"{{contact.githubOrgUrl}}\">GitHub organizacija</a>- Taip.",
-      "<strong>Valdymo pokyčiai.</strong> Valdymo puslapio atnaujinimai stebimi kaip įsipareigojimai <code>IATF interneto svetainė</code> Apžiūrėkite <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Komiteto istorija</a> \"GitHub\".",
+      "<strong>Valdymo pokyčiai.</strong> Valdymo puslapio atnaujinimai stebimi kaip įsipareigojimai <code>IATF interneto svetainė</code> Apžiūrėkite <a href=\"{{contact.githubOrgUrl}}/website/commits\">Komiteto istorija</a> \"GitHub\".",
       "<strong>Veiklos išlaidos.</strong> IATF išlaiko mažas veiklos sąnaudas ir registruoja pasikartojančias viešosios infrastruktūros išlaidas.",
-      "<strong>Koordinacijos pastabos.</strong> Visų koordinuotų peržiūrų ar sprendimų pastabos tiesiogiai GitHub tinklalapyje Diskusijos apie atitinkamą saugyklą  žiūrėti <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskusijos</a> dėl <code>IATF interneto svetainė</code> duomenų saugykla."
+      "<strong>Koordinacijos pastabos.</strong> Visų koordinuotų peržiūrų ar sprendimų pastabos tiesiogiai GitHub tinklalapyje Diskusijos apie atitinkamą saugyklą  žiūrėti <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskusijos</a> dėl <code>IATF interneto svetainė</code> duomenų saugykla."
     ]
   },
   "operatingCosts": {

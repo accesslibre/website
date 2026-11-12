@@ -32,9 +32,9 @@
       "<strong>Bikateli ya mosala.</strong> Bikateli ya kondima, ya kobomba, mpe ya kobongola mikanda ekomamaka na mikanda ya Leta, mpe ekomami na mokuse na buku ya Leta. <a href=\"/projects/\">liste ya mikanda</a>Ezali mpenza bongo .",
       "<strong>Sɛngá mikanda.</strong> Mokanda ya bosengi ya bato nyonso ebombami na lisanga ya IATF GitHub, na site oyo, to na nyonso mibale. Mokanda ekoki kokomisa, kobongisa, to kobongisa lisusu lisengi ya ebandeli na boye ete bosenga ya makoki ya kosimba ekoki kotalelama kozanga kobimisa bansango ya moto. Bikateli ya kozanga boyokani biyebisami na mokanda ya bato banso ntango bizali na bopusi na mokano ya mosala to ya bokambi.",
       "<strong>Nkombo ya kode ebongwani.</strong> Mbongwana nyonso ya code ezali public commit na référentiel oyo etali yango. <a href=\"{{contact.githubOrgUrl}}\">Ebongiseli ya GitHub</a>Ezali mpenza bongo .",
-      "<strong>Mbongwana ya boyangeli.</strong> Biloko ya sika na page ya gouvernance elandamaka lokola misala na <code>site ya IATF</code> Kotala esika ya kobomba makambo. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">kokoma lisolo</a> na GitHub.",
+      "<strong>Mbongwana ya boyangeli.</strong> Biloko ya sika na page ya gouvernance elandamaka lokola misala na <code>site ya IATF</code> Kotala esika ya kobomba makambo. <a href=\"{{contact.githubOrgUrl}}/website/commits\">kokoma lisolo</a> na GitHub.",
       "<strong>Mosolo ya misala.</strong> IATF ebatelaka ntalo ya misala na nse mpe ekomaka ntalo oyo ebimaka mbala na mbala na ba infrastructures publiques. Kobanda 2022, ntalo monene oyo ezongaka ezali ba kombo ya domaine. Hosting esaleli free-tier to infrastructure ya ntalo moke soki ekoki.",
-      "<strong>Makomi mpo na koyokanisa makambo.</strong> Makomi ya bozongeli ya boyokani to ekateli ezali na bomoi na GitHub Masolo na référentiel oyo etali yango  kotala <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Masolo</a> na oyo etali <code>site ya IATF</code> esika ya kobomba makambo."
+      "<strong>Makomi mpo na koyokanisa makambo.</strong> Makomi ya bozongeli ya boyokani to ekateli ezali na bomoi na GitHub Masolo na référentiel oyo etali yango  kotala <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Masolo</a> na oyo etali <code>site ya IATF</code> esika ya kobomba makambo."
     ]
   },
   "operatingCosts": {

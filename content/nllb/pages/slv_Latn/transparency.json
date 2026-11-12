@@ -32,9 +32,9 @@
       "<strong>Odločitve o projektu.</strong> Odločbe o sprejetju, arhiviranju in prenosu se v ustreznem repozitoriju evidentirajo kot izdaje ali izdaje in povzeti v javnem registru. <a href=\"/projects/\">vpis v register</a>V redu je.",
       "<strong>Zahtevajte zapise.</strong> Javni zapisi zahtevkov so shranjeni v organizaciji IATF GitHub, na tej spletni strani ali na obeh. Zapisi lahko povzamejo, urejajo ali prestrukturirajo izvirni zahtevek, tako da je mogoče pregledati potrebo po dostopnosti, ne da bi razkrili nepotrebne osebne podatke. Odločitve o nesoglasju so povzete v javni zapis, ko vplivajo na odločitev o projektu ali upravljanju.",
       "<strong>Šifra se spreminja.</strong> Vsaka sprememba kode je javna obveznost v ustreznem repozitoriju. <a href=\"{{contact.githubOrgUrl}}\">Organizacija GitHub</a>V redu je.",
-      "<strong>Spremembe v upravljanju.</strong> Posodobitve na strani upravljanja se spremljajo kot obveze v <code>IATF-spletna stran</code> Poglej zbirko. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Zgodovina prijave</a> na GitHub-u.",
+      "<strong>Spremembe v upravljanju.</strong> Posodobitve na strani upravljanja se spremljajo kot obveze v <code>IATF-spletna stran</code> Poglej zbirko. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Zgodovina prijave</a> na GitHub-u.",
       "<strong>Stroški poslovanja.</strong> IATF ohranja nizke operativne stroške in beleži ponavljajoče se stroške javne infrastrukture.",
-      "<strong>Koordinacijski zapisi.</strong> Opombe iz katerega koli usklajenega pregleda ali odločitve v živo na GitHub Razprave o ustreznem repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Razprave</a> na <code>IATF-spletna stran</code> Repozitorij."
+      "<strong>Koordinacijski zapisi.</strong> Opombe iz katerega koli usklajenega pregleda ali odločitve v živo na GitHub Razprave o ustreznem repozitoriju  pogled <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Razprave</a> na <code>IATF-spletna stran</code> Repozitorij."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>計劃性嘅決定.</strong> 接收,存檔同埋重新分配嘅決定會喺相關資料庫以發行或釋出嘅形式記錄,並喺公開登記簿上總結. <a href=\"/projects/\">登記簿</a>我好開心.",
       "<strong>要求檔案.</strong> 公眾要求記錄存放在IATF GitHub組織,本網站,或兩者之中.記錄可以總結,編輯,或重組原始要求,使得可用性需要可以在不需要披露個人信息的情況下進行審查.當影響項目或治理決定時,分歧決定會被總結到公眾記錄中.在技術上實用的情況下,請求記錄被排除在搜索引擎索引入之外.查看記錄:第一個公開要求待發.",
       "<strong>代碼有變化.</strong> 每一個代碼變更都喺相關資料庫上公開提交. 查看 IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub 組織</a>我好開心.",
-      "<strong>治理方式有變化</strong> 監管頁面嘅更新會被追蹤到 <code>iatf網站</code> 查看資料庫. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit 歷史</a> 喺GitHub上.",
+      "<strong>治理方式有變化</strong> 監管頁面嘅更新會被追蹤到 <code>iatf網站</code> 查看資料庫. <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit 歷史</a> 喺GitHub上.",
       "<strong>經營成本.</strong> IATF保持低運營成本,並記錄公共基礎設施的經常性支出.從2022年開始,主要經常成本一直是網域名.主機喺可能時使用免費層或低成本的基礎建設.請見下面的運營費用記錄.",
-      "<strong>有關聯嘅筆記</strong> 任何協調審查或決定嘅筆記都喺GitHub上 討論有關資料庫嘅討論  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">討論</a> 喺 <code>iatf網站</code> 資料庫."
+      "<strong>有關聯嘅筆記</strong> 任何協調審查或決定嘅筆記都喺GitHub上 討論有關資料庫嘅討論  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">討論</a> 喺 <code>iatf網站</code> 資料庫."
     ]
   },
   "operatingCosts": {

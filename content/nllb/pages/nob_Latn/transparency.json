@@ -32,9 +32,9 @@
       "<strong>Prosjektbeslutninger.</strong> Beslutninger om godkjenning, arkivering og omfordeling registreres som utstedelser eller utgivelser i det relevante depotet, og oppsummeres i det offentlige registeret. <a href=\"/projects/\">register</a>- Ja, det gjør jeg.",
       "<strong>Be om opptegnelser.</strong> Offentlige forespørselsopptegnelser er lagret i IATF GitHub-organisasjonen, på denne nettsiden, eller begge deler. Opptegnelser kan oppsummere, redigere eller omstrukturere den originale forespørselen slik at tilgjengelighetsbehovet kan vurderes uten å eksponere unødvendig personlig informasjon. Uenighetsavgjørelser er oppsummert i den offentlige posten når de påvirker et prosjekt eller styringsbeslutning.",
       "<strong>Koder endres.</strong> Hver kodeendring er en offentlig forpliktelse på det relevante repositoriet. <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisasjon</a>- Ja, det gjør jeg.",
-      "<strong>Regjeringsendringer.</strong> Oppdateringer til styringssiden er sporet som forplikter seg til <code>IATF-nettsted</code> Viser innstillingen. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">innleveringshistorie</a> på GitHub.",
+      "<strong>Regjeringsendringer.</strong> Oppdateringer til styringssiden er sporet som forplikter seg til <code>IATF-nettsted</code> Viser innstillingen. <a href=\"{{contact.githubOrgUrl}}/website/commits\">innleveringshistorie</a> på GitHub.",
       "<strong>Driftskostnader.</strong> IATF holder driftskostnader lave og registrerer gjentakende offentlige infrastrukturkostnader.",
-      "<strong>Koordinasjon notater.</strong> Notater fra enhver koordinert gjennomgang eller beslutning lever på GitHub Diskusjoner om det relevante repositoriet  visning <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Forhandlinger</a> på <code>IATF-nettsted</code> lagringsplass."
+      "<strong>Koordinasjon notater.</strong> Notater fra enhver koordinert gjennomgang eller beslutning lever på GitHub Diskusjoner om det relevante repositoriet  visning <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Forhandlinger</a> på <code>IATF-nettsted</code> lagringsplass."
     ]
   },
   "operatingCosts": {

@@ -32,9 +32,9 @@
       "<strong>Avgerðir í sambandi við verkætlanina.</strong> Avgerðir um góðkenning, varðveitslu og endurnýtslu verða skrásettar sum útgávur ella frágreiðingar í viðkomandi goymslu, og summariseraðar í almenna skránni. <a href=\"/projects/\">skráseting</a>Hvat er tað?",
       "<strong>Bið um at fáa skránna.</strong> Public request records eru goymd í IATF GitHub organisatiónini, á hesari heimasíðuni, ella báðum.",
       "<strong>Koddurin broytist.</strong> Hvør kodubreyt er ein almenn játtan á viðkomandi goymslu. <a href=\"{{contact.githubOrgUrl}}\">GitHub-skipanin</a>Hvat er tað?",
-      "<strong>Stýrisskipanarbroytingar.</strong> Uppdateringar á leiðslusíðuni verða fylgdar, tá ið ásetingar verða gjørdar til <code>heimasíða hjá IATF</code> Sí vøruskránna. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">broyta søgu</a> á GitHub.",
+      "<strong>Stýrisskipanarbroytingar.</strong> Uppdateringar á leiðslusíðuni verða fylgdar, tá ið ásetingar verða gjørdar til <code>heimasíða hjá IATF</code> Sí vøruskránna. <a href=\"{{contact.githubOrgUrl}}/website/commits\">broyta søgu</a> á GitHub.",
       "<strong>Umsitingarligur kostnaður.</strong> IATF heldur rakstrarútreiðslurnar lágar og skrásetir afturvendandi almennar útgjaldsuppgávur.",
-      "<strong>Samráðingaruppgávur.</strong> Viðmerkingar frá einum samráðnum endurskoðanum ella avgerð liva í GitHub Kjak um viðkomandi goymslu  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Samrøður</a> um tað <code>heimasíða hjá IATF</code> goymslu."
+      "<strong>Samráðingaruppgávur.</strong> Viðmerkingar frá einum samráðnum endurskoðanum ella avgerð liva í GitHub Kjak um viðkomandi goymslu  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Samrøður</a> um tað <code>heimasíða hjá IATF</code> goymslu."
     ]
   },
   "operatingCosts": {

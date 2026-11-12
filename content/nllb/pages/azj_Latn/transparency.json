@@ -32,9 +32,9 @@
       "<strong>Layihə qərarları.</strong> Qəbul, arxivləşdirmə və yenidən təyinat qərarları müvafiq anbarda məsələlər və ya buraxılışlar kimi qeyd olunur və ictimai qeydiyyatda ümumiləşdirilir. <a href=\"/projects/\">qeydiyyat</a>.",
       "<strong>Məlumat tələb edin.</strong> İctimai sorğu qeydləri IATF GitHub təşkilatında, bu veb saytında və ya hər ikisində saxlanılır. Sənədlər orijinal sorğunun ümumiləşdirilməsi, redaktə edilməsi və ya yenidən qurulması ola bilər, belə ki, əlçatanlıq ehtiyacı lazımsız şəxsi məlumatları ifşa etmədən nəzərdən keçirilə bilər. Münaqişə qərarları bir layihə və ya idarəetmə qərarına təsir etdikdə ictimai qeydə yekunlaşdırılır. Tələb qeydləri texniki cəhətdən praktik olduğu təqdirdə axtarış motorunun indeksləşdirilməsindən xaric edilir. Qeydləri görün: ilk nəşr tələbi gözlənilir.",
       "<strong>Kod dəyişir.</strong> Hər bir kod dəyişikliyi müvafiq anbarda ictimai bir öhdəlikdir. <a href=\"{{contact.githubOrgUrl}}\">GitHub təşkilatı</a>.",
-      "<strong>İdarəetmə dəyişir.</strong> İdarəetmə səhifəsindəki yeniləmələr <code>ATƏT-in veb saytı</code> Repozitoriya baxın. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">öhdəlik tarixçəsi</a> GitHub-da.",
+      "<strong>İdarəetmə dəyişir.</strong> İdarəetmə səhifəsindəki yeniləmələr <code>ATƏT-in veb saytı</code> Repozitoriya baxın. <a href=\"{{contact.githubOrgUrl}}/website/commits\">öhdəlik tarixçəsi</a> GitHub-da.",
       "<strong>Əməliyyat xərcləri.</strong> IATF əməliyyat xərclərini aşağı saxlayır və təkrarlanan ictimai infrastruktura xərcləri qeyd edir.",
-      "<strong>Koordinasiya qeydləri.</strong> Hər hansı bir əlaqələndirilmiş araşdırma və ya qərarın qeydləri GitHub-da canlıdır Müvafiq anbarda müzakirələr  bax <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Müzakirələr</a> haqqında <code>ATƏT-in veb saytı</code> Depozitor."
+      "<strong>Koordinasiya qeydləri.</strong> Hər hansı bir əlaqələndirilmiş araşdırma və ya qərarın qeydləri GitHub-da canlıdır Müvafiq anbarda müzakirələr  bax <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Müzakirələr</a> haqqında <code>ATƏT-in veb saytı</code> Depozitor."
     ]
   },
   "operatingCosts": {

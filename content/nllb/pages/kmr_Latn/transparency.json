@@ -32,9 +32,9 @@
       "<strong>Biryarên projeyê.</strong> Biryarên qebûlkirinê, arşîvkirinê û nûvekirinê wekî mijar an belavkirinên di depoya têkildar de têne tomar kirin û di rejîsta giştî de bi kurtî têne nirxandin. <a href=\"/projects/\">lîsteya</a>.",
       "<strong>Daxuyaniyên daxwaznameyê.</strong> Daxuyaniyên daxwazên giştî di rêxistina IATF GitHub de, di vê malperê de, an herduyan de têne veşartin. Dibe ku qeydên daxwaza resmî, redaktîv bikin, an jî daxwaza orjînal ji nû ve saz bikin da ku pêwîstiya gihîştinê bêyî ku agahdariya şexsî ya ne hewce were nirxandin. Biryarên nakokiyê di qeydên giþtî de tên berhevkirin dema ku ew bandorê li projeyek an biryara rêveberiyê dikin. Daxûyaniyên daxwaznameyê ji endeksekirina motorên lêgerînê têne dûrxistin ku teknîkî pêkan e. Dîtina qeydan: daxwaza weşanê ya yekem li benda ye.",
       "<strong>Guhertinên kodê.</strong> Her guhertina kodê li ser depoya têkildar a giştî ye. <a href=\"{{contact.githubOrgUrl}}\">Rêxistina GitHub</a>.",
-      "<strong>Guhertinên rêveberiyê.</strong> Nûvekirinên ji bo rûpelê rêveberiyê tên şopandin wek ku ji bo <code>iatf-website</code> Repository. View the <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">dîroka pêkanînê</a> li ser GitHub.",
+      "<strong>Guhertinên rêveberiyê.</strong> Nûvekirinên ji bo rûpelê rêveberiyê tên şopandin wek ku ji bo <code>website</code> Repository. View the <a href=\"{{contact.githubOrgUrl}}/website/commits\">dîroka pêkanînê</a> li ser GitHub.",
       "<strong>Mesrefên operasyonê.</strong> IATF mesrefên xebitandinê kêm digire û mesrefa binesaziya giştî ya berdewam tomar dike.",
-      "<strong>Notên koordînasyonê.</strong> Notên ji her nirxandina koordîne an biryara zindî li GitHub Diyaloga li ser depoya têkildar  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Gotûbêj</a> li ser <code>iatf-website</code> depo."
+      "<strong>Notên koordînasyonê.</strong> Notên ji her nirxandina koordîne an biryara zindî li GitHub Diyaloga li ser depoya têkildar  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Gotûbêj</a> li ser <code>website</code> depo."
     ]
   },
   "operatingCosts": {

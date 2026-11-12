@@ -32,9 +32,9 @@
       "<strong>Desishonnan di proyekto.</strong> E decisionnan di aceptacion, archivo y reasignacion ta wordo registra como emision of publicacion den e repositorio relevante, y ta wordo resumi den e registro publico. <a href=\"/projects/\">registrashon</a>Mi ta kere .",
       "<strong>Solicitá registro.</strong> Rekordnan di peticion publico ta ser warda den e organisacion di IATF GitHub, riba e website aki, of tur dos. Rekord por resumi, redacta, of reestructura e peticion original pa asina por revisa e necesidad di accesibilidad sin expone informacion personal innecesario. Decisionnan di discordia ta ser resumi den e record publico ora cu nan ta afecta un proyecto of decision di gobernacion.",
       "<strong>Kòrda ta kambia.</strong> Tur kambio di kódigo ta un kompromiso públiko riba e repositorio relevante. <a href=\"{{contact.githubOrgUrl}}\">Organisashon di GitHub</a>Mi ta kere .",
-      "<strong>Cambionan den gobernacion.</strong> Aktualisashonnan na e página di gobernashon ta wòrdu registrá komo kompromiso ku e <code>iatf-website</code> Repositorio. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">kometé historia</a> riba GitHub.",
+      "<strong>Cambionan den gobernacion.</strong> Aktualisashonnan na e página di gobernashon ta wòrdu registrá komo kompromiso ku e <code>website</code> Repositorio. <a href=\"{{contact.githubOrgUrl}}/website/commits\">kometé historia</a> riba GitHub.",
       "<strong>Gastunan operashonal.</strong> IATF ta mantene e gastonan operativo abou i ta registrá gastonan recurente di infrastruktura públiko. For di 2022, e gastunan recurente prinsipal tabata nòmbernan di dominio.",
-      "<strong>Nota di koordinashon.</strong> Notanan di kualke revishon òf desishon koordiná ta na bida na GitHub Diskushon riba e repositorio relevante  View <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskushon</a> riba e <code>iatf-website</code> Repositorio."
+      "<strong>Nota di koordinashon.</strong> Notanan di kualke revishon òf desishon koordiná ta na bida na GitHub Diskushon riba e repositorio relevante  View <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskushon</a> riba e <code>website</code> Repositorio."
     ]
   },
   "operatingCosts": {

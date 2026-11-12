@@ -32,9 +32,9 @@
       "<strong>Projektbeslut.</strong> Beslut om godkännande, arkivering och omfördelning registreras som utfärdanden eller utgåvor i det relevanta arkivet och sammanfattas i det offentliga registret. <a href=\"/projects/\">Registret</a>- Vad är det?",
       "<strong>Begär inspelningar.</strong> Public request records lagras i IATF GitHub-organisationen, på denna webbplats eller båda. Records kan sammanfatta, redigera eller omstrukturera den ursprungliga begäran så att tillgänglighetsbehovet kan granskas utan att exponera onödig personlig information. Oenighetsbeslut sammanfattas i den offentliga posten när de påverkar ett projekt eller styrningsbeslut. Request records är uteslutna från sökmotorindeksering där det är tekniskt praktiskt. Visa register: första publiceringsbegäran väntar.",
       "<strong>Koden ändras.</strong> Varje kodändring är en offentlig commit på den relevanta databasen. <a href=\"{{contact.githubOrgUrl}}\">GitHub-organisation</a>- Vad är det?",
-      "<strong>Styrelseförändringar.</strong> Uppdateringar av styrningssidan spåras som åtaganden till <code>IATF-webbplats</code> Övervakning av databasen <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit-historik</a> på GitHub.",
+      "<strong>Styrelseförändringar.</strong> Uppdateringar av styrningssidan spåras som åtaganden till <code>IATF-webbplats</code> Övervakning av databasen <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit-historik</a> på GitHub.",
       "<strong>Driftskostnader.</strong> IATF håller driftskostnaderna låga och registrerar återkommande offentliga infrastrukturkostnader.",
-      "<strong>Samordningsnoteringar.</strong> Anmärkningar från en samordnad granskning eller ett samordnat beslut finns på GitHub <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Förhandlingar</a> på <code>IATF-webbplats</code> förvaringsplats."
+      "<strong>Samordningsnoteringar.</strong> Anmärkningar från en samordnad granskning eller ett samordnat beslut finns på GitHub <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Förhandlingar</a> på <code>IATF-webbplats</code> förvaringsplats."
     ]
   },
   "operatingCosts": {

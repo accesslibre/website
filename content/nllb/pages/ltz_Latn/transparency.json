@@ -32,9 +32,9 @@
       "<strong>Projet Entscheedungen.</strong> D'Akzeptanz, d'Archivéierung an d'Weiderzuelungsentscheedungen ginn als Ausgab oder Verëffentlechung am relevante Repository opgeholl an an der ëffentlecher Registry zesummegefaasst. <a href=\"/projects/\">d'Register</a>Dat ass wichteg .",
       "<strong>D'Aschreiwunge froen.</strong> Ëffentlech Ufro Rekorder sinn an der IATF GitHub Organisatioun gespäichert, op dëser Websäit, oder béid. Rekorder kënnen d'Original Ufro resuméieren, redigéieren, oder restrukturéieren sou datt d'Accessibilitéitsbedierfness iwwerschafft ka ginn ouni onnéideg perséinlech Informatioun auszesetzen.",
       "<strong>Code Ännerungen.</strong> All Code-Ännerung ass eng ëffentlech Commit op dem relevante Repository. View the IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub Organisatioun</a>Dat ass wichteg .",
-      "<strong>Verännerunge vun der Gouvernance.</strong> Aktualiséierunge fir d'Governance-Säit ginn als Engagementer fir de <code>IATF-Websäit</code> D'Repository. View d' <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Commit historesch</a> op GitHub.",
+      "<strong>Verännerunge vun der Gouvernance.</strong> Aktualiséierunge fir d'Governance-Säit ginn als Engagementer fir de <code>IATF-Websäit</code> D'Repository. View d' <a href=\"{{contact.githubOrgUrl}}/website/commits\">Commit historesch</a> op GitHub.",
       "<strong>Operatiounskäschten.</strong> D'IATF hält d'Operatiounskäschten niddereg an erfaasst déi widderhëltend ëffentlech Infrastrukturkäschten. Zënter 2022, sinn déi haaptsächlech widderhuelend Käschten Domain Nimm. Hosting huet gratis-Tier oder Low-Cost Infrastruktur benotzt wou méiglech.",
-      "<strong>Koordinatioun Noten.</strong> Notizen aus all koordinéierter Iwwerpréiwung oder Entscheedung liewen op GitHub Diskussiounen iwwer de relevante Repository  View <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskussiounen</a> op der <code>IATF-Websäit</code> Repository."
+      "<strong>Koordinatioun Noten.</strong> Notizen aus all koordinéierter Iwwerpréiwung oder Entscheedung liewen op GitHub Diskussiounen iwwer de relevante Repository  View <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskussiounen</a> op der <code>IATF-Websäit</code> Repository."
     ]
   },
   "operatingCosts": {

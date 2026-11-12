@@ -32,9 +32,9 @@
       "<strong>Projektaj decidoj.</strong> Akcepto, arkivado, kaj reasignado decidoj estas registritaj kiel temoj aŭ liberigoj en la koncerna deponejo, kaj resumita en la publika registro. <a href=\"/projects/\">registro</a>- Jes, sinjoro.",
       "<strong>Petu pri dokumentoj.</strong> Publikaj petoj estas konservitaj en la IATF GitHub-organizo, en ĉi tiu retejo, aŭ ambaŭ. Rekordoj povas resumi, redakti, aŭ restrukturigi la originan peton tiel ke la alirebleco bezono povas esti reviziita sen elmontrado de nenecesaj personaj informoj. Malkonsento decidoj estas resumitaj en la publika rekordo kiam ili influas projekton aŭ administrado decido. Peto registroj estas ekskluditaj de serĉilo indekso kie teknike praktika. Vidu rekordojn: unua publikigo peto atendanta.",
       "<strong>La kodo ŝanĝiĝas.</strong> Ĉiu kodŝanĝo estas publika kompromito en la koncerna deponejo. Vidu la IATF <a href=\"{{contact.githubOrgUrl}}\">GitHub-organizo</a>- Jes, sinjoro.",
-      "<strong>Regantaj ŝanĝoj.</strong> Ĝisdatigoj al la administrado paĝo estas spurita kiel devigas al la <code>IATF-retejo</code> Vidu la <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">komenci historion</a> en GitHub.",
+      "<strong>Regantaj ŝanĝoj.</strong> Ĝisdatigoj al la administrado paĝo estas spurita kiel devigas al la <code>IATF-retejo</code> Vidu la <a href=\"{{contact.githubOrgUrl}}/website/commits\">komenci historion</a> en GitHub.",
       "<strong>Komercaj kostoj.</strong> IATF konservas funkciigajn kostojn malaltaj kaj registras revenantajn publikajn infrastrukturajn elspezojn. Ekde 2022, la ĉefaj revenantaj kostoj estis domajnaj nomoj. Gastiganto uzis liber-nivelan aŭ malmultekostan infrastrukturon kie ebla. Vidu la funkciigan kostan rekordon malsupre.",
-      "<strong>Notoj pri kunordigo.</strong> Notoj de ajna kunordigita revizio aŭ decido vivas en GitHub Diskutoj pri la koncerna deponejo  Vido <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Diskutoj</a> sur la <code>IATF-retejo</code> deponejo."
+      "<strong>Notoj pri kunordigo.</strong> Notoj de ajna kunordigita revizio aŭ decido vivas en GitHub Diskutoj pri la koncerna deponejo  Vido <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Diskutoj</a> sur la <code>IATF-retejo</code> deponejo."
     ]
   },
   "operatingCosts": {

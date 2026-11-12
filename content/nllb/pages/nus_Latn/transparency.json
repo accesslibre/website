@@ -32,9 +32,9 @@
       "<strong>Duɔɔli̱ kɛ kui̱ la̱t.</strong> Lät tin caa nhɔk, tin caa tɔ̱w, kɛnɛ tin caa kuëŋ gua̱a̱th mi̱ dɔ̱ŋ caa kɛ gɔ̱r piny ɛ la tin caa ka̱m raar rɛy gua̱th tɔ̱ɔ̱wä kuakni̱, kä caa kɛ mat rɛy warɛgakä mi̱ caa gɔ̱ar piny kɛ kui̱i̱ nɛɛni̱ ti̱ ŋuan. <a href=\"/projects/\">kɛ̈l kɛ̈ɛ̈l</a>Ɛŋu mi ca la̱r ji̱?",
       "<strong>Go̱o̱r warɛgakni̱.</strong> Gua̱th tin laa görkɛ ruaacni̱ naath thi̱n laa kɛ laa tɔ̱a̱wkɛ kä IATF GitHub, kä website ɛmɛ, kiɛ gua̱thni̱ ti̱ti̱ da̱ŋ rɛw.",
       "<strong>Kɔdni̱ rɔ̱ gɛrkɛ.</strong> Ɛni̱ duɔ̱ɔ̱r mi̱ ci̱ rɔ gɛr kä kɔd ɛ mi̱ caa la̱th kä nɛy diaal rɛy gua̱th in caa tɔ̱w thi̱n. Guic IATF <a href=\"{{contact.githubOrgUrl}}\">Gua̱a̱th la̱t GitHub</a>Ɛŋu mi ca la̱r ji̱?",
-      "<strong>Kuäär duɔ̱ɔ̱rä cɛ rɔ gɛr.</strong> Lät tin pay la̱t kɛ kui̱i̱ guirä ŋɔaani̱ laa kɛ laa guɔ̱ɔ̱rkɛ mi̱ ci̱kɛ rɔ̱ la̱th lät. <code>IATF-wɛb-sayt</code> gua̱th tɔ̱ɔ̱wä. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">la̱t ni̱ tëë ci̱ tuɔɔk</a> kä GitHub.",
+      "<strong>Kuäär duɔ̱ɔ̱rä cɛ rɔ gɛr.</strong> Lät tin pay la̱t kɛ kui̱i̱ guirä ŋɔaani̱ laa kɛ laa guɔ̱ɔ̱rkɛ mi̱ ci̱kɛ rɔ̱ la̱th lät. <code>IATF-wɛb-sayt</code> gua̱th tɔ̱ɔ̱wä. <a href=\"{{contact.githubOrgUrl}}/website/commits\">la̱t ni̱ tëë ci̱ tuɔɔk</a> kä GitHub.",
       "<strong>Läätni̱ tin la̱tkɛ.</strong> IATF la̱thkɛ yio̱w lätni̱ piny kä gɔ̱a̱rkɛ pek yio̱o̱ni̱ tin laa tuɔɔkɛ kɛ kui̱i̱ kuakni̱ nath. Ni̱ kɛ ruɔ̱n 2022, kɛn tin di̱tni̱kɛn tin laa wɔ̱ kɛ wɔ̱ ɛ ci̱ötni̱ dööri̱ ti̱ gööl (domain names).",
-      "<strong>Lät ti̱ caa mat piny.</strong> Ruaacni̱ tin ca la̱t kɛ kui̱i̱ guäc ŋɔaani̱ kiɛ ca̱a̱p in dëë kuëŋ thi̱n baa kɛ kuëŋ kä GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Ruaacni̱</a> kɛ gua̱th <code>IATF-wɛb-sayt</code> gua̱th tɔ̱ɔ̱wä."
+      "<strong>Lät ti̱ caa mat piny.</strong> Ruaacni̱ tin ca la̱t kɛ kui̱i̱ guäc ŋɔaani̱ kiɛ ca̱a̱p in dëë kuëŋ thi̱n baa kɛ kuëŋ kä GitHub Discussions on the relevant repository  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Ruaacni̱</a> kɛ gua̱th <code>IATF-wɛb-sayt</code> gua̱th tɔ̱ɔ̱wä."
     ]
   },
   "operatingCosts": {

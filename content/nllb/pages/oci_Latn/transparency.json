@@ -32,9 +32,9 @@
       "<strong>Las decisions del projècte.</strong> Las decisions d'acceptacion, d'archivacion e de reassignacion son enregistradas coma d'emissions o de liberacions dins lo repertòri pertinent, e resumidas dins lo registre public. <a href=\"/projects/\">Registre</a>- Es plan .",
       "<strong>Demandan los registres.</strong> Los registres de las demandas publicas son amagats dins l'organizacion GitHub de l'IATF, sus aqueste sit web, o ambedos. los registres pòdon resumir, redigir, o reestructurar la demanda originala per que la necessitat d'accessibilitat se pòsca revisar sens expausar d'informacions personalas innecessàrias. las decisions de discòrdi son resumidas dins lo registres public quand afectan un projècte o una decision de governança.",
       "<strong>Cambiaments de còdi.</strong> Cada cambiament de còdi es un compromés public sul repertòri pertinent. <a href=\"{{contact.githubOrgUrl}}\">Organizacion GitHub</a>- Es plan .",
-      "<strong>Los cambiaments de govèrn.</strong> Las actualizacions de la pagina de govèrn son seguidas coma de <code>site de l'IATF</code> Veire lo <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">commit istòria</a> sus GitHub.",
+      "<strong>Los cambiaments de govèrn.</strong> Las actualizacions de la pagina de govèrn son seguidas coma de <code>site de l'IATF</code> Veire lo <a href=\"{{contact.githubOrgUrl}}/website/commits\">commit istòria</a> sus GitHub.",
       "<strong>Los còsts de foncionament.</strong> L'IATF manten los còsts d'operacion bas e enregistra las despensas recurrentas de l'infrastructura publica.",
-      "<strong>Notas de coordinacion.</strong> Las nòtas d'una revirada o decision coordenada son ligadas a GitHub Discussions sul repertòri pertinent  vista <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discussions</a> sus la <code>site de l'IATF</code> Repositòri."
+      "<strong>Notas de coordinacion.</strong> Las nòtas d'una revirada o decision coordenada son ligadas a GitHub Discussions sul repertòri pertinent  vista <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discussions</a> sus la <code>site de l'IATF</code> Repositòri."
     ]
   },
   "operatingCosts": {

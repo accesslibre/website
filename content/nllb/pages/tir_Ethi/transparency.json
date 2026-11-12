@@ -32,9 +32,9 @@
       "<strong>ውሳነታት ፕሮጀክት</strong> ናይ ተቐባልነት፡ ናይ መዝገብ፡ ከምኡ'ውን ናይ ዳግመ ምደባ ውሳኔታት ኣብ ዝምልከቶ መዝገብ ከም ጉዳያት ወይ ሓራ ምውጻእ ይምዝገቡ፡ ኣብ ህዝባዊ መዝገብ ድማ ይሓጽሩ። <a href=\"/projects/\">መዝገብ</a>እንታይ ማለትካ እዩ ?",
       "<strong>መዝገብ ጠይቕ።</strong> Public request records are stored in the IATF GitHub organization, on this website, or both. Records may summarize, redact, or restructure the original request so the accessibility need can be reviewed without exposing unnecessary personal information. ናይ ዘይምስምማዕ ውሳኔታት ንሓደ ፕሮጀክት ወይ ምምሕዳር ውሳነ ክጸልዎ እንከሎ ኣብ ህዝባዊ መዝገብ ክምዝገብ ይከኣል እዩ። ናይ ሕቶ መዛግብቲ ካብ መፍለዪ ኢንደክሲንግ ብቴክኒካዊ መዳይ ክውገዱ ይኽእሉ እዮም። መዝገብ ምርኣይ: ቀዳማይ ናይ ሕትመት ሕቶ ይጽበ ኣሎ።",
       "<strong>ኮድ ይቕየር።</strong> ኩሉ ናይ ኮድ ለውጢ ኣብ ዝምልከቶ መዝገብ (ሪፖዚቶሪ) ብህዝቢ ዝተኣወጀ እዩ። IATF ርኣዩ <a href=\"{{contact.githubOrgUrl}}\">GitHub ትካል</a>እንታይ ማለትካ እዩ ?",
-      "<strong>ናይ ምምሕዳር ለውጢ።</strong> ኣብ ገጻት ምምሕዳር ዝህሉ እዋናዊ ሓበሬታታት ከም ግዴታ ናይቲ <code>IATF-ዌብሳይት</code> ነቲ መዝገብ ምርኣይ <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">ታሪኽ ምፍጻም (commit history)</a> ኣብ GitHub.",
+      "<strong>ናይ ምምሕዳር ለውጢ።</strong> ኣብ ገጻት ምምሕዳር ዝህሉ እዋናዊ ሓበሬታታት ከም ግዴታ ናይቲ <code>IATF-ዌብሳይት</code> ነቲ መዝገብ ምርኣይ <a href=\"{{contact.githubOrgUrl}}/website/commits\">ታሪኽ ምፍጻም (commit history)</a> ኣብ GitHub.",
       "<strong>ናይ ስራሕ ወጻኢታት።</strong> IATF ናይ ስራሕ ወጻኢታት ትሑት ይገብርን ተደጋጋሚ ናይ ህዝባዊ መሰረተ ልምዓት ወጻኢታት ይምዝግብን። ካብ 2022 ኣትሒዙ፡ እቲ ቀንዲ ተደጋጋሚ ወጻኢታት ናይ ዶሜይን ስማት እዩ ነይሩ። ኣስተናጋዲ ኣብ ዝከኣለሉ እዋን ናጻ ደረጃ ወይ ትሕተ-ዋጋ መሰረተ-ልምዓት ተጠቒሙ እዩ። ናይ ስራሕ ዋጋ መዝገብ ኣብ ታሕቲ ተመልከት።",
-      "<strong>ናይ ምውህሃድ መዘኻኸሪታት።</strong> ካብ ዝኾነ ዝተወሃሃደ ገምጋም ወይ ውሳነ ዝተወስደ ኣስተምህሮ ኣብ GitHub Live ኣብ ዝምልከቶ መዝገብ ዝርርባት  view <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">ዘተታት</a> ኣብ <code>IATF-ዌብሳይት</code> መዛግብቲ።"
+      "<strong>ናይ ምውህሃድ መዘኻኸሪታት።</strong> ካብ ዝኾነ ዝተወሃሃደ ገምጋም ወይ ውሳነ ዝተወስደ ኣስተምህሮ ኣብ GitHub Live ኣብ ዝምልከቶ መዝገብ ዝርርባት  view <a href=\"{{contact.githubOrgUrl}}/website/discussions\">ዘተታት</a> ኣብ <code>IATF-ዌብሳይት</code> መዛግብቲ።"
     ]
   },
   "operatingCosts": {

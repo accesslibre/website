@@ -32,9 +32,9 @@
       "<strong>Deciziile proiectului.</strong> Deciziile de acceptare, arhivare și redistribuire sunt înregistrate ca emisiuni sau comunicări în depozitul relevant și rezumate în registrul public. <a href=\"/projects/\">înregistrare</a>- Da , domnule .",
       "<strong>Solicită înregistrări.</strong> Înregistrările de solicitări publice sunt stocate în organizația IATF GitHub, pe acest site web sau pe ambele. înregistrările pot rezuma, redacta sau restructura cererea inițială, astfel încât nevoia de accesibilitate să poată fi revizuită fără a expune informații personale inutile. Deciziile de neînțelegere sunt rezumate în înregistrarea publică atunci când afectează un proiect sau o decizie de guvernanță.",
       "<strong>Codul se schimbă.</strong> Fiecare modificare a codului este un angajament public pe depozitul relevant. <a href=\"{{contact.githubOrgUrl}}\">Organizația GitHub</a>- Da , domnule .",
-      "<strong>Schimbări de guvernare.</strong> Actualizările la pagina de guvernanță sunt urmărite ca angajamente la <code>site-ul IATF</code> Vizualizarea repozitoarelor. <a href=\"{{contact.githubOrgUrl}}/iatf-website/commits\">Istoricul comiterii</a> pe GitHub.",
+      "<strong>Schimbări de guvernare.</strong> Actualizările la pagina de guvernanță sunt urmărite ca angajamente la <code>site-ul IATF</code> Vizualizarea repozitoarelor. <a href=\"{{contact.githubOrgUrl}}/website/commits\">Istoricul comiterii</a> pe GitHub.",
       "<strong>Costuri de exploatare.</strong> IATF menține costurile de operare scăzute și înregistrează cheltuielile recurente pentru infrastructura publică.",
-      "<strong>Notă de coordonare.</strong> Notă de la orice revizuire sau decizie coordonată în direct pe GitHub Discuții despre depozitul relevant  vizualizare <a href=\"{{contact.githubOrgUrl}}/iatf-website/discussions\">Discuții</a> cu privire la <code>site-ul IATF</code> depozitar."
+      "<strong>Notă de coordonare.</strong> Notă de la orice revizuire sau decizie coordonată în direct pe GitHub Discuții despre depozitul relevant  vizualizare <a href=\"{{contact.githubOrgUrl}}/website/discussions\">Discuții</a> cu privire la <code>site-ul IATF</code> depozitar."
     ]
   },
   "operatingCosts": {
