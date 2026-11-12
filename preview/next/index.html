@@ -22,6 +22,8 @@ a{color:#26302A;text-underline-offset:.2em;text-decoration-thickness:.08em}
 a:hover{color:#2C6A33;text-decoration-thickness:.16em}
 :focus-visible{outline:3px solid #26302A;outline-offset:3px;border-radius:4px}
 h1,h2,h3,p,ul,ol{margin:0}
+.home-skip{position:absolute;left:1rem;top:-6rem;z-index:20;background:#fff;padding:.5rem 1rem}
+.home-skip:focus{top:1rem;outline:3px solid #26302A;outline-offset:3px}
 .projects-source{text-align:right}
 .project-links{margin:.25rem 0 0;font-size:1.125rem;line-height:1.55}
 .project-links [aria-disabled="true"]{color:#526055;text-decoration:underline;text-underline-offset:.2em;cursor:default}
@@ -33,7 +35,7 @@ h1,h2,h3,p,ul,ol{margin:0}
 @media(max-width:40rem){.projects-source{text-align:left}}
 </style>
 </helmet>
-<a href="#main" style="position:absolute;left:-999rem" style-focus="left:1rem;top:1rem;background:#fff;padding:.5rem 1rem;z-index:10">Skip to content</a>
+<a class="home-skip" href="#main">Skip to content</a>
 <header class="nav-header" style="max-width:72rem;margin:0 auto;padding:1.5rem;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between">
   <a href="index.html" onClick="{{ goHome }}" style="display:flex;align-items:center;gap:.75rem;text-decoration:none;line-height:1.05">
     <img src="./assets/flamingo.svg" alt="" width="48" height="48">

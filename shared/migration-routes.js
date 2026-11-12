@@ -7,7 +7,7 @@ const pages = {
   governance: '/about.html#how-we-work', accessibility: '/accessibility.html',
   transparency: '/transparency.html', sitemap: '/sitemap.html', languages: '/about.html#language',
   about: '/about.html', volunteer: '/jobs.html', jobs: '/jobs.html',
-  request: '/request.html', donate: '/donate.html', news: '/news.html',
+  voiceaccess: '/voiceaccess.html', request: '/request.html', donate: '/donate.html', news: '/news.html',
   blog: '/news.html', press: '/news.html', accessibilitat: '/accessibility.html'
 };
 const slugs = new Map(Object.keys(pages).map(key => [key,key]));
@@ -40,7 +40,7 @@ export function migrationTarget(pathname) {
   const key = slugs.get(segment);
   if (!key) return null;
   if (parts.length === 2 && key === 'projects' && projects[parts[1]]) {
-    return '/projects.html#' + projects[parts[1]];
+    return projects[parts[1]] === 'voiceaccess' ? '/voiceaccess.html' : '/projects.html#' + projects[parts[1]];
   }
   if (parts.length !== 1) return null;
   const target = pages[key];

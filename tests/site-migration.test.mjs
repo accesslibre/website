@@ -7,20 +7,20 @@ import {PUBLIC_LOCALES,NLLB_LOCALES} from '../shared/migration-locales.js';
 import {readFile} from 'node:fs/promises';
 
 test('built skip links remain on interior pages and nested 404 assets resolve at root',async()=>{
-  for (const page of ['about.html','accessibility.html','404.html']) {
+  for (const page of ['index.html','about.html','accessibility.html','404.html']) {
     const html=await readFile(new URL('../dist-libreaccessibility/'+page,import.meta.url),'utf8');
     const documentURL='https://libreaccessibility.org/'+(page==='404.html'?'missing/deep/path/':page);
     const base=html.match(/<base\s+href="([^"]+)"/)?.[1];
-    const skip=html.match(/<a class="skip" href="([^"]+)"/)[1];
+    const skip=html.match(/<a class="(?:home-skip|skip)" href="([^"]+)"/)[1];
     assert.equal(new URL(skip,base?new URL(base,documentURL):documentURL).href,documentURL+'#main');
-    const style=html.match(/<link rel="stylesheet" href="([^"]*css\/site.css)"/)[1];
-    assert.equal(new URL(style,documentURL).pathname,'/css/site.css');
+    const style=html.match(/<link rel="stylesheet" href="([^"]*css\/(?:site|footer-1c).css)"/)[1];
+    assert.match(new URL(style,documentURL).pathname,/^\/css\/(site|footer-1c)\.css$/);
   }
 });
 
 test('old routes, localized slugs and project details reach specific destinations',()=>{
   for (const [from,to] of Object.entries({
-    '/propose/':'/request.html','/join/':'/jobs.html','/governance/':'/about.html#how-we-work',
+    '/projects/robodk-voiceaccess/':'/voiceaccess.html','/propose/':'/request.html','/join/':'/jobs.html','/governance/':'/about.html#how-we-work',
     '/accessibility/':'/accessibility.html','/ca/accessibilitat/':'/accessibility.html',
     '/es/proyectos/iatf-website/':'/projects.html#iatf-website',
     '/nllb/ace-arab/projects/archived-iatf-bot/':'/projects.html#archived-iatf-bot',
